@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "影视榜单",
   description: "影视动画榜单",
   author: "阿米诺斯",
-  site: "https://github.com/quantumultxx/ForwardWidgets",
+  site: "https://github.com/quantumultxx",
   version: "1.0.0",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
