@@ -2,7 +2,7 @@ name: Daily crawl of JavRate actor data
 
 on:
   schedule:
-    - cron: '0 0 */3 * *'
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository code
         uses: actions/checkout@v4
@@ -22,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install -i https://pypi.tuna.tsinghua.edu.cn/simple requests beautifulsoup4
 
       - name: Configure Git user information
         run: |
@@ -31,6 +32,8 @@ jobs:
 
       - name: Run crawler script
         run: python Widgets/javrate_actor_crawler.py
+        env:
+          DEBUG: 'true'
 
       - name: Check if data file exists
         id: check_file
@@ -42,12 +45,24 @@ jobs:
             exit 1
           fi
 
-      - name: Commit and push data file
+      - name: Check for changes in data file
+        id: check_changes
         if: steps.check_file.outputs.file_exists == 'true'
         run: |
+          if ! git diff --quiet -- Widgets/javrate_actors.json; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push data file
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
           git add Widgets/javrate_actors.json
-          git commit -m "Auto-update: JavRate actor data"
+          git commit -m "Auto-update:($(TZ=Asia/Shanghai date +%Y-%m-%d_%H:%M:%S))"
           git push
-          echo "Data file successfully committed to repository"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          echo "Data file committed and pushed successfully."
+
+      - name: Notify if no changes
+        if: steps.check_changes.outputs.changes_detected == 'false'
+        run: echo "No changes detected in the data file. Skip commit."
