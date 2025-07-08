@@ -2,7 +2,7 @@ name: Daily crawl of JavRate actor data
 
 on:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 15 * * *'
   workflow_dispatch:
 
 jobs:
