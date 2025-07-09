@@ -9,7 +9,7 @@ if not TMDB_API_KEY:
     exit(1)
 
 BASE_URL = "https://api.themoviedb.org/3"
-SAVE_PATH = "tmdbNowPlaying.json"
+SAVE_PATH = os.path.join(os.getcwd(), "tmdbNowPlaying.json")
 
 def get_global_trending_cn(time_window: str = "day", media_type: str = "all"):
     if not TMDB_API_KEY:
@@ -118,12 +118,12 @@ if __name__ == "__main__":
     
     print("\n=== 今日热门 ===")
     if today_global:
-        for idx, item in enumerate(today_global[:20], 1):
+        for idx, item in enumerate(today_global[:5], 1):
             print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']}")
     
     print("\n=== 本周热门 ===")
     if week_global_movies:
-        for idx, item in enumerate(week_global_movies[:20], 1):
+        for idx, item in enumerate(week_global_movies[:5], 1):
             print(f"{idx}. {item['title']} (评分: {item['rating']})")
     
     print("\n=== 执行完成 ===")
