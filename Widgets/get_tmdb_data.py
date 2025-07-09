@@ -9,7 +9,7 @@ if not TMDB_API_KEY:
     exit(1)
 
 BASE_URL = "https://api.themoviedb.org/3"
-SAVE_PATH = "Widgets/tmdbNowPlaying.json"
+SAVE_PATH = "tmdbNowPlaying.json"
 
 def get_global_trending_cn(time_window: str = "day", media_type: str = "all"):
     if not TMDB_API_KEY:
@@ -29,16 +29,21 @@ def get_global_trending_cn(time_window: str = "day", media_type: str = "all"):
     }
     
     try:
-        response = requests.get(url, params=params)
+        print(f"正在请求API: {url}")
+        response = requests.get(url, params=params, timeout=10)
         response.raise_for_status()
         data = response.json()
+        
+        print("API返回数据样本(前2条):")
+        sample_data = data.get("results", [])[:2]
+        print(json.dumps(sample_data, indent=2, ensure_ascii=False))
         
         results = []
         for item in data.get("results", []):
             title = item.get("title") or item.get("name", "未知标题")
             release_date = item.get("release_date") or item.get("first_air_date", "未知日期")
             overview = item.get("overview", "暂无简介")
-            rating = round(item.get("vote_average", 0), 1)  # 评分保留1位小数
+            rating = round(item.get("vote_average", 0), 1)
             
             poster_url = f"https://image.tmdb.org/t/p/w500{item.get('poster_path')}" if item.get("poster_path") else "无海报"
             backdrop_url = f"https://image.tmdb.org/t/p/w500{item.get('backdrop_path')}" if item.get("backdrop_path") else "无背景图"
@@ -58,6 +63,7 @@ def get_global_trending_cn(time_window: str = "day", media_type: str = "all"):
                 "backdrop_url": backdrop_url
             })
         
+        print(f"共获取到 {len(results)} 条数据")
         return results
     
     except requests.exceptions.HTTPError as e:
@@ -68,10 +74,10 @@ def get_global_trending_cn(time_window: str = "day", media_type: str = "all"):
             print("提示：请检查 API Key 是否正确或已过期！")
         return []
     except requests.exceptions.RequestException as e:
-        print(f"网络请求失败: {e}")
+        print(f"网络请求失败: {str(e)}")
         return []
     except Exception as e:
-        print(f"解析数据失败: {e}")
+        print(f"解析数据失败: {str(e)}")
         return []
 
 def save_to_json(data: dict, file_path: str):
@@ -80,11 +86,18 @@ def save_to_json(data: dict, file_path: str):
         
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"数据已成功保存到 {file_path}")
+            f.flush()
+        
+        print(f"✅ 数据已成功保存到: {os.path.abspath(file_path)}")
+        return True
     except Exception as e:
-        print(f"保存文件失败: {e}")
+        print(f"❌ 保存文件失败: {str(e)}")
+        return False
 
 if __name__ == "__main__":
+    print("=== 开始执行TMDb数据获取 ===")
+    print(f"当前工作目录: {os.getcwd()}")
+    
     today_global = get_global_trending_cn(time_window="day", media_type="all")
     print(f"获取到 {len(today_global)} 条今日热门数据")
     
@@ -97,7 +110,11 @@ if __name__ == "__main__":
         "week_global_movies": week_global_movies
     }
     
-    save_to_json(data_to_save, SAVE_PATH)
+    save_success = save_to_json(data_to_save, SAVE_PATH)
+    
+    if not save_success:
+        print("⚠️ 文件保存失败，脚本将退出")
+        exit(1)
     
     print("\n=== 今日热门 ===")
     if today_global:
@@ -108,3 +125,5 @@ if __name__ == "__main__":
     if week_global_movies:
         for idx, item in enumerate(week_global_movies[:20], 1):
             print(f"{idx}. {item['title']} (评分: {item['rating']})")
+    
+    print("\n=== 执行完成 ===")
