@@ -36,7 +36,7 @@ WidgetMetadata = {
         description: "今日热门电影与剧集",
         requiresWebView: false,
         functionName: "loadTodayGlobalMedia",
-        cacheDuration: 900,
+        cacheDuration: 60,
         params: [
             { name: "language", title: "语言", type: "constant", value: "zh-CN" },
             { name: "page", title: "页码", type: "page" }
@@ -47,7 +47,7 @@ WidgetMetadata = {
         description: "本周热门电影与剧集",
         requiresWebView: false,
         functionName: "loadWeekGlobalMovies",
-        cacheDuration: 900,
+        cacheDuration: 60,
         params: [
             { name: "language", title: "语言", type: "constant", value: "zh-CN" },
             { name: "page", title: "页码", type: "page" }
