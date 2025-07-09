@@ -97,8 +97,8 @@ if __name__ == "__main__":
     today_global = get_global_trending_cn(time_window="day", media_type="all")
     print(f"获取到 {len(today_global)} 条今日热门数据")
     
-    week_global_movies = get_global_trending_cn(time_window="week", media_type="movie")
-    print(f"获取到 {len(week_global_movies)} 条本周热门数据")
+    week_global_all = get_global_trending_cn(time_window="week", media_type="all")
+    print(f"获取到 {len(week_global_all)} 条本周热门数据")
     
     beijing_timezone = timezone(timedelta(hours=8))
     beijing_now = datetime.now(beijing_timezone)
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     data_to_save = {
         "last_updated": last_updated,
         "today_global": today_global,
-        "week_global_movies": week_global_movies
+        "week_global_all": week_global_all
     }
     
     save_success = save_to_json(data_to_save, SAVE_PATH)
@@ -122,8 +122,8 @@ if __name__ == "__main__":
             print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']}")
     
     print("\n=== 本周热门 ===")
-    if week_global_movies:
-        for idx, item in enumerate(week_global_movies[:20], 1):
-            print(f"{idx}. {item['title']} (评分: {item['rating']})")
+    if week_global_all:
+        for idx, item in enumerate(week_global_all[:20], 1):
+            print(f"{idx}. {item['title']} (类型: {item['type']}, 评分: {item['rating']})")
     
     print("\n=== 执行完成 ===")
