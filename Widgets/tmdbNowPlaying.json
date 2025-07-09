@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09 23:46:37",
+    "last_updated": "2025-07-10 00:29:30",
     "today_global": [
         {
             "id": 1011477,
@@ -17,7 +17,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.0,
+            "rating": 7.1,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
@@ -37,19 +37,9 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 8.0,
+            "rating": 7.7,
             "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
-        },
-        {
-            "id": 1195518,
-            "title": "三恶人",
-            "type": "movie",
-            "release_date": "2025-06-13",
-            "overview": "",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
         },
         {
             "id": 272937,
@@ -62,6 +52,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
         },
         {
+            "id": 1195518,
+            "title": "三恶人",
+            "type": "movie",
+            "release_date": "2025-06-13",
+            "overview": "",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
+        },
+        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -72,16 +72,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
-            "id": 93405,
-            "title": "鱿鱼游戏",
-            "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
-        },
-        {
             "id": 986056,
             "title": "雷霆特攻队*",
             "type": "movie",
@@ -90,6 +80,16 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+        },
+        {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
             "id": 911430,
@@ -122,16 +122,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
         },
         {
-            "id": 246026,
-            "title": "边境追缉队",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/fbTN7FUbxkYwpu4UocvpbHuEQAZ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
-        },
-        {
             "id": 846422,
             "title": "永生守卫2",
             "type": "movie",
@@ -142,6 +132,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
+            "id": 246026,
+            "title": "边境追缉队",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/fbTN7FUbxkYwpu4UocvpbHuEQAZ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
+        },
+        {
             "id": 749170,
             "title": "国家元首",
             "type": "movie",
@@ -150,6 +150,16 @@
             "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
+        },
+        {
+            "id": 83095,
+            "title": "盾之勇者成名录",
+            "type": "tv",
+            "release_date": "2019-01-09",
+            "overview": "极为平凡的御宅族大学生岩谷尚文，受到在图书馆发现的一本书所引导，被召唤到了异世界。他被赋予的使命，是作为装备着剑、枪、弓、盾的四圣勇者之一“盾之勇者”，驱逐给世界带来混沌的灾害。因为大冒险而心潮澎湃，和同伴一同踏上旅程的尚文。但他刚出发没几天就遭到背叛，金钱和立场全都失去。变得无法相信他人的尚文，驱使着奴隶少女拉芙塔莉雅，向波和世界发起对抗。究竟他能否打破这种绝望的状况？失去一切的男人的成名奇幻故事，开幕。",
+            "rating": 8.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idjccqjILRhGn5FmjMcARJQLoMe.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/de6iC707SwuMsE3y2fo5OHCOsvj.jpg"
         },
         {
             "id": 79166,
@@ -180,16 +190,6 @@
             "rating": 7.6,
             "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
-        },
-        {
-            "id": 1137350,
-            "title": "腓尼基计划",
-            "type": "movie",
-            "release_date": "2025-05-23",
-            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
         },
         {
             "id": 122587,
@@ -224,14 +224,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
-            "id": 986056,
-            "title": "雷霆特攻队*",
-            "type": "movie",
-            "release_date": "2025-04-30",
-            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+            "id": 239826,
+            "title": "巴拉德",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+            "rating": 8.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/gavFqSLcxcGgqciAhFdnJDdnpLj.jpg"
         },
         {
             "id": 846422,
@@ -244,6 +244,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
+            "id": 986056,
+            "title": "雷霆特攻队*",
+            "type": "movie",
+            "release_date": "2025-04-30",
+            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+        },
+        {
             "id": 749170,
             "title": "国家元首",
             "type": "movie",
@@ -254,14 +264,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
-            "id": 239826,
-            "title": "巴拉德",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 8.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/gavFqSLcxcGgqciAhFdnJDdnpLj.jpg"
+            "id": 1011477,
+            "title": "功夫梦：融合之道",
+            "type": "movie",
+            "release_date": "2025-05-08",
+            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
             "id": 93405,
@@ -282,16 +292,6 @@
             "rating": 6.4,
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
-        },
-        {
-            "id": 1011477,
-            "title": "功夫梦：融合之道",
-            "type": "movie",
-            "release_date": "2025-05-08",
-            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
             "id": 911430,
@@ -354,6 +354,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 8.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
+        },
+        {
             "id": 1233413,
             "title": "罪人",
             "type": "movie",
@@ -374,14 +384,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/8RPS3tBXaVbungeYAysamXIibLR.jpg"
         },
         {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 8.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
+            "id": 83095,
+            "title": "盾之勇者成名录",
+            "type": "tv",
+            "release_date": "2019-01-09",
+            "overview": "极为平凡的御宅族大学生岩谷尚文，受到在图书馆发现的一本书所引导，被召唤到了异世界。他被赋予的使命，是作为装备着剑、枪、弓、盾的四圣勇者之一“盾之勇者”，驱逐给世界带来混沌的灾害。因为大冒险而心潮澎湃，和同伴一同踏上旅程的尚文。但他刚出发没几天就遭到背叛，金钱和立场全都失去。变得无法相信他人的尚文，驱使着奴隶少女拉芙塔莉雅，向波和世界发起对抗。究竟他能否打破这种绝望的状况？失去一切的男人的成名奇幻故事，开幕。",
+            "rating": 8.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idjccqjILRhGn5FmjMcARJQLoMe.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/de6iC707SwuMsE3y2fo5OHCOsvj.jpg"
         },
         {
             "id": 1087891,
@@ -392,16 +402,6 @@
             "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/2LV7qOYoqtSXDlTrPT62a8KjKLG.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/6van4BavoNXaZhCPdzLHNQ4Uc8H.jpg"
-        },
-        {
-            "id": 123249,
-            "title": "更衣人偶坠入爱河",
-            "type": "tv",
-            "release_date": "2022-01-09",
-            "overview": "男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
-            "rating": 8.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
         }
     ]
 }
