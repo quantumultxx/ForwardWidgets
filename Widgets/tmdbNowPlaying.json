@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 06:45:21",
+    "last_updated": "2025-07-10 07:22:45",
     "today_global": [
         {
             "id": 239826,
@@ -42,16 +42,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
         },
         {
-            "id": 1195518,
-            "title": "三恶人",
-            "type": "movie",
-            "release_date": "2025-06-13",
-            "overview": "",
-            "rating": 6.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
-        },
-        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -87,7 +77,7 @@
             "type": "movie",
             "release_date": "2025-07-01",
             "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.4,
+            "rating": 6.5,
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
@@ -100,6 +90,16 @@
             "rating": 7.8,
             "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
+        },
+        {
+            "id": 1195518,
+            "title": "三恶人",
+            "type": "movie",
+            "release_date": "2025-06-13",
+            "overview": "",
+            "rating": 6.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
         },
         {
             "id": 911430,
@@ -142,16 +142,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
         },
         {
-            "id": 846422,
-            "title": "永生守卫2",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
-        },
-        {
             "id": 246862,
             "title": "新·吊带袜天使",
             "type": "tv",
@@ -160,6 +150,16 @@
             "rating": 0.0,
             "poster_url": "https://image.tmdb.org/t/p/original/hCOYjAsPuZeJUH9iMSor7RhJBd6.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
+        },
+        {
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
             "id": 617126,
@@ -172,16 +172,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         },
         {
-            "id": 749170,
-            "title": "国家元首",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
-        },
-        {
             "id": 1151031,
             "title": "复活她",
             "type": "movie",
@@ -192,14 +182,24 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
-            "id": 1042834,
-            "title": "伊甸",
+            "id": 749170,
+            "title": "国家元首",
             "type": "movie",
-            "release_date": "2025-04-03",
-            "overview": "　　聚焦一群不可思议的人，他们独立背弃了社会，每个人都被渴望改变的强烈愿望所驱使，他们抛下一切，将自己的未来押在最不可能的地方——环境严酷的加拉帕戈斯群岛。",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/a4eOEvtsunTot0p2L88VMcIpnQX.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg"
+            "release_date": "2025-07-02",
+            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
+        },
+        {
+            "id": 1137350,
+            "title": "腓尼基计划",
+            "type": "movie",
+            "release_date": "2025-05-23",
+            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
+            "rating": 6.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
         }
     ],
     "week_global_all": [
@@ -249,7 +249,7 @@
             "type": "movie",
             "release_date": "2025-07-01",
             "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.4,
+            "rating": 6.5,
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
@@ -264,16 +264,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
-            "id": 749170,
-            "title": "国家元首",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
-        },
-        {
             "id": 239826,
             "title": "巴拉德",
             "type": "tv",
@@ -282,6 +272,16 @@
             "rating": 9.0,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
+        },
+        {
+            "id": 749170,
+            "title": "国家元首",
+            "type": "movie",
+            "release_date": "2025-07-02",
+            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
             "id": 1011477,
@@ -324,16 +324,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
-            "id": 114471,
-            "title": "钢铁之心",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "决心闯出一片天的年轻天才发明家莉莉·威廉姆斯，回到了家乡芝加哥。她打造的独特钢铁战甲令人赞叹，但在追逐自己的雄心壮志时，她卷入了与神秘而充满魅力的帕克·罗宾斯（即“红兜帽”）相关的事件中。",
-            "rating": 5.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/cdqVKwUv0QNCqN5Kf6NRtbmpO7s.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
-        },
-        {
             "id": 240411,
             "title": "胆大党",
             "type": "tv",
@@ -342,6 +332,16 @@
             "rating": 8.6,
             "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
+        },
+        {
+            "id": 114471,
+            "title": "钢铁之心",
+            "type": "tv",
+            "release_date": "2025-06-24",
+            "overview": "决心闯出一片天的年轻天才发明家莉莉·威廉姆斯，回到了家乡芝加哥。她打造的独特钢铁战甲令人赞叹，但在追逐自己的雄心壮志时，她卷入了与神秘而充满魅力的帕克·罗宾斯（即“红兜帽”）相关的事件中。",
+            "rating": 5.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/cdqVKwUv0QNCqN5Kf6NRtbmpO7s.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
         },
         {
             "id": 90802,
@@ -364,6 +364,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         },
         {
+            "id": 213830,
+            "title": "转生为第七王子，随心所欲的魔法学习之路",
+            "type": "tv",
+            "release_date": "2024-04-02",
+            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
+        },
+        {
             "id": 1429744,
             "title": "尸杀泰拳",
             "type": "movie",
@@ -384,24 +394,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg"
         },
         {
-            "id": 213830,
-            "title": "转生为第七王子，随心所欲的魔法学习之路",
+            "id": 246862,
+            "title": "新·吊带袜天使",
             "type": "tv",
-            "release_date": "2024-04-02",
-            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
-        },
-        {
-            "id": 1119878,
-            "title": "冰路营救：复仇",
-            "type": "movie",
-            "release_date": "2025-06-27",
-            "overview": "前作主角迈克前往尼泊尔，将弟弟的骨灰洒在珠穆朗玛峰上。当迈克和他的登山向导在乘坐旅游巴士旅行时遇到一群雇佣兵时，他们被迫战斗以营救自己、乘客和国家。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/r3irdRpuYocscbRH2ORt34LUPR1.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/962KXsr09uK8wrmUg9TjzmE7c4e.jpg"
+            "release_date": "2025-07-10",
+            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/hCOYjAsPuZeJUH9iMSor7RhJBd6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
         }
     ]
 }
