@@ -13,6 +13,15 @@
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Media.js"
     },
     {
+      "id": "forward.combined.media.lists",
+      "title": "影视榜单",
+      "description": "获取TMDB和豆瓣的榜单",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.0",
+      "author": "阿米诺斯",
+      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Move_list.js"
+    },
+    {
       "id": "jable",
       "title": "Jable",
       "description": "获取 Jable 推荐",
