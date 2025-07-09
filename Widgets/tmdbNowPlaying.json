@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 03:23:12",
+    "last_updated": "2025-07-10 03:40:23",
     "today_global": [
         {
             "id": 1011477,
@@ -92,16 +92,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 272466,
-            "title": "暗阳之下",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
-        },
-        {
             "id": 246026,
             "title": "边境追缉队",
             "type": "tv",
@@ -110,6 +100,16 @@
             "rating": 7.8,
             "poster_url": "https://image.tmdb.org/t/p/original/fbTN7FUbxkYwpu4UocvpbHuEQAZ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
+        },
+        {
+            "id": 272466,
+            "title": "暗阳之下",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
         },
         {
             "id": 986056,
@@ -142,16 +142,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
-            "id": 272937,
-            "title": "以法之名",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
-            "rating": 9.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
-        },
-        {
             "id": 749170,
             "title": "国家元首",
             "type": "movie",
@@ -162,14 +152,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
-            "id": 1137350,
-            "title": "腓尼基计划",
-            "type": "movie",
-            "release_date": "2025-05-23",
-            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
+            "id": 272937,
+            "title": "以法之名",
+            "type": "tv",
+            "release_date": "2025-06-24",
+            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
+            "rating": 9.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
         },
         {
             "id": 213830,
@@ -182,14 +172,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
         },
         {
-            "id": 90802,
-            "title": "睡魔",
-            "type": "tv",
-            "release_date": "2022-08-05",
-            "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/9ajhC8Gua5BvwHL1xRIGTYekekz.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
+            "id": 1137350,
+            "title": "腓尼基计划",
+            "type": "movie",
+            "release_date": "2025-05-23",
+            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
         },
         {
             "id": 617126,
@@ -200,6 +190,16 @@
             "rating": 0.0,
             "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
+        },
+        {
+            "id": 90802,
+            "title": "睡魔",
+            "type": "tv",
+            "release_date": "2022-08-05",
+            "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/9ajhC8Gua5BvwHL1xRIGTYekekz.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
         }
     ],
     "week_global_all": [
@@ -229,7 +229,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.0,
+            "rating": 7.1,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
@@ -254,16 +254,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
-            "id": 1234821,
-            "title": "侏罗纪世界：重生",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
-        },
-        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -272,6 +262,16 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
+        },
+        {
+            "id": 1234821,
+            "title": "侏罗纪世界：重生",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+            "rating": 6.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
             "id": 911430,
