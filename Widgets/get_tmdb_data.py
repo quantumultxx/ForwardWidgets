@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 if not TMDB_API_KEY:
@@ -33,10 +33,6 @@ def get_global_trending_cn(time_window: str = "day", media_type: str = "all"):
         response = requests.get(url, params=params, timeout=10)
         response.raise_for_status()
         data = response.json()
-        
-        print("API返回数据样本(前2条):")
-        sample_data = data.get("results", [])[:2]
-        print(json.dumps(sample_data, indent=2, ensure_ascii=False))
         
         results = []
         for item in data.get("results", []):
@@ -102,10 +98,14 @@ if __name__ == "__main__":
     print(f"获取到 {len(today_global)} 条今日热门数据")
     
     week_global_movies = get_global_trending_cn(time_window="week", media_type="movie")
-    print(f"获取到 {len(week_global_movies)} 条本周热门电影数据")
+    print(f"获取到 {len(week_global_movies)} 条本周热门数据")
+    
+    beijing_timezone = timezone(timedelta(hours=8))
+    beijing_now = datetime.now(beijing_timezone)
+    last_updated = beijing_now.strftime("%Y-%m-%d %H:%M:%S")
     
     data_to_save = {
-        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_updated": last_updated,
         "today_global": today_global,
         "week_global_movies": week_global_movies
     }
@@ -118,12 +118,12 @@ if __name__ == "__main__":
     
     print("\n=== 今日热门 ===")
     if today_global:
-        for idx, item in enumerate(today_global[:5], 1):
+        for idx, item in enumerate(today_global[:20], 1):
             print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']}")
     
     print("\n=== 本周热门 ===")
     if week_global_movies:
-        for idx, item in enumerate(week_global_movies[:5], 1):
+        for idx, item in enumerate(week_global_movies[:20], 1):
             print(f"{idx}. {item['title']} (评分: {item['rating']})")
     
     print("\n=== 执行完成 ===")
