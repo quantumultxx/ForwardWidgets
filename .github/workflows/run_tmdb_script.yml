@@ -45,7 +45,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/quantumultxx/ForwardWidgets.git
+          git remote set-url origin https://${{ secrets.Actions_Push_Tokn }}@github.com/quantumultxx/ForwardWidgets.git
 
       - name: Add updated JSON file to Git
         run: |
