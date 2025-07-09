@@ -167,7 +167,7 @@ def main():
     session = create_session()
     
     all_actors = {}
-    pages_to_scrape = 117  # 要爬取的页数
+    pages_to_scrape = 120  # 要爬取的页数
     total_actors_found = 0  # 总共找到的演员数量
     successful_pages = 0    # 成功处理的页面数量
     
