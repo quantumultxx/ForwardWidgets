@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09 21:04:42",
+    "last_updated": "2025-07-09 21:11:31",
     "today_global": [
         {
             "id": 1011477,
@@ -37,7 +37,7 @@
             "type": "tv",
             "release_date": "2025-07-09",
             "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.8,
+            "rating": 8.2,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gavFqSLcxcGgqciAhFdnJDdnpLj.jpg"
         },
@@ -52,16 +52,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
-            "id": 541671,
-            "title": "疾速追杀：芭蕾杀姬",
-            "type": "movie",
-            "release_date": "2025-06-04",
-            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
-        },
-        {
             "id": 986056,
             "title": "雷霆特攻队*",
             "type": "movie",
@@ -70,6 +60,16 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+        },
+        {
+            "id": 541671,
+            "title": "疾速追杀：芭蕾杀姬",
+            "type": "movie",
+            "release_date": "2025-06-04",
+            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
             "id": 911430,
@@ -112,6 +112,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
+        },
+        {
             "id": 1233413,
             "title": "罪人",
             "type": "movie",
@@ -140,16 +150,6 @@
             "rating": 6.9,
             "poster_url": "https://image.tmdb.org/t/p/original/6i9Dt9xtMgQETHCcuv842fmK8nd.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/tC51lHaYqyMKUE1W4rcr2vhi9QG.jpg"
-        },
-        {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 6.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
         },
         {
             "id": 79166,
@@ -187,19 +187,19 @@
             "type": "tv",
             "release_date": "2025-07-09",
             "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
-            "rating": 5.5,
+            "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/fbTN7FUbxkYwpu4UocvpbHuEQAZ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
         },
         {
-            "id": 1042834,
-            "title": "伊甸",
+            "id": 1477565,
+            "title": "全面失控：荷兰小镇派对之乱",
             "type": "movie",
-            "release_date": "2025-04-03",
-            "overview": "　　聚焦一群不可思议的人，他们独立背弃了社会，每个人都被渴望改变的强烈愿望所驱使，他们抛下一切，将自己的未来押在最不可能的地方——环境严酷的加拉帕戈斯群岛。",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/a4eOEvtsunTot0p2L88VMcIpnQX.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg"
+            "release_date": "2025-07-07",
+            "overview": "2012年，荷兰哈伦小镇的一名少女在Facebook上为自己的16岁生日派对创建了一个活动，却错误地将私密派对设置成了公开。受好莱坞电影《X计划》的启发，荷兰青少年们将这个活动迅速传播开来，很快便有成千上万的人报名参加。 尽管警方和当地政府发出警告，但他们仍然认为不会有人来参加。由于没有为抵达哈伦的大量年轻人提供任何招待，派对很快就演变成一场全面的骚乱。",
+            "rating": 5.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rZhenUlFlwwoLTyVRUV1kFVV0c6.jpg"
         }
     ],
     "week_global_movies": [
