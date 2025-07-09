@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 05:42:03",
+    "last_updated": "2025-07-10 05:54:15",
     "today_global": [
         {
             "id": 239826,
@@ -17,7 +17,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.1,
+            "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
@@ -42,6 +42,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
         },
         {
+            "id": 1195518,
+            "title": "三恶人",
+            "type": "movie",
+            "release_date": "2025-06-13",
+            "overview": "",
+            "rating": 6.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
+        },
+        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -50,16 +60,6 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
-        },
-        {
-            "id": 1195518,
-            "title": "三恶人",
-            "type": "movie",
-            "release_date": "2025-06-13",
-            "overview": "",
-            "rating": 7.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
         },
         {
             "id": 541671,
@@ -82,16 +82,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
-            "id": 246026,
-            "title": "边境追缉队",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
-            "rating": 8.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/gut76EbVg6UoMKm3tBXDaAhAP1G.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
-        },
-        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -102,14 +92,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 272466,
-            "title": "暗阳之下",
+            "id": 246026,
+            "title": "边境追缉队",
             "type": "tv",
             "release_date": "2025-07-09",
-            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
+            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
+            "rating": 8.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/gut76EbVg6UoMKm3tBXDaAhAP1G.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
         },
         {
             "id": 986056,
@@ -120,6 +110,16 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+        },
+        {
+            "id": 272466,
+            "title": "暗阳之下",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
         },
         {
             "id": 1233413,
@@ -192,14 +192,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
-            "id": 272937,
-            "title": "以法之名",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
-            "rating": 9.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
+            "id": 617126,
+            "title": "神奇4侠：初露锋芒",
+            "type": "movie",
+            "release_date": "2025-07-23",
+            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         }
     ],
     "week_global_all": [
@@ -209,7 +209,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.1,
+            "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
@@ -384,16 +384,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/962KXsr09uK8wrmUg9TjzmE7c4e.jpg"
         },
         {
-            "id": 1287536,
-            "title": "爱冒险的朵拉2",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "朵拉和她的朋友们出发寻找索尔多拉多的宝藏，但邪恶的势力也想染指这诱人的力量。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/9A0wQG38VdEu3DYh8HzXKXKhA6g.jpg"
-        },
-        {
             "id": 213830,
             "title": "转生为第七王子，随心所欲的魔法学习之路",
             "type": "tv",
@@ -402,6 +392,16 @@
             "rating": 7.7,
             "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
+        },
+        {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-08",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
         }
     ]
 }
