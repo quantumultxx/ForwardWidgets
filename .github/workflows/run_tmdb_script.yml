@@ -1,4 +1,4 @@
-name: Run TMDb Script
+name: TMDB Now Playing
 
 on:
   schedule:
