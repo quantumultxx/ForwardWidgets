@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09 22:28:42",
+    "last_updated": "2025-07-09 22:47:21",
     "today_global": [
         {
             "id": 1011477,
@@ -32,16 +32,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/gavFqSLcxcGgqciAhFdnJDdnpLj.jpg"
         },
         {
-            "id": 1195518,
-            "title": "三恶人",
-            "type": "movie",
-            "release_date": "2025-06-13",
-            "overview": "",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
-        },
-        {
             "id": 1429744,
             "title": "尸杀泰拳",
             "type": "movie",
@@ -52,14 +42,24 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
         },
         {
-            "id": 1234821,
-            "title": "侏罗纪世界：重生",
+            "id": 1195518,
+            "title": "三恶人",
             "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
+            "release_date": "2025-06-13",
+            "overview": "",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/waU3o5qRPNA9bIC59DIsDppll11.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
+        },
+        {
+            "id": 272937,
+            "title": "以法之名",
+            "type": "tv",
+            "release_date": "2025-06-24",
+            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
+            "rating": 9.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
         },
         {
             "id": 541671,
@@ -92,14 +92,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 272937,
-            "title": "以法之名",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
-            "rating": 9.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
+            "id": 1234821,
+            "title": "侏罗纪世界：重生",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+            "rating": 6.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
             "id": 93405,
@@ -152,16 +152,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
         },
         {
-            "id": 79166,
-            "title": "碧蓝之海",
-            "type": "tv",
-            "release_date": "2018-07-14",
-            "overview": "北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg"
-        },
-        {
             "id": 1233413,
             "title": "罪人",
             "type": "movie",
@@ -170,6 +160,16 @@
             "rating": 7.6,
             "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
+        },
+        {
+            "id": 79166,
+            "title": "碧蓝之海",
+            "type": "tv",
+            "release_date": "2018-07-14",
+            "overview": "北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg"
         },
         {
             "id": 82739,
@@ -182,16 +182,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/8RPS3tBXaVbungeYAysamXIibLR.jpg"
         },
         {
-            "id": 1137350,
-            "title": "腓尼基计划",
-            "type": "movie",
-            "release_date": "2025-05-23",
-            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
-        },
-        {
             "id": 122587,
             "title": "杜鹃的婚约",
             "type": "tv",
@@ -200,6 +190,16 @@
             "rating": 6.9,
             "poster_url": "https://image.tmdb.org/t/p/original/6i9Dt9xtMgQETHCcuv842fmK8nd.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/tC51lHaYqyMKUE1W4rcr2vhi9QG.jpg"
+        },
+        {
+            "id": 1137350,
+            "title": "腓尼基计划",
+            "type": "movie",
+            "release_date": "2025-05-23",
+            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
         }
     ],
     "week_global_all": [
@@ -264,16 +264,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
-            "id": 1011477,
-            "title": "功夫梦：融合之道",
-            "type": "movie",
-            "release_date": "2025-05-08",
-            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
-        },
-        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -282,6 +272,16 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
+        },
+        {
+            "id": 1011477,
+            "title": "功夫梦：融合之道",
+            "type": "movie",
+            "release_date": "2025-05-08",
+            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
             "id": 911430,
@@ -302,6 +302,16 @@
             "rating": 8.2,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gavFqSLcxcGgqciAhFdnJDdnpLj.jpg"
+        },
+        {
+            "id": 272937,
+            "title": "以法之名",
+            "type": "tv",
+            "release_date": "2025-06-24",
+            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
+            "rating": 9.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
         },
         {
             "id": 240411,
@@ -334,14 +344,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
         },
         {
-            "id": 272937,
-            "title": "以法之名",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
-            "rating": 9.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
+            "id": 1233413,
+            "title": "罪人",
+            "type": "movie",
+            "release_date": "2025-04-16",
+            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+            "rating": 7.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
             "id": 1151031,
@@ -352,16 +362,6 @@
             "rating": 7.3,
             "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
-        },
-        {
-            "id": 1233413,
-            "title": "罪人",
-            "type": "movie",
-            "release_date": "2025-04-16",
-            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-            "rating": 7.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
             "id": 82739,
@@ -384,16 +384,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg"
         },
         {
-            "id": 1119878,
-            "title": "冰路营救：复仇",
-            "type": "movie",
-            "release_date": "2025-06-27",
-            "overview": "前作主角迈克前往尼泊尔，将弟弟的骨灰洒在珠穆朗玛峰上。当迈克和他的登山向导在乘坐旅游巴士旅行时遇到一群雇佣兵时，他们被迫战斗以营救自己、乘客和国家。",
-            "rating": 7.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/r3irdRpuYocscbRH2ORt34LUPR1.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/962KXsr09uK8wrmUg9TjzmE7c4e.jpg"
-        },
-        {
             "id": 123249,
             "title": "更衣人偶坠入爱河",
             "type": "tv",
@@ -402,6 +392,16 @@
             "rating": 8.5,
             "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
+        },
+        {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
         }
     ]
 }
