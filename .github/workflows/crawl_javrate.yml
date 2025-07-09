@@ -1,4 +1,4 @@
-name: Daily crawl of JavRate actor data
+name: JavRate actor data
 
 on:
   schedule:
