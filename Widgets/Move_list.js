@@ -32,7 +32,7 @@ WidgetMetadata = {
         ]
     },
     {
-        title: "今日热门",
+        title: "TMDB 今日热门",
         description: "今日热门电影与剧集",
         requiresWebView: false,
         functionName: "loadTodayGlobalMedia",
@@ -43,7 +43,7 @@ WidgetMetadata = {
         ]
     },
     {
-        title: "本周热门",
+        title: "TMDB 本周热门",
         description: "本周热门电影与剧集",
         requiresWebView: false,
         functionName: "loadWeekGlobalMovies",
