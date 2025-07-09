@@ -669,7 +669,7 @@ async function loadTmdbNowPlayingData() {
         }
     } catch (error) {
         console.error("加载JSON数据失败:", error);
-        return { today_global: [], week_global_movies: [] };
+        return { today_global: [], week_global_all: [] };
     }
 }
 
@@ -702,7 +702,7 @@ async function loadWeekGlobalMovies(params) {
     const limit = 20;
     const start = (page - 1) * limit;
     
-    const weekItems = data.week_global_movies.slice(start, start + limit);
+    const weekItems = data.week_global_all.slice(start, start + limit);
     
     return weekItems.map(item => ({
         id: item.id.toString(),
