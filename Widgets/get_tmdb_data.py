@@ -99,12 +99,12 @@ if __name__ == "__main__":
     
     save_to_json(data_to_save, SAVE_PATH)
     
-    print("\n=== 今日热门（前10条） ===")
+    print("\n=== 今日热门 ===")
     if today_global:
-        for idx, item in enumerate(today_global[:10], 1):
+        for idx, item in enumerate(today_global[:20], 1):
             print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']}")
     
-    print("\n=== 本周热门（前10条） ===")
+    print("\n=== 本周热门 ===")
     if week_global_movies:
-        for idx, item in enumerate(week_global_movies[:10], 1):
+        for idx, item in enumerate(week_global_movies[:20], 1):
             print(f"{idx}. {item['title']} (评分: {item['rating']})")
