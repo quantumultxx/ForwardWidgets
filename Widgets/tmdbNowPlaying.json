@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 05:22:26",
+    "last_updated": "2025-07-10 05:42:03",
     "today_global": [
         {
             "id": 239826,
@@ -88,7 +88,7 @@
             "release_date": "2025-07-09",
             "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
             "rating": 8.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/fbTN7FUbxkYwpu4UocvpbHuEQAZ.jpg",
+            "poster_url": "https://image.tmdb.org/t/p/original/gut76EbVg6UoMKm3tBXDaAhAP1G.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
         },
         {
@@ -102,16 +102,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 986056,
-            "title": "雷霆特攻队*",
-            "type": "movie",
-            "release_date": "2025-04-30",
-            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
-        },
-        {
             "id": 272466,
             "title": "暗阳之下",
             "type": "tv",
@@ -120,6 +110,16 @@
             "rating": 10.0,
             "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
+        },
+        {
+            "id": 986056,
+            "title": "雷霆特攻队*",
+            "type": "movie",
+            "release_date": "2025-04-30",
+            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
             "id": 1233413,
@@ -172,16 +172,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
-            "id": 1151031,
-            "title": "复活她",
-            "type": "movie",
-            "release_date": "2025-05-28",
-            "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
-            "rating": 7.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
-        },
-        {
             "id": 1042834,
             "title": "伊甸",
             "type": "movie",
@@ -190,6 +180,16 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/a4eOEvtsunTot0p2L88VMcIpnQX.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg"
+        },
+        {
+            "id": 1151031,
+            "title": "复活她",
+            "type": "movie",
+            "release_date": "2025-05-28",
+            "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
+            "rating": 7.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
             "id": 272937,
@@ -304,16 +304,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
-            "id": 1151031,
-            "title": "复活她",
-            "type": "movie",
-            "release_date": "2025-05-28",
-            "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
-            "rating": 7.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
-        },
-        {
             "id": 1233413,
             "title": "罪人",
             "type": "movie",
@@ -324,14 +314,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
-            "id": 114471,
-            "title": "钢铁之心",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "决心闯出一片天的年轻天才发明家莉莉·威廉姆斯，回到了家乡芝加哥。她打造的独特钢铁战甲令人赞叹，但在追逐自己的雄心壮志时，她卷入了与神秘而充满魅力的帕克·罗宾斯（即“红兜帽”）相关的事件中。",
-            "rating": 5.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/cdqVKwUv0QNCqN5Kf6NRtbmpO7s.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
+            "id": 1151031,
+            "title": "复活她",
+            "type": "movie",
+            "release_date": "2025-05-28",
+            "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
+            "rating": 7.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
             "id": 240411,
@@ -354,14 +344,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
         },
         {
-            "id": 547016,
-            "title": "永生守卫",
-            "type": "movie",
-            "release_date": "2020-07-09",
-            "overview": "四名不死战士秘密地保护了人类几个世纪，就在他们发现一个新的不死人时，他们因自身的神秘力量而成为被攻击的对象。",
-            "rating": 7.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/pISd6XOsf48TcZp3GQyDB0FieJy.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg"
+            "id": 114471,
+            "title": "钢铁之心",
+            "type": "tv",
+            "release_date": "2025-06-24",
+            "overview": "决心闯出一片天的年轻天才发明家莉莉·威廉姆斯，回到了家乡芝加哥。她打造的独特钢铁战甲令人赞叹，但在追逐自己的雄心壮志时，她卷入了与神秘而充满魅力的帕克·罗宾斯（即“红兜帽”）相关的事件中。",
+            "rating": 5.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/cdqVKwUv0QNCqN5Kf6NRtbmpO7s.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
         },
         {
             "id": 617126,
@@ -372,6 +362,26 @@
             "rating": 0.0,
             "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
+        },
+        {
+            "id": 547016,
+            "title": "永生守卫",
+            "type": "movie",
+            "release_date": "2020-07-09",
+            "overview": "四名不死战士秘密地保护了人类几个世纪，就在他们发现一个新的不死人时，他们因自身的神秘力量而成为被攻击的对象。",
+            "rating": 7.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/pISd6XOsf48TcZp3GQyDB0FieJy.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg"
+        },
+        {
+            "id": 1119878,
+            "title": "冰路营救：复仇",
+            "type": "movie",
+            "release_date": "2025-06-27",
+            "overview": "前作主角迈克前往尼泊尔，将弟弟的骨灰洒在珠穆朗玛峰上。当迈克和他的登山向导在乘坐旅游巴士旅行时遇到一群雇佣兵时，他们被迫战斗以营救自己、乘客和国家。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/r3irdRpuYocscbRH2ORt34LUPR1.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/962KXsr09uK8wrmUg9TjzmE7c4e.jpg"
         },
         {
             "id": 1287536,
@@ -392,16 +402,6 @@
             "rating": 7.7,
             "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
-        },
-        {
-            "id": 1119878,
-            "title": "冰路营救：复仇",
-            "type": "movie",
-            "release_date": "2025-06-27",
-            "overview": "前作主角迈克前往尼泊尔，将弟弟的骨灰洒在珠穆朗玛峰上。当迈克和他的登山向导在乘坐旅游巴士旅行时遇到一群雇佣兵时，他们被迫战斗以营救自己、乘客和国家。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/r3irdRpuYocscbRH2ORt34LUPR1.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/962KXsr09uK8wrmUg9TjzmE7c4e.jpg"
         }
     ]
 }
