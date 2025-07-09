@@ -31,6 +31,12 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         working-directory: Widgets
         run: |
+          CURRENT_MINUTE=$(TZ=Asia/Shanghai date +"%M")
+          if [[ ! $CURRENT_MINUTE =~ ^(0|15|30|45)$ ]]; then
+            echo "当前分钟 $CURRENT_MINUTE 不在目标分钟(0,15,30,45)范围内，跳过执行"
+            exit 0
+          fi
+
           echo "开始运行 get_tmdb_data.py..."
           python get_tmdb_data.py
           echo "get_tmdb_data.py 运行完成"
