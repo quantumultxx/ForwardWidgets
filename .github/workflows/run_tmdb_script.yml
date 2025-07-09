@@ -64,7 +64,7 @@ jobs:
         if: steps.check_changes.outputs.changes_detected == 'true'
         run: |
           git add Widgets/tmdbNowPlaying.json
-          git commit -m "自动更新 Widgets/tmdbNowPlaying.json 文件 [skip ci] $(TZ=Asia/Shanghai date +%Y-%m-%d_%H:%M:%S)"
+          git commit -m "Auto-update:$(TZ=Asia/Shanghai date +%Y-%m-%d_%H:%M:%S)"
           git push --force-with-lease
           echo "数据文件已成功更新并推送"
 
