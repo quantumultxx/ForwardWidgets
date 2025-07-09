@@ -41,8 +41,8 @@ def get_global_trending_cn(time_window: str = "day", media_type: str = "all"):
             overview = item.get("overview", "暂无简介")
             rating = round(item.get("vote_average", 0), 1)
             
-            poster_url = f"https://image.tmdb.org/t/p/w500{item.get('poster_path')}" if item.get("poster_path") else "无海报"
-            backdrop_url = f"https://image.tmdb.org/t/p/w500{item.get('backdrop_path')}" if item.get("backdrop_path") else "无背景图"
+            poster_url = f"https://image.tmdb.org/t/p/original{item.get('poster_path')}" if item.get("poster_path") else "无海报"
+            backdrop_url = f"https://image.tmdb.org/t/p/original{item.get('backdrop_path')}" if item.get("backdrop_path") else "无背景图"
             
             item_type = media_type
             if media_type == "all":
