@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 04:26:22",
+    "last_updated": "2025-07-10 04:45:33",
     "today_global": [
         {
             "id": 239826,
@@ -17,7 +17,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.1,
+            "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
@@ -37,19 +37,9 @@
             "type": "movie",
             "release_date": "2025-07-08",
             "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 7.1,
+            "rating": 6.7,
             "poster_url": "https://image.tmdb.org/t/p/original/crYBmWgznCvCkVZZrELlf4ZU9ao.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/rrtmEp5jwhmgDx4U68yyJeydY3w.jpg"
-        },
-        {
-            "id": 93405,
-            "title": "鱿鱼游戏",
-            "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
             "id": 1195518,
@@ -72,6 +62,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
+        },
+        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -82,16 +82,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
-            "id": 246026,
-            "title": "边境追缉队",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
-            "rating": 8.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/fbTN7FUbxkYwpu4UocvpbHuEQAZ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
-        },
-        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -100,6 +90,16 @@
             "rating": 7.7,
             "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
+        },
+        {
+            "id": 246026,
+            "title": "边境追缉队",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
+            "rating": 8.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/fbTN7FUbxkYwpu4UocvpbHuEQAZ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
         },
         {
             "id": 986056,
@@ -132,16 +132,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
-            "id": 846422,
-            "title": "永生守卫2",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
-        },
-        {
             "id": 213830,
             "title": "转生为第七王子，随心所欲的魔法学习之路",
             "type": "tv",
@@ -150,6 +140,16 @@
             "rating": 7.7,
             "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
+        },
+        {
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
             "id": 749170,
@@ -162,6 +162,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
+            "id": 1151031,
+            "title": "复活她",
+            "type": "movie",
+            "release_date": "2025-05-28",
+            "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
+            "rating": 7.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
+        },
+        {
             "id": 272937,
             "title": "以法之名",
             "type": "tv",
@@ -172,26 +182,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
         },
         {
-            "id": 1137350,
-            "title": "腓尼基计划",
-            "type": "movie",
-            "release_date": "2025-05-23",
-            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
-        },
-        {
-            "id": 246862,
-            "title": "新·吊带袜天使",
-            "type": "tv",
-            "release_date": "2025-07-10",
-            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/hCOYjAsPuZeJUH9iMSor7RhJBd6.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
-        },
-        {
             "id": 1042834,
             "title": "伊甸",
             "type": "movie",
@@ -200,6 +190,16 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/a4eOEvtsunTot0p2L88VMcIpnQX.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg"
+        },
+        {
+            "id": 1137350,
+            "title": "腓尼基计划",
+            "type": "movie",
+            "release_date": "2025-05-23",
+            "overview": "欧洲军火与航空界的商业巨擘Zsa-zsa Korda（本尼西奥·德尔·托罗 Benicio del Toro 饰）为了执行神秘计划，指定自己的修女女儿Liesl（米娅·塞普雷顿 米娅·瑟普尔顿 饰）成为遗产的继承人，而另一群匪徒想要阻止这位大亨，混乱与杀戮就此展开。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/cSKmIEgbBC0Svt1OhpwDEzb4gz8.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg"
         }
     ],
     "week_global_all": [
@@ -219,7 +219,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.1,
+            "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
@@ -244,16 +244,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
-            "id": 93405,
-            "title": "鱿鱼游戏",
-            "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
-        },
-        {
             "id": 1234821,
             "title": "侏罗纪世界：重生",
             "type": "movie",
@@ -262,6 +252,16 @@
             "rating": 6.4,
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
+        },
+        {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
             "id": 749170,
@@ -284,16 +284,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 1011477,
-            "title": "功夫梦：融合之道",
-            "type": "movie",
-            "release_date": "2025-05-08",
-            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
-        },
-        {
             "id": 239826,
             "title": "巴拉德",
             "type": "tv",
@@ -302,6 +292,16 @@
             "rating": 9.0,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
+        },
+        {
+            "id": 1011477,
+            "title": "功夫梦：融合之道",
+            "type": "movie",
+            "release_date": "2025-05-08",
+            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
             "id": 1151031,
