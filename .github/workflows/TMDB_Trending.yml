@@ -1,0 +1,74 @@
+name: TMDB_Trending
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Python script
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        working-directory: Widgets
+        run: |
+          echo "开始运行 get_tmdb_data.py..."
+          python get_tmdb_data.py
+          echo "get_tmdb_data.py 运行完成"
+
+      - name: Check for changes in JSON file
+        id: check_changes
+        working-directory: Widgets  
+        run: |
+          if ! git diff --quiet -- tmdbNowPlaying.json; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Configure Git
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        working-directory: Widgets
+        run: |
+          git add tmdbNowPlaying.json
+          git commit -m "Auto-update:$(TZ=Asia/Shanghai date +%Y-%m-%d_%H:%M:%S)"
+          git push --force-with-lease
+          echo "数据文件已成功更新并推送"
+
+      - name: Notify if no changes
+        if: steps.check_changes.outputs.changes_detected == 'false'
+        run: echo "ℹ️ 未检测到数据文件变化，跳过提交"
