@@ -660,7 +660,7 @@ async function loadTmdbNowPlayingData() {
     }
     
     try {
-        const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/tmdbNowPlaying.json");
+        const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/TMDB_Trending.json");
         if (response && response.data) {
             tmdbNowPlayingData = response.data;
             return tmdbNowPlayingData;
