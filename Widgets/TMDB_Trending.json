@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11 05:54:39",
+    "last_updated": "2025-07-11 06:22:51",
     "today_global": [
         {
             "id": 1425045,
@@ -7,7 +7,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.1,
+            "rating": 5.2,
             "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
         },
@@ -52,36 +52,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
-            "id": 246862,
-            "title": "新·吊带袜天使",
-            "type": "tv",
-            "release_date": "2025-07-10",
-            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/kLhsue64k6zhe2mFXt9arBfEmlq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
-        },
-        {
-            "id": 241361,
-            "title": "真爱太用力",
-            "type": "tv",
-            "release_date": "2025-07-10",
-            "overview": "三十多岁的杰茜卡（梅根·斯塔尔特饰）是一位来自纽约的工作狂，感情的破裂让她大受打击。她曾以为这段感情会永远持续下去，并因此慢慢地孤立了她认识的每个人。当纽约的每个街区都在议论她的不良行为时，唯一的解决办法就是去伦敦找一份工作。在那里，她计划像勃朗特姐妹一样过着孤独的生活。但当她遇到“行走的危险信号”费利克斯（福田知盛饰）时，她发现他们之间不同寻常的联系是无法忽视的，尽管这种联系带来的问题比解决的还要多。现在他们不得不问自己：美国人和英国人真的说同一种语言吗？",
-            "rating": 6.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/jZXS6VgFhVsAqkT6oHuIo5VeCkw.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nq6fjPcMWvxkbiiXs8nYNe0j6Z6.jpg"
-        },
-        {
-            "id": 1234821,
-            "title": "侏罗纪世界：重生",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
-        },
-        {
             "id": 240411,
             "title": "胆大党",
             "type": "tv",
@@ -102,6 +72,36 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
+            "id": 241361,
+            "title": "真爱太用力",
+            "type": "tv",
+            "release_date": "2025-07-10",
+            "overview": "三十多岁的杰茜卡（梅根·斯塔尔特饰）是一位来自纽约的工作狂，感情的破裂让她大受打击。她曾以为这段感情会永远持续下去，并因此慢慢地孤立了她认识的每个人。当纽约的每个街区都在议论她的不良行为时，唯一的解决办法就是去伦敦找一份工作。在那里，她计划像勃朗特姐妹一样过着孤独的生活。但当她遇到“行走的危险信号”费利克斯（福田知盛饰）时，她发现他们之间不同寻常的联系是无法忽视的，尽管这种联系带来的问题比解决的还要多。现在他们不得不问自己：美国人和英国人真的说同一种语言吗？",
+            "rating": 4.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/jZXS6VgFhVsAqkT6oHuIo5VeCkw.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nq6fjPcMWvxkbiiXs8nYNe0j6Z6.jpg"
+        },
+        {
+            "id": 246862,
+            "title": "新·吊带袜天使",
+            "type": "tv",
+            "release_date": "2025-07-10",
+            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/kLhsue64k6zhe2mFXt9arBfEmlq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
+        },
+        {
+            "id": 1234821,
+            "title": "侏罗纪世界：重生",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+            "rating": 6.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
+        },
+        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -112,24 +112,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
-            "id": 213830,
-            "title": "转生为第七王子，随心所欲的魔法学习之路",
-            "type": "tv",
-            "release_date": "2024-04-02",
-            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
-        },
-        {
-            "id": 1233413,
-            "title": "罪人",
+            "id": 617126,
+            "title": "神奇4侠：初露锋芒",
             "type": "movie",
-            "release_date": "2025-04-16",
-            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-            "rating": 7.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
+            "release_date": "2025-07-23",
+            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         },
         {
             "id": 986056,
@@ -142,6 +132,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
+            "id": 213830,
+            "title": "转生为第七王子，随心所欲的魔法学习之路",
+            "type": "tv",
+            "release_date": "2024-04-02",
+            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
+        },
+        {
             "id": 272466,
             "title": "暗阳之下",
             "type": "tv",
@@ -150,6 +150,16 @@
             "rating": 7.8,
             "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
+        },
+        {
+            "id": 1233413,
+            "title": "罪人",
+            "type": "movie",
+            "release_date": "2025-04-16",
+            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+            "rating": 7.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
             "id": 911430,
@@ -170,16 +180,6 @@
             "rating": 8.3,
             "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
-        },
-        {
-            "id": 617126,
-            "title": "神奇4侠：初露锋芒",
-            "type": "movie",
-            "release_date": "2025-07-23",
-            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         },
         {
             "id": 86031,
@@ -244,16 +244,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
-            "id": 1234821,
-            "title": "侏罗纪世界：重生",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
-        },
-        {
             "id": 986056,
             "title": "雷霆特攻队*",
             "type": "movie",
@@ -272,6 +262,16 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
+        },
+        {
+            "id": 1234821,
+            "title": "侏罗纪世界：重生",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+            "rating": 6.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
             "id": 749170,
@@ -299,7 +299,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.1,
+            "rating": 5.2,
             "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
         },
@@ -334,14 +334,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
         },
         {
-            "id": 272937,
-            "title": "以法之名",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "本剧讲述了海东省检察院检察官洪亮、郑雅萍等人在复查东平市“万海黑社会性质组织案”过程中发现司法人员在案件中的徇私枉法。他们以举报线索为突破口，彻底打掉了背后的黑恶势力，同时查办司法工作人员的职务犯罪。",
-            "rating": 8.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
+            "id": 617126,
+            "title": "神奇4侠：初露锋芒",
+            "type": "movie",
+            "release_date": "2025-07-23",
+            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         },
         {
             "id": 90802,
@@ -352,16 +352,6 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/9ajhC8Gua5BvwHL1xRIGTYekekz.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
-        },
-        {
-            "id": 617126,
-            "title": "神奇4侠：初露锋芒",
-            "type": "movie",
-            "release_date": "2025-07-23",
-            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         },
         {
             "id": 114471,
@@ -402,6 +392,16 @@
             "rating": 8.5,
             "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
+        },
+        {
+            "id": 1042834,
+            "title": "伊甸",
+            "type": "movie",
+            "release_date": "2024-09-07",
+            "overview": "　　聚焦一群不可思议的人，他们独立背弃了社会，每个人都被渴望改变的强烈愿望所驱使，他们抛下一切，将自己的未来押在最不可能的地方——环境严酷的加拉帕戈斯群岛。",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/a4eOEvtsunTot0p2L88VMcIpnQX.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg"
         }
     ]
 }
