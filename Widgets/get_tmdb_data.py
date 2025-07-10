@@ -87,7 +87,6 @@ def save_to_json(data, file_path):
 
 if __name__ == "__main__":
     print("=== 开始执行TMDB数据获取 ===")
-    print(f"当前工作目录: {os.getcwd()}")
 
     today_global = fetch_tmdb_data(time_window="day", media_type="all")
     today_processed = process_tmdb_data(today_global, "day", "all")
@@ -120,6 +119,6 @@ if __name__ == "__main__":
     print("\n=== 本周热门 ===")
     if week_processed:
         for idx, item in enumerate(week_processed[:20], 1):
-            print(f"{idx}. {item['title']} (类型: {item['type']}, 评分: {item['rating']})")
+            print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']}")
 
     print("\n=== 执行完成 ===")
