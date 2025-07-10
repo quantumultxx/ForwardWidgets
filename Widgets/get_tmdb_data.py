@@ -87,7 +87,6 @@ def save_to_json(data, file_path):
 
 if __name__ == "__main__":
     print("=== 开始执行TMDB数据获取 ===")
-    print(f"当前工作目录: {os.getcwd()}")
 
     today_global = fetch_tmdb_data(time_window="day", media_type="all")
     today_processed = process_tmdb_data(today_global, "day", "all")
