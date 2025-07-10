@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 17:29:15",
+    "last_updated": "2025-07-10 17:39:35",
     "today_global": [
         {
             "id": 239826,
@@ -122,6 +122,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
+            "id": 541671,
+            "title": "疾速追杀：芭蕾杀姬",
+            "type": "movie",
+            "release_date": "2025-06-04",
+            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
+        },
+        {
             "id": 272937,
             "title": "以法之名",
             "type": "tv",
@@ -140,16 +150,6 @@
             "rating": 7.7,
             "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
-        },
-        {
-            "id": 541671,
-            "title": "疾速追杀：芭蕾杀姬",
-            "type": "movie",
-            "release_date": "2025-06-04",
-            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
             "id": 1195518,
@@ -274,6 +274,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
+            "id": 1425045,
+            "title": "砖墙迷攻",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
+        },
+        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -292,16 +302,6 @@
             "rating": 6.8,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
-        },
-        {
-            "id": 1425045,
-            "title": "砖墙迷攻",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
         },
         {
             "id": 1011477,
