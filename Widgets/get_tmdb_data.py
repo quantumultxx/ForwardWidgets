@@ -111,6 +111,8 @@ if __name__ == "__main__":
         print("⚠️ 文件保存失败，脚本将退出")
         exit(1)
 
+    print(f"✅ 热门数据获取时间：{last_updated}")
+
     print("\n=== 今日热门 ===")
     if today_processed:
         for idx, item in enumerate(today_processed[:20], 1):
