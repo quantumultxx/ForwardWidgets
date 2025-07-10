@@ -38,8 +38,7 @@ WidgetMetadata = {
         functionName: "loadTodayGlobalMedia",
         cacheDuration: 60,
         params: [
-            { name: "language", title: "语言", type: "constant", value: "zh-CN" },
-            { name: "page", title: "页码", type: "page" }
+            { name: "language", title: "语言", type: "constant", value: "zh-CN" }
         ]
     },
     {
@@ -49,8 +48,7 @@ WidgetMetadata = {
         functionName: "loadWeekGlobalMovies",
         cacheDuration: 60,
         params: [
-            { name: "language", title: "语言", type: "constant", value: "zh-CN" },
-            { name: "page", title: "页码", type: "page" }
+            { name: "language", title: "语言", type: "constant", value: "zh-CN" }
         ]
     },
     // --- 常规发现模块 ---
@@ -573,18 +571,57 @@ async function fetchTmdbData(api, params) {
     }
 }
 
-
 async function tmdbNowPlaying(params) {
     const type = params.type || 'movie';
     const api = type === 'movie' ? "movie/now_playing" : "tv/on_the_air";
     return await fetchTmdbData(api, params);
 }
 
-async function tmdbTrending(params) {
-  const timeWindow = params.time_window;
-  const api = `trending/all/${timeWindow}`;
-  delete params.time_window;
-  return await fetchTmdbData(api, params);
+
+async function loadTmdbTrendingData() {
+    try {
+        const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/TMDB_Trending.json");
+        if (response && response.data) {
+            return response.data;
+        } else {
+            throw new Error("JSON数据为空或格式不正确");
+        }
+    } catch (error) {
+        console.error("加载JSON数据失败:", error);
+        return { today_global: [], week_global_all: [] };
+    }
+}
+
+
+async function loadTodayGlobalMedia(params) {
+    const data = await loadTmdbTrendingData();
+    return data.today_global.map(item => ({
+        id: item.id.toString(),
+        type: "tmdb",
+        title: item.title,
+        description: item.overview || "暂无简介",
+        releaseDate: item.release_date,
+        backdropPath: item.backdrop_url,
+        posterPath: item.poster_url,
+        rating: item.rating,
+        mediaType: item.type
+    }));
+}
+
+
+async function loadWeekGlobalMovies(params) {
+    const data = await loadTmdbTrendingData();
+    return data.week_global_all.map(item => ({
+        id: item.id.toString(),
+        type: "tmdb",
+        title: item.title,
+        description: item.overview || "暂无简介",
+        releaseDate: item.release_date,
+        backdropPath: item.backdrop_url,
+        posterPath: item.poster_url,
+        rating: item.rating,
+        mediaType: item.type
+    }));
 }
 
 
@@ -616,6 +653,7 @@ async function tmdbDiscoverByNetwork(params = {}) {
     
     return await fetchTmdbData(api, discoverParams);
 }
+
 
 async function tmdbCompanies(params = {}) {
     try {
@@ -652,70 +690,6 @@ async function tmdbCompanies(params = {}) {
     }
 }
 
-let tmdbNowPlayingData = null;
-
-async function loadTmdbNowPlayingData() {
-    if (tmdbNowPlayingData) {
-        return tmdbNowPlayingData;
-    }
-    
-    try {
-        const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/TMDB_Trending.json");
-        if (response && response.data) {
-            tmdbNowPlayingData = response.data;
-            return tmdbNowPlayingData;
-        } else {
-            throw new Error("JSON数据为空或格式不正确");
-        }
-    } catch (error) {
-        console.error("加载JSON数据失败:", error);
-        return { today_global: [], week_global_all: [] };
-    }
-}
-
-
-async function loadTodayGlobalMedia(params) {
-    const data = await loadTmdbNowPlayingData();
-    const page = parseInt(params.page) || 1;
-    const limit = 20;
-    const start = (page - 1) * limit;
-    
-    const todayItems = data.today_global.slice(start, start + limit);
-    
-    return todayItems.map(item => ({
-        id: item.id.toString(),
-        type: "tmdb",
-        title: item.title,
-        description: item.overview || "暂无简介",
-        releaseDate: item.release_date,
-        backdropPath: item.backdrop_url,
-        posterPath: item.poster_url,
-        rating: item.rating,
-        mediaType: item.type
-    }));
-}
-
-
-async function loadWeekGlobalMovies(params) {
-    const data = await loadTmdbNowPlayingData();
-    const page = parseInt(params.page) || 1;
-    const limit = 20;
-    const start = (page - 1) * limit;
-    
-    const weekItems = data.week_global_all.slice(start, start + limit);
-    
-    return weekItems.map(item => ({
-        id: item.id.toString(),
-        type: "tmdb",
-        title: item.title,
-        description: item.overview || "暂无简介",
-        releaseDate: item.release_date,
-        backdropPath: item.backdrop_url,
-        posterPath: item.poster_url,
-        rating: item.rating,
-        mediaType: item.type
-    }));
-}
 
 // ===============豆瓣功能函数===============
 async function loadDoubanCardItems(params = {}) {
@@ -734,6 +708,7 @@ async function loadDoubanCardItems(params = {}) {
     throw error;
   }
 }
+
 
 async function loadDoubanDefaultList(params = {}) {
   const { start, limit } = calculatePagination(params);
@@ -835,6 +810,7 @@ async function loadDoubanDefaultList(params = {}) {
   return doubanIds;
 }
 
+
 async function loadDoubanItemsFromApi(params = {}) {
   const { start, limit } = calculatePagination(params);
   const url = params.url;
@@ -867,6 +843,7 @@ async function loadDoubanItemsFromApi(params = {}) {
   return [];
 }
 
+
 async function loadDoubanSubjectCollection(params = {}) {
   const listIdMatch = params.url.match(/subject_collection\/(\w+)/);
   if (!listIdMatch) throw new Error("无法从 URL 获取豆瓣合集 ID");
@@ -879,13 +856,16 @@ async function loadDoubanSubjectCollection(params = {}) {
   });
 }
 
+
 async function loadDoubanRecommendMovies(params = {}) {
   return await loadDoubanRecommendItems(params, "movie");
 }
 
+
 async function loadDoubanRecommendShows(params = {}) {
   return await loadDoubanRecommendItems(params, "tv");
 }
+
 
 async function loadDoubanRecommendItems(params = {}, mediaType = "movie") {
   const { start, limit } = calculatePagination(params);
