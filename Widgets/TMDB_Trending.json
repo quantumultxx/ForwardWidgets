@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 19:49:15",
+    "last_updated": "2025-07-10 19:53:30",
     "today_global": [
         {
             "id": 1061474,
@@ -294,16 +294,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 239826,
-            "title": "巴拉德",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 6.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
-        },
-        {
             "id": 1011477,
             "title": "功夫梦：融合之道",
             "type": "movie",
@@ -312,6 +302,16 @@
             "rating": 7.1,
             "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
+        },
+        {
+            "id": 239826,
+            "title": "巴拉德",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+            "rating": 6.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
         },
         {
             "id": 1429744,
