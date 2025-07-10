@@ -10,7 +10,7 @@ if not TMDB_API_KEY:
     exit(1)
 
 BASE_URL = "https://api.themoviedb.org/3"
-SAVE_PATH = os.path.join(os.getcwd(), "tmdbNowPlaying.json")
+SAVE_PATH = os.path.join(os.getcwd(), "TMDB_Trending.json")
 
 def fetch_tmdb_data(time_window="day", media_type="all"):
     if not TMDB_API_KEY:
@@ -79,7 +79,7 @@ def save_to_json(data, file_path):
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
             f.flush()
-        print(f"✅ 数据已成功保存到: tmdbNowPlaying.json")
+        print(f"✅ 数据已成功保存到: TMDB_Trending.json")
         return True
     except Exception as e:
         print(f"❌ 保存文件失败: {str(e)}")
