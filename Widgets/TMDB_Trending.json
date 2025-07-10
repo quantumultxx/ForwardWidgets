@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11 02:33:58",
+    "last_updated": "2025-07-11 02:57:57",
     "today_global": [
         {
             "id": 1425045,
@@ -7,7 +7,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.2,
+            "rating": 4.4,
             "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
         },
@@ -32,16 +32,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
         },
         {
-            "id": 246862,
-            "title": "新·吊带袜天使",
-            "type": "tv",
-            "release_date": "2025-07-10",
-            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/kLhsue64k6zhe2mFXt9arBfEmlq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
-        },
-        {
             "id": 239826,
             "title": "巴拉德",
             "type": "tv",
@@ -50,26 +40,6 @@
             "rating": 6.7,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
-        },
-        {
-            "id": 213830,
-            "title": "转生为第七王子，随心所欲的魔法学习之路",
-            "type": "tv",
-            "release_date": "2024-04-02",
-            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
-        },
-        {
-            "id": 986056,
-            "title": "雷霆特攻队*",
-            "type": "movie",
-            "release_date": "2025-04-30",
-            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
             "id": 1011477,
@@ -82,14 +52,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
-            "id": 246026,
-            "title": "边境追缉队",
+            "id": 246862,
+            "title": "新·吊带袜天使",
             "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
-            "rating": 8.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/gut76EbVg6UoMKm3tBXDaAhAP1G.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
+            "release_date": "2025-07-10",
+            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/kLhsue64k6zhe2mFXt9arBfEmlq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
         },
         {
             "id": 272937,
@@ -102,16 +72,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
         },
         {
-            "id": 1195518,
-            "title": "三恶人",
-            "type": "movie",
-            "release_date": "2025-06-13",
-            "overview": "一个年轻人因被绞死的父亲的遗愿而去到偏僻的小镇，见证了一个誓要维护秩序的警长，和一个誓要打破秩序的神秘枪手的决斗。",
-            "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/gXYYIX5VesrDtR1iYJfvUnJBPLB.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
-        },
-        {
             "id": 1234821,
             "title": "侏罗纪世界：重生",
             "type": "movie",
@@ -122,14 +82,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
-            "id": 1153714,
-            "title": "独角兽之死",
-            "type": "movie",
-            "release_date": "2025-03-27",
-            "overview": "　　艾略特（保罗·路德 Paul Rudd 饰）和女儿雷德利（詹娜·奥尔特加 Jenna Ortega 饰）周末出行时，遇到了身为制药公司巨头的老板一家，他们无意间撞上了一只独角兽，制药公司的科学家发现独角兽的血肉可以入药，尤其它的角具有超自然的治疗特性，老板的家族打起了这只独角兽的主意……",
-            "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/3cfCh85jacEOmi7Av69c2HGR0KK.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/eDBZN0TbWkxoAB0qIDFagVcPPTN.jpg"
+            "id": 213830,
+            "title": "转生为第七王子，随心所欲的魔法学习之路",
+            "type": "tv",
+            "release_date": "2024-04-02",
+            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
         },
         {
             "id": 241361,
@@ -142,16 +102,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nq6fjPcMWvxkbiiXs8nYNe0j6Z6.jpg"
         },
         {
-            "id": 749170,
-            "title": "国家元首",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
-        },
-        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -160,16 +110,6 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
-        },
-        {
-            "id": 42421,
-            "title": "吊带袜天使",
-            "type": "tv",
-            "release_date": "2010-10-02",
-            "overview": "位于天堂与地狱之间的堕天使城（Daten City），长期饱受由人类欲望实体化而成的恶灵（Ghost）侵袭。因行为不检而被踢出天堂的天使姊妹——Panty与Stocking，必须在Garterbelt的指示下歼灭恶灵，并得到代表功绩的天堂金币（Heaven Coins）作为回报，达成目标即可回到天堂。然而天使姊妹在堕天使城的日常生活，显然有相当程度的病态兴趣……",
-            "rating": 7.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/RPiVM7JIoAsOZEX0rW8tKQFvCR.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/zX12leCOrQLCIyNKYXKcVPvAJiY.jpg"
         },
         {
             "id": 541671,
@@ -182,6 +122,36 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
+            "id": 272466,
+            "title": "暗阳之下",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
+        },
+        {
+            "id": 986056,
+            "title": "雷霆特攻队*",
+            "type": "movie",
+            "release_date": "2025-04-30",
+            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+        },
+        {
+            "id": 246026,
+            "title": "边境追缉队",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "墨西哥高级警察部队正在追捕越过边境的美国逃犯，并努力打击谎言和犯罪。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/gut76EbVg6UoMKm3tBXDaAhAP1G.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/onha1ViNuO04qLSSASx7hZC6TD3.jpg"
+        },
+        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -192,14 +162,44 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 272466,
-            "title": "暗阳之下",
+            "id": 1233413,
+            "title": "罪人",
+            "type": "movie",
+            "release_date": "2025-04-16",
+            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+            "rating": 7.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
+        },
+        {
+            "id": 617126,
+            "title": "神奇4侠：初露锋芒",
+            "type": "movie",
+            "release_date": "2025-07-23",
+            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
+        },
+        {
+            "id": 240411,
+            "title": "胆大党",
             "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
+            "release_date": "2024-10-04",
+            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
+        },
+        {
+            "id": 231728,
+            "title": "7只小矮熊",
+            "type": "tv",
+            "release_date": "2025-07-10",
+            "overview": "忘掉 7 个小矮人吧，7 只小矮熊来了！这群可爱的小毛球给熟悉的经典童话故事增添了一抹毛茸茸的色彩。",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/7cOa8t4yFX55O2DQpFBMpNgTbzY.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/8aIy81OdhFWCBgu6DBU2T4ReiQE.jpg"
         }
     ],
     "week_global_all": [
@@ -224,6 +224,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
+            "id": 986056,
+            "title": "雷霆特攻队*",
+            "type": "movie",
+            "release_date": "2025-04-30",
+            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+        },
+        {
             "id": 846422,
             "title": "永生守卫2",
             "type": "movie",
@@ -242,16 +252,6 @@
             "rating": 6.5,
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
-        },
-        {
-            "id": 986056,
-            "title": "雷霆特攻队*",
-            "type": "movie",
-            "release_date": "2025-04-30",
-            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
             "id": 749170,
@@ -274,14 +274,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
-            "id": 82739,
-            "title": "青春猪头少年不会梦到兔女郎学姐",
+            "id": 240411,
+            "title": "胆大党",
             "type": "tv",
-            "release_date": "2018-10-04",
-            "overview": "思春期症候群，这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法。女主人公们一个接一个地出现于咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。",
+            "release_date": "2024-10-04",
+            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
             "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/2tKH9xWLh7LfKOBGMrMx8SFEs6H.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/8RPS3tBXaVbungeYAysamXIibLR.jpg"
+            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
         },
         {
             "id": 272937,
@@ -292,16 +292,6 @@
             "rating": 8.3,
             "poster_url": "https://image.tmdb.org/t/p/original/yXf1VPIHJFxuR4dvovjz3oaFwNm.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/yzWsuXA9CORUwxhuSDgmGN90Mqq.jpg"
-        },
-        {
-            "id": 240411,
-            "title": "胆大党",
-            "type": "tv",
-            "release_date": "2024-10-04",
-            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
         },
         {
             "id": 911430,
@@ -324,14 +314,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
-            "id": 1195518,
-            "title": "三恶人",
+            "id": 1233413,
+            "title": "罪人",
             "type": "movie",
-            "release_date": "2025-06-13",
-            "overview": "一个年轻人因被绞死的父亲的遗愿而去到偏僻的小镇，见证了一个誓要维护秩序的警长，和一个誓要打破秩序的神秘枪手的决斗。",
-            "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/gXYYIX5VesrDtR1iYJfvUnJBPLB.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg"
+            "release_date": "2025-04-16",
+            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+            "rating": 7.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
             "id": 90802,
@@ -344,26 +334,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
         },
         {
-            "id": 1233413,
-            "title": "罪人",
-            "type": "movie",
-            "release_date": "2025-04-16",
-            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-            "rating": 7.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
-        },
-        {
-            "id": 547016,
-            "title": "永生守卫",
-            "type": "movie",
-            "release_date": "2020-07-09",
-            "overview": "四名不死战士秘密地保护了人类几个世纪，就在他们发现一个新的不死人时，他们因自身的神秘力量而成为被攻击的对象。",
-            "rating": 7.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/pISd6XOsf48TcZp3GQyDB0FieJy.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg"
-        },
-        {
             "id": 114471,
             "title": "钢铁之心",
             "type": "tv",
@@ -372,6 +342,16 @@
             "rating": 5.6,
             "poster_url": "https://image.tmdb.org/t/p/original/cdqVKwUv0QNCqN5Kf6NRtbmpO7s.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
+        },
+        {
+            "id": 239826,
+            "title": "巴拉德",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+            "rating": 6.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
         },
         {
             "id": 1151031,
@@ -384,16 +364,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
-            "id": 207468,
-            "title": "怪兽8号",
-            "type": "tv",
-            "release_date": "2024-04-13",
-            "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/5HOL3peaKj8COZx1hXFcEDgwhvD.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/9DrORnlwnjt5SeJKcuE5sqOoIdV.jpg"
-        },
-        {
             "id": 123249,
             "title": "更衣人偶坠入爱河",
             "type": "tv",
@@ -402,6 +372,36 @@
             "rating": 8.5,
             "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
+        },
+        {
+            "id": 617126,
+            "title": "神奇4侠：初露锋芒",
+            "type": "movie",
+            "release_date": "2025-07-23",
+            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
+        },
+        {
+            "id": 292035,
+            "title": "逆爱",
+            "type": "tv",
+            "release_date": "2025-06-16",
+            "overview": "原本只是为了报复前女友，没想到撩着撩着，自己先沦陷。落魄直男吴所畏为了出气，决定把她的现任男友池骋给「撩」过来。结果这位跩跩的公子哥不但上钩，还让吴所畏自己也弯得彻底！两人从互看不顺眼，到一路暧昧，误会、偶遇、床边纠缠通通来，从情敌变情人，甜到发烫。就在感情越陷越深的时候，前任回国、秘密曝光、身份翻转——这段恋情，还有没有未来？",
+            "rating": 7.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/qXB8wIuRQ4boWSZSoLFAu5g6K9l.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/vBUnzYFcRuex2WnlfWs8hda9klR.jpg"
+        },
+        {
+            "id": 82739,
+            "title": "青春猪头少年不会梦到兔女郎学姐",
+            "type": "tv",
+            "release_date": "2018-10-04",
+            "overview": "思春期症候群，这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法。女主人公们一个接一个地出现于咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/2tKH9xWLh7LfKOBGMrMx8SFEs6H.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/8RPS3tBXaVbungeYAysamXIibLR.jpg"
         }
     ]
 }
