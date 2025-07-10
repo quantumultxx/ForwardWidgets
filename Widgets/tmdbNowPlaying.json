@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 16:36:35",
+    "last_updated": "2025-07-10 16:47:02",
     "today_global": [
         {
             "id": 239826,
@@ -324,6 +324,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
+            "id": 1425045,
+            "title": "砖墙迷攻",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
+        },
+        {
             "id": 90802,
             "title": "睡魔",
             "type": "tv",
@@ -344,14 +354,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
-            "id": 1425045,
-            "title": "砖墙迷攻",
+            "id": 1429744,
+            "title": "尸杀泰拳",
             "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/6ZbhhKyb1QF8Rj8lzOZ74Hm5YKS.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
+            "release_date": "2025-07-08",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rdtylu8IGowaxKGRKN9fFbdwSuA.jpg"
         },
         {
             "id": 114471,
@@ -372,16 +382,6 @@
             "rating": 8.5,
             "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
-        },
-        {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-08",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rdtylu8IGowaxKGRKN9fFbdwSuA.jpg"
         },
         {
             "id": 617126,
