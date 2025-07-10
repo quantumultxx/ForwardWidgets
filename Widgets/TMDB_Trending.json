@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10 17:39:35",
+    "last_updated": "2025-07-10 17:47:42",
     "today_global": [
         {
             "id": 239826,
@@ -17,7 +17,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.2,
+            "rating": 7.3,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
@@ -112,16 +112,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
-        },
-        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -130,6 +120,16 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
+        },
+        {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
             "id": 272937,
@@ -192,14 +192,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
         },
         {
-            "id": 846422,
-            "title": "永生守卫2",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
+            "id": 241361,
+            "title": "真爱太用力",
+            "type": "tv",
+            "release_date": "2025-07-10",
+            "overview": "三十多岁的杰茜卡（梅根·斯塔尔特饰）是一位来自纽约的工作狂，感情的破裂让她大受打击。她曾以为这段感情会永远持续下去，并因此慢慢地孤立了她认识的每个人。当纽约的每个街区都在议论她的不良行为时，唯一的解决办法就是去伦敦找一份工作。在那里，她计划像勃朗特姐妹一样过着孤独的生活。但当她遇到“行走的危险信号”费利克斯（福田知盛饰）时，她发现他们之间不同寻常的联系是无法忽视的，尽管这种联系带来的问题比解决的还要多。现在他们不得不问自己：美国人和英国人真的说同一种语言吗？",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/jZXS6VgFhVsAqkT6oHuIo5VeCkw.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nq6fjPcMWvxkbiiXs8nYNe0j6Z6.jpg"
         }
     ],
     "week_global_all": [
@@ -209,7 +209,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.2,
+            "rating": 7.3,
             "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg"
         },
