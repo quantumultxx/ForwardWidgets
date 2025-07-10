@@ -79,7 +79,7 @@ def save_to_json(data, file_path):
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
             f.flush()
-        print(f"✅ 数据已成功保存到: {os.path.abspath(file_path)}")
+        print(f"✅ 数据已成功保存到: tmdbNowPlaying.json")
         return True
     except Exception as e:
         print(f"❌ 保存文件失败: {str(e)}")
@@ -87,6 +87,7 @@ def save_to_json(data, file_path):
 
 if __name__ == "__main__":
     print("=== 开始执行TMDB数据获取 ===")
+    print(f"当前工作目录: {os.getcwd()}")
 
     today_global = fetch_tmdb_data(time_window="day", media_type="all")
     today_processed = process_tmdb_data(today_global, "day", "all")
