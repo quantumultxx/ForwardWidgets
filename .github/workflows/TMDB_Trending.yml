@@ -47,7 +47,7 @@ jobs:
         id: check_changes
         working-directory: Widgets  
         run: |
-          if ! git diff --quiet -- tmdbNowPlaying.json; then
+          if ! git diff --quiet -- TMDB_Trending.json; then
             echo "changes_detected=true" >> $GITHUB_OUTPUT
           else
             echo "changes_detected=false" >> $GITHUB_OUTPUT
@@ -64,7 +64,7 @@ jobs:
         if: steps.check_changes.outputs.changes_detected == 'true'
         working-directory: Widgets
         run: |
-          git add tmdbNowPlaying.json
+          git add TMDB_Trending.json
           git commit -m "Auto-update:$(TZ=Asia/Shanghai date +%Y-%m-%d_%H:%M:%S)"
           git push --force-with-lease
           echo "数据文件已成功更新并推送"
