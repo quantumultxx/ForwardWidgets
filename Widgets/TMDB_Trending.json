@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11 12:23:53",
+    "last_updated": "2025-07-11 12:57:21",
     "today_global": [
         {
             "id": 1061474,
@@ -27,7 +27,7 @@
             "type": "movie",
             "release_date": "2025-07-08",
             "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 6.8,
+            "rating": 6.9,
             "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
         },
@@ -72,16 +72,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg"
         },
         {
-            "id": 241361,
-            "title": "真爱太用力",
-            "type": "tv",
-            "release_date": "2025-07-10",
-            "overview": "三十多岁的杰茜卡（梅根·斯塔尔特饰）是一位来自纽约的工作狂，感情的破裂让她大受打击。她曾以为这段感情会永远持续下去，并因此慢慢地孤立了她认识的每个人。当纽约的每个街区都在议论她的不良行为时，唯一的解决办法就是去伦敦找一份工作。在那里，她计划像勃朗特姐妹一样过着孤独的生活。但当她遇到“行走的危险信号”费利克斯（福田知盛饰）时，她发现他们之间不同寻常的联系是无法忽视的，尽管这种联系带来的问题比解决的还要多。现在他们不得不问自己：美国人和英国人真的说同一种语言吗？",
-            "rating": 4.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/jZXS6VgFhVsAqkT6oHuIo5VeCkw.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nq6fjPcMWvxkbiiXs8nYNe0j6Z6.jpg"
-        },
-        {
             "id": 93740,
             "title": "Foundation",
             "type": "tv",
@@ -90,6 +80,16 @@
             "rating": 7.8,
             "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
+        },
+        {
+            "id": 241361,
+            "title": "真爱太用力",
+            "type": "tv",
+            "release_date": "2025-07-10",
+            "overview": "三十多岁的杰茜卡（梅根·斯塔尔特饰）是一位来自纽约的工作狂，感情的破裂让她大受打击。她曾以为这段感情会永远持续下去，并因此慢慢地孤立了她认识的每个人。当纽约的每个街区都在议论她的不良行为时，唯一的解决办法就是去伦敦找一份工作。在那里，她计划像勃朗特姐妹一样过着孤独的生活。但当她遇到“行走的危险信号”费利克斯（福田知盛饰）时，她发现他们之间不同寻常的联系是无法忽视的，尽管这种联系带来的问题比解决的还要多。现在他们不得不问自己：美国人和英国人真的说同一种语言吗？",
+            "rating": 4.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/jZXS6VgFhVsAqkT6oHuIo5VeCkw.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nq6fjPcMWvxkbiiXs8nYNe0j6Z6.jpg"
         },
         {
             "id": 1234821,
@@ -122,16 +122,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
-            "id": 93405,
-            "title": "鱿鱼游戏",
-            "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
-        },
-        {
             "id": 986056,
             "title": "雷霆特攻队*",
             "type": "movie",
@@ -140,6 +130,16 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+        },
+        {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
             "id": 246026,
@@ -162,16 +162,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
-            "id": 213830,
-            "title": "转生为第七王子，随心所欲的魔法学习之路",
-            "type": "tv",
-            "release_date": "2024-04-02",
-            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
-        },
-        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -180,6 +170,16 @@
             "rating": 7.7,
             "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
+        },
+        {
+            "id": 213830,
+            "title": "转生为第七王子，随心所欲的魔法学习之路",
+            "type": "tv",
+            "release_date": "2024-04-02",
+            "overview": "魔法中最重要的就是“家族血统”、“天赋”、“努力”……\n\n一个热爱魔法的“普通”魔法师，却没有被赋予的血统和天赋，惨死。\n\n濒死之际，一名男子希望掌握并了解更多魔法，转世为塞勒姆王国第七王子劳埃德，拥有深厚的魔法血统。\n\n他重生后，拥有完美的血统和天赋，完整保留了过去的记忆， 以超凡的魔力享受着无与伦比的“随意掌握魔法”的生活，拥有前世无法企及的感受！",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mQ32M1EB6QIlNv8w1wrIAvg8Oa0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg"
         },
         {
             "id": 231728,
@@ -192,14 +192,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/8aIy81OdhFWCBgu6DBU2T4ReiQE.jpg"
         },
         {
-            "id": 617126,
-            "title": "神奇4侠：初露锋芒",
-            "type": "movie",
-            "release_date": "2025-07-23",
-            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
+            "id": 272466,
+            "title": "暗阳之下",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
         }
     ],
     "week_global_all": [
@@ -212,16 +212,6 @@
             "rating": 7.3,
             "poster_url": "https://image.tmdb.org/t/p/original/4jwkkubaiRaf4ILvNENmz5VKR8t.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg"
-        },
-        {
-            "id": 541671,
-            "title": "疾速追杀：芭蕾杀姬",
-            "type": "movie",
-            "release_date": "2025-06-04",
-            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
             "id": 986056,
@@ -254,14 +244,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
-            "id": 846422,
-            "title": "永生守卫2",
+            "id": 541671,
+            "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
+            "release_date": "2025-06-04",
+            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
             "id": 1011477,
@@ -272,6 +262,16 @@
             "rating": 7.2,
             "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
+        },
+        {
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
             "id": 93405,
@@ -334,6 +334,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
         },
         {
+            "id": 86031,
+            "title": "石纪元",
+            "type": "tv",
+            "release_date": "2019-07-05",
+            "overview": "全人类被神奇的现象一瞬间石化后过了几千年——拥有超人般头脑、天生的科学少年·千空苏醒了。在文明遭到毁灭的石头世界（STONE WORLD）里，千空决定要用科学的力量复原整个世界。而与此同时苏醒过来的有，以有着过人体力的儿时玩伴·大木大树为首的伙伴们，从零开始创造文明——从石器时代到现代文明，一定要赶上这科学史的200万年差距！前所未闻的创世冒险谭，就此开幕！",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/7HilzpQgfhsqzurRUnVUPiXVLWi.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg"
+        },
+        {
             "id": 114471,
             "title": "钢铁之心",
             "type": "tv",
@@ -374,24 +384,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
         },
         {
-            "id": 86031,
-            "title": "石纪元",
+            "id": 241554,
+            "title": "Murderbot",
             "type": "tv",
-            "release_date": "2019-07-05",
-            "overview": "全人类被神奇的现象一瞬间石化后过了几千年——拥有超人般头脑、天生的科学少年·千空苏醒了。在文明遭到毁灭的石头世界（STONE WORLD）里，千空决定要用科学的力量复原整个世界。而与此同时苏醒过来的有，以有着过人体力的儿时玩伴·大木大树为首的伙伴们，从零开始创造文明——从石器时代到现代文明，一定要赶上这科学史的200万年差距！前所未闻的创世冒险谭，就此开幕！",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/7HilzpQgfhsqzurRUnVUPiXVLWi.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg"
-        },
-        {
-            "id": 123249,
-            "title": "更衣人偶坠入爱河",
-            "type": "tv",
-            "release_date": "2022-01-09",
-            "overview": "男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
-            "rating": 8.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
         },
         {
             "id": 82739,
