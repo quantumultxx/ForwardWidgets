@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11 15:29:46",
+    "last_updated": "2025-07-11 15:47:17",
     "today_global": [
         {
             "id": 1425045,
@@ -82,16 +82,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
         },
         {
-            "id": 86031,
-            "title": "石纪元",
-            "type": "tv",
-            "release_date": "2019-07-05",
-            "overview": "全人类被神奇的现象一瞬间石化后过了几千年——拥有超人般头脑、天生的科学少年·千空苏醒了。在文明遭到毁灭的石头世界（STONE WORLD）里，千空决定要用科学的力量复原整个世界。而与此同时苏醒过来的有，以有着过人体力的儿时玩伴·大木大树为首的伙伴们，从零开始创造文明——从石器时代到现代文明，一定要赶上这科学史的200万年差距！前所未闻的创世冒险谭，就此开幕！",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/7HilzpQgfhsqzurRUnVUPiXVLWi.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg"
-        },
-        {
             "id": 1011477,
             "title": "功夫梦：融合之道",
             "type": "movie",
@@ -100,6 +90,16 @@
             "rating": 7.2,
             "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
+        },
+        {
+            "id": 86031,
+            "title": "石纪元",
+            "type": "tv",
+            "release_date": "2019-07-05",
+            "overview": "全人类被神奇的现象一瞬间石化后过了几千年——拥有超人般头脑、天生的科学少年·千空苏醒了。在文明遭到毁灭的石头世界（STONE WORLD）里，千空决定要用科学的力量复原整个世界。而与此同时苏醒过来的有，以有着过人体力的儿时玩伴·大木大树为首的伙伴们，从零开始创造文明——从石器时代到现代文明，一定要赶上这科学史的200万年差距！前所未闻的创世冒险谭，就此开幕！",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/7HilzpQgfhsqzurRUnVUPiXVLWi.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg"
         },
         {
             "id": 1234821,
@@ -172,6 +172,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
         },
         {
+            "id": 231728,
+            "title": "7只小矮熊",
+            "type": "tv",
+            "release_date": "2025-07-10",
+            "overview": "忘掉 7 个小矮人吧，7 只小矮熊来了！这群可爱的小毛球给熟悉的经典童话故事增添了一抹毛茸茸的色彩。",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/7cOa8t4yFX55O2DQpFBMpNgTbzY.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/8aIy81OdhFWCBgu6DBU2T4ReiQE.jpg"
+        },
+        {
             "id": 272466,
             "title": "暗阳之下",
             "type": "tv",
@@ -190,16 +200,6 @@
             "rating": 7.6,
             "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
-        },
-        {
-            "id": 231728,
-            "title": "7只小矮熊",
-            "type": "tv",
-            "release_date": "2025-07-10",
-            "overview": "忘掉 7 个小矮人吧，7 只小矮熊来了！这群可爱的小毛球给熟悉的经典童话故事增添了一抹毛茸茸的色彩。",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/7cOa8t4yFX55O2DQpFBMpNgTbzY.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/8aIy81OdhFWCBgu6DBU2T4ReiQE.jpg"
         }
     ],
     "week_global_all": [
@@ -314,6 +314,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
         },
         {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
+        },
+        {
             "id": 1233413,
             "title": "罪人",
             "type": "movie",
@@ -332,16 +342,6 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/9ajhC8Gua5BvwHL1xRIGTYekekz.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg"
-        },
-        {
-            "id": 93740,
-            "title": "Foundation",
-            "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 239826,
@@ -374,6 +374,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/5esDYWV0NoFwqPa1iC0g9akqZo9.jpg"
         },
         {
+            "id": 241554,
+            "title": "Murderbot",
+            "type": "tv",
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
+        },
+        {
             "id": 123249,
             "title": "更衣人偶坠入爱河",
             "type": "tv",
@@ -384,24 +394,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
         },
         {
-            "id": 82739,
-            "title": "青春猪头少年不会梦到兔女郎学姐",
-            "type": "tv",
-            "release_date": "2018-10-04",
-            "overview": "思春期症候群，这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法。女主人公们一个接一个地出现于咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/2tKH9xWLh7LfKOBGMrMx8SFEs6H.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/8RPS3tBXaVbungeYAysamXIibLR.jpg"
-        },
-        {
-            "id": 617126,
-            "title": "神奇4侠：初露锋芒",
+            "id": 1425045,
+            "title": "砖墙迷攻",
             "type": "movie",
-            "release_date": "2025-07-23",
-            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
+            "release_date": "2025-07-09",
+            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+            "rating": 5.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
         }
     ]
 }
