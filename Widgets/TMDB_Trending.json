@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11 16:32:16",
+    "last_updated": "2025-07-11 16:58:29",
     "today_global": [
         {
             "id": 1425045,
@@ -22,26 +22,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg"
         },
         {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-08",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
-        },
-        {
-            "id": 259909,
-            "title": "Dexter: Resurrection",
-            "type": "tv",
-            "release_date": "2025-07-13",
-            "overview": "",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
-        },
-        {
             "id": 93740,
             "title": "Foundation",
             "type": "tv",
@@ -50,6 +30,26 @@
             "rating": 7.8,
             "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
+        },
+        {
+            "id": 259909,
+            "title": "Dexter: Resurrection",
+            "type": "tv",
+            "release_date": "2025-07-13",
+            "overview": "",
+            "rating": 9.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
+        },
+        {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-08",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
         },
         {
             "id": 239826,
@@ -122,16 +122,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
-            "id": 246862,
-            "title": "新·吊带袜天使",
-            "type": "tv",
-            "release_date": "2025-07-10",
-            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/kLhsue64k6zhe2mFXt9arBfEmlq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
-        },
-        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -150,6 +140,16 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
+        },
+        {
+            "id": 246862,
+            "title": "新·吊带袜天使",
+            "type": "tv",
+            "release_date": "2025-07-10",
+            "overview": "　　堕天城：位于天堂和地狱之间的断层线上。可怕的鬼魂再次悄无声息地腐蚀着这座城镇。在这样的时代，有些人用人类无法理解的光驱逐了从人类欲望和怨恨中诞生的鬼魂。她们的名字是天使——Panty与Stocking！！堕落天使姐妹的使命是净化地球上无处不在的黑暗。他们真的是真主的使者吗…还是魔鬼的仆人？",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/kLhsue64k6zhe2mFXt9arBfEmlq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/eXxgT33OitzfmYol1kbTy7TKNOR.jpg"
         },
         {
             "id": 911430,
@@ -182,24 +182,24 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/8aIy81OdhFWCBgu6DBU2T4ReiQE.jpg"
         },
         {
-            "id": 272466,
-            "title": "暗阳之下",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "一位年轻的母亲在逃亡途中意外收获了重振旗鼓的机会，在普罗旺斯一家著名的花卉农场担任采摘工。然而，公司家族族长的神秘死亡使她成为头号嫌疑人，成为众矢之的。在她努力应对层出不穷的指控时，她发现了一个令人震惊的真相 — 她竟然是已故族长遗产的意外受益人，这让她与这个富裕家族的深厚渊源逐渐显露出来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/aU8NpsErM7Z7qvNtSqhZnc3HRD0.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg"
+            "id": 1243341,
+            "title": "僵尸高校4：吸血鬼黎明",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/1A4qDbbT99lV5qQHTPpZm7OJXfX.jpg"
         },
         {
-            "id": 617126,
-            "title": "神奇4侠：初露锋芒",
+            "id": 1233413,
+            "title": "罪人",
             "type": "movie",
-            "release_date": "2025-07-23",
-            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
+            "release_date": "2025-04-16",
+            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+            "rating": 7.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         }
     ],
     "week_global_all": [
@@ -214,14 +214,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg"
         },
         {
-            "id": 541671,
-            "title": "疾速追杀：芭蕾杀姬",
+            "id": 1234821,
+            "title": "侏罗纪世界：重生",
             "type": "movie",
-            "release_date": "2025-06-04",
-            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
+            "release_date": "2025-07-01",
+            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+            "rating": 6.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
             "id": 986056,
@@ -234,14 +234,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
-            "id": 1234821,
-            "title": "侏罗纪世界：重生",
+            "id": 541671,
+            "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
+            "release_date": "2025-06-04",
+            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
             "id": 93405,
@@ -254,24 +254,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
-            "id": 1011477,
-            "title": "功夫梦：融合之道",
-            "type": "movie",
-            "release_date": "2025-05-08",
-            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-            "rating": 7.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
-        },
-        {
-            "id": 846422,
-            "title": "永生守卫2",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 749170,
@@ -284,34 +274,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
-            "id": 240411,
-            "title": "胆大党",
-            "type": "tv",
-            "release_date": "2024-10-04",
-            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
-        },
-        {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
+            "id": 1011477,
+            "title": "功夫梦：融合之道",
             "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
-        },
-        {
-            "id": 93740,
-            "title": "Foundation",
-            "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
+            "release_date": "2025-05-08",
+            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+            "rating": 7.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
             "id": 259909,
@@ -322,6 +292,36 @@
             "rating": 9.9,
             "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
+        },
+        {
+            "id": 240411,
+            "title": "胆大党",
+            "type": "tv",
+            "release_date": "2024-10-04",
+            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
+        },
+        {
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
+        },
+        {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
             "id": 239826,
@@ -344,6 +344,26 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
         },
         {
+            "id": 1425045,
+            "title": "砖墙迷攻",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+            "rating": 5.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rz2vIz9HbtaEp4YLs98FYjrhd7e.jpg"
+        },
+        {
+            "id": 241554,
+            "title": "Murderbot",
+            "type": "tv",
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
+        },
+        {
             "id": 90802,
             "title": "睡魔",
             "type": "tv",
@@ -362,26 +382,6 @@
             "rating": 5.6,
             "poster_url": "https://image.tmdb.org/t/p/original/cdqVKwUv0QNCqN5Kf6NRtbmpO7s.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
-        },
-        {
-            "id": 241554,
-            "title": "Murderbot",
-            "type": "tv",
-            "release_date": "2025-05-15",
-            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
-        },
-        {
-            "id": 1425045,
-            "title": "砖墙迷攻",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rz2vIz9HbtaEp4YLs98FYjrhd7e.jpg"
         },
         {
             "id": 1151031,
