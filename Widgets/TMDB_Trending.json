@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12 07:22:43",
+    "last_updated": "2025-07-12 07:42:15",
     "today_global": [
         {
             "id": 1061474,
@@ -37,7 +37,7 @@
             "type": "movie",
             "release_date": "2025-07-10",
             "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
-            "rating": 7.8,
+            "rating": 6.9,
             "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
         },
@@ -67,7 +67,7 @@
             "type": "movie",
             "release_date": "2025-07-10",
             "overview": "阳光、沙滩……梅迪亚回来啦！这次她浩浩荡荡来到巴哈马，准备参加本季最盛大、最闹事的婚礼。她又会搞出什么名堂呢？",
-            "rating": 7.3,
+            "rating": 8.4,
             "poster_url": "https://image.tmdb.org/t/p/original/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/57on65zgbTjmiMJSqqKVZ3c355p.jpg"
         },
@@ -95,7 +95,7 @@
             "id": 1429744,
             "title": "尸杀泰拳",
             "type": "movie",
-            "release_date": "2025-07-08",
+            "release_date": "2025-07-09",
             "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
             "rating": 6.9,
             "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
@@ -117,9 +117,9 @@
             "type": "tv",
             "release_date": "2025-07-09",
             "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.1,
+            "rating": 7.2,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
+            "backdrop_url": "https://image.tmdb.org/t/p/original/iH0mpdq1dskseukN6KmiXoVvgOJ.jpg"
         },
         {
             "id": 1234821,
@@ -239,7 +239,7 @@
             "type": "movie",
             "release_date": "2025-07-10",
             "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
-            "rating": 7.8,
+            "rating": 6.9,
             "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
         },
@@ -254,16 +254,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
-            "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
-        },
-        {
             "id": 1234821,
             "title": "侏罗纪世界：重生",
             "type": "movie",
@@ -272,6 +262,16 @@
             "rating": 6.4,
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
+        },
+        {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 259909,
@@ -314,16 +314,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
         },
         {
-            "id": 846422,
-            "title": "永生守卫2",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
-        },
-        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -334,14 +324,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 239826,
-            "title": "巴拉德",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
             "id": 241554,
@@ -352,6 +342,16 @@
             "rating": 7.5,
             "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
+        },
+        {
+            "id": 239826,
+            "title": "巴拉德",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+            "rating": 7.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/iH0mpdq1dskseukN6KmiXoVvgOJ.jpg"
         },
         {
             "id": 240411,
@@ -384,6 +384,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg"
         },
         {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
+        },
+        {
             "id": 617126,
             "title": "神奇4侠：初露锋芒",
             "type": "movie",
@@ -392,16 +402,6 @@
             "rating": 0.0,
             "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/unthV1mq9llhEinIMPcCUImFodt.jpg"
-        },
-        {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-08",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
         }
     ]
 }
