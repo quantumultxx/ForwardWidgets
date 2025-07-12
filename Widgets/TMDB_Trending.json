@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-13 04:24:47",
+    "last_updated": "2025-07-13 04:43:01",
     "today_global": [
+        {
+            "id": 1061474,
+            "title": "超人",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg",
+            "genreTitle": "科幻, 冒险, 动作"
+        },
         {
             "id": 1374534,
             "title": "凹凸双雄",
@@ -11,17 +22,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
             "genreTitle": "动作, 喜剧, 犯罪"
-        },
-        {
-            "id": 1061474,
-            "title": "超人",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-            "rating": 7.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg",
-            "genreTitle": "科幻, 冒险, 动作"
         },
         {
             "id": 1243341,
@@ -40,7 +40,7 @@
             "type": "movie",
             "release_date": "2025-07-09",
             "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.7,
+            "rating": 5.6,
             "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
             "genreTitle": "科幻, 惊悚"
@@ -79,17 +79,6 @@
             "genreTitle": "Sci-Fi & Fantasy, 剧情"
         },
         {
-            "id": 1011477,
-            "title": "功夫梦：融合之道",
-            "type": "movie",
-            "release_date": "2025-05-08",
-            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-            "rating": 7.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg",
-            "genreTitle": "动作, 冒险, 剧情"
-        },
-        {
             "id": 241554,
             "title": "Murderbot",
             "type": "tv",
@@ -99,6 +88,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
             "genreTitle": "喜剧, 剧情, Sci-Fi & Fantasy"
+        },
+        {
+            "id": 1011477,
+            "title": "功夫梦：融合之道",
+            "type": "movie",
+            "release_date": "2025-05-08",
+            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+            "rating": 7.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg",
+            "genreTitle": "动作, 冒险, 剧情"
         },
         {
             "id": 986056,
@@ -134,17 +134,6 @@
             "genreTitle": "恐怖, 惊悚, 动作"
         },
         {
-            "id": 1130022,
-            "title": "自主公民",
-            "type": "movie",
-            "release_date": "2025-07-11",
-            "overview": "",
-            "rating": 6.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg",
-            "genreTitle": "犯罪, 剧情, 惊悚"
-        },
-        {
             "id": 239826,
             "title": "巴拉德",
             "type": "tv",
@@ -154,6 +143,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
             "genreTitle": "犯罪, 剧情"
+        },
+        {
+            "id": 1130022,
+            "title": "自主公民",
+            "type": "movie",
+            "release_date": "2025-07-11",
+            "overview": "",
+            "rating": 6.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg",
+            "genreTitle": "犯罪, 剧情, 惊悚"
         },
         {
             "id": 911430,
@@ -200,6 +200,17 @@
             "genreTitle": "Sci-Fi & Fantasy, 剧情, 悬疑"
         },
         {
+            "id": 1234821,
+            "title": "侏罗纪世界：重生",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+            "rating": 6.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
+            "genreTitle": "科幻, 冒险, 动作"
+        },
+        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -209,17 +220,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
             "genreTitle": "动作冒险, 悬疑, 剧情"
-        },
-        {
-            "id": 749170,
-            "title": "国家元首",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
-            "genreTitle": "动作, 惊悚, 喜剧"
         }
     ],
     "week_global_all": [
@@ -323,17 +323,6 @@
             "genreTitle": "动作, 惊悚, 喜剧"
         },
         {
-            "id": 240411,
-            "title": "胆大党",
-            "type": "tv",
-            "release_date": "2024-10-04",
-            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-            "genreTitle": "动画, 动作冒险, 喜剧"
-        },
-        {
             "id": 239826,
             "title": "巴拉德",
             "type": "tv",
@@ -354,6 +343,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
             "genreTitle": "恐怖, 动作, 惊悚"
+        },
+        {
+            "id": 240411,
+            "title": "胆大党",
+            "type": "tv",
+            "release_date": "2024-10-04",
+            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+            "genreTitle": "动画, 动作冒险, 喜剧"
         },
         {
             "id": 123249,
@@ -389,17 +389,6 @@
             "genreTitle": "音乐, 冒险, 爱情"
         },
         {
-            "id": 1374534,
-            "title": "凹凸双雄",
-            "type": "movie",
-            "release_date": "2025-07-10",
-            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
-            "rating": 5.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
-            "genreTitle": "动作, 喜剧, 犯罪"
-        },
-        {
             "id": 241554,
             "title": "Murderbot",
             "type": "tv",
@@ -411,15 +400,15 @@
             "genreTitle": "喜剧, 剧情, Sci-Fi & Fantasy"
         },
         {
-            "id": 259909,
-            "title": "嗜血法医：杀魔复生",
-            "type": "tv",
-            "release_date": "2025-07-13",
-            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
-            "rating": 9.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
-            "genreTitle": "犯罪, 剧情"
+            "id": 1374534,
+            "title": "凹凸双雄",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
+            "rating": 5.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
+            "genreTitle": "动作, 喜剧, 犯罪"
         },
         {
             "id": 93740,
@@ -431,6 +420,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
             "genreTitle": "Sci-Fi & Fantasy, 剧情"
+        },
+        {
+            "id": 259909,
+            "title": "嗜血法医：杀魔复生",
+            "type": "tv",
+            "release_date": "2025-07-13",
+            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
+            "rating": 9.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
+            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 82739,
