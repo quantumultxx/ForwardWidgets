@@ -17,37 +17,59 @@ def fetch_tmdb_data(time_window="day", media_type="all"):
         print("错误：TMDB API Key 未配置！")
         return []
     
-    endpoint = f"/trending/{media_type}/{time_window}" if media_type != "all" else f"/trending/all/{time_window}"
+    endpoint = f"/trending/all/{time_window}" if media_type == "all" else f"/trending/{media_type}/{time_window}"
     url = f"{BASE_URL}{endpoint}"
-    params = {
-        "api_key": TMDB_API_KEY,
-        "language": "zh-CN"
-    }
+    params = {"api_key": TMDB_API_KEY, "language": "zh-CN"}
 
     max_retries = 3
     retry_delay = 5
 
     for attempt in range(max_retries):
         try:
-            print(f"正在请求API: {url} (尝试 {attempt + 1}/{max_retries})")
+            response = requests.get(url, params=params, timeout=10)
+            response.raise_for_status()
+            print(f"API请求成功: {url}")
+            return response.json()
+        except requests.exceptions.HTTPError as e:
+            status_code = e.response.status_code
+            reason = e.response.reason
+            print(f"HTTP错误 ({status_code}): {reason} (URL: {url})")
+            if status_code == 429:
+                retry_after = int(e.response.headers.get("Retry-After", retry_delay))
+                print(f"触发限流，等待 {retry_after} 秒后重试...")
+                time.sleep(retry_after)
+                continue
+            if status_code == 401:
+                print("API Key无效或已过期，请检查环境变量！")
+            return []
+        except requests.exceptions.RequestException as e:
+            print(f"网络请求失败: {str(e)} (URL: {url})")
+            if attempt == max_retries - 1:
+                print("所有重试均失败，放弃请求")
+                return []
+
+def get_media_details(media_type, media_id):
+    detail_endpoint = f"/{media_type}/{media_id}"
+    url = f"{BASE_URL}{detail_endpoint}"
+    params = {"api_key": TMDB_API_KEY, "language": "zh-CN"}
+
+    max_retries = 3
+    retry_delay = 5
+
+    for attempt in range(max_retries):
+        try:
             response = requests.get(url, params=params, timeout=10)
             response.raise_for_status()
             return response.json()
         except requests.exceptions.HTTPError as e:
-            if e.response.status_code == 429:
-                retry_after = int(e.response.headers.get("Retry-After", retry_delay))
-                print(f"⚠️ API 限流，等待 {retry_after} 秒后重试...")
-                time.sleep(retry_after)
-                continue
-            print(f"HTTP 错误: {e.response.status_code} - {e.response.reason}")
-            if e.response.status_code == 401:
-                print("❌ 提示：请检查 API Key 是否正确或已过期！")
-            return []
+            status_code = e.response.status_code
+            reason = e.response.reason
+            return None
         except requests.exceptions.RequestException as e:
-            print(f"网络请求失败: {str(e)}")
+            print(f"媒体详情网络请求失败: {str(e)} (ID: {media_id})")
             if attempt == max_retries - 1:
-                return []
-            time.sleep(retry_delay)
+                print(f"放弃获取媒体ID {media_id} 的详细信息")
+                return None
 
 def process_tmdb_data(data, time_window, media_type):
     results = []
@@ -60,17 +82,25 @@ def process_tmdb_data(data, time_window, media_type):
         backdrop_url = f"https://image.tmdb.org/t/p/original{item.get('backdrop_path')}" if item.get("backdrop_path") else "无背景图"
         item_type = media_type if media_type != "all" else item.get("media_type", "unknown")
 
+        genre_title = "未知分类"
+        if media_id := item.get("id"):
+            if item_type in ["movie", "tv"]:
+                detail_data = get_media_details(item_type, media_id)
+                if detail_data:
+                    genres = detail_data.get("genres", [])
+                    genre_title = ", ".join([g["name"] for g in genres[:2]])
+
         results.append({
-            "id": item.get("id"),
+            "id": media_id,
             "title": title,
             "type": item_type,
             "release_date": release_date,
             "overview": overview,
             "rating": rating,
             "poster_url": poster_url,
-            "backdrop_url": backdrop_url
+            "backdrop_url": backdrop_url,
+            "genreTitle": genre_title
         })
-    print(f"✅ 共获取到 {len(results)} 条数据")
     return results
 
 def save_to_json(data, file_path):
@@ -78,11 +108,10 @@ def save_to_json(data, file_path):
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-            f.flush()
-        print(f"✅ 数据已成功保存到:TMDB_Trending.json")
+        print(f"数据成功保存至: {file_path}")
         return True
     except Exception as e:
-        print(f"❌ 保存文件失败: {str(e)}")
+        print(f"文件保存失败: {str(e)}")
         return False
 
 if __name__ == "__main__":
@@ -90,11 +119,9 @@ if __name__ == "__main__":
 
     today_global = fetch_tmdb_data(time_window="day", media_type="all")
     today_processed = process_tmdb_data(today_global, "day", "all")
-    print(f"获取到 {len(today_processed)} 条今日热门数据")
 
     week_global_all = fetch_tmdb_data(time_window="week", media_type="all")
     week_processed = process_tmdb_data(week_global_all, "week", "all")
-    print(f"获取到 {len(week_processed)} 条本周热门数据")
 
     beijing_timezone = timezone(timedelta(hours=8))
     beijing_now = datetime.now(beijing_timezone)
@@ -108,19 +135,22 @@ if __name__ == "__main__":
 
     save_success = save_to_json(data_to_save, SAVE_PATH)
     if not save_success:
-        print("⚠️ 文件保存失败，脚本将退出")
+        print("文件保存失败，脚本终止执行")
         exit(1)
 
-    print(f"✅ 热门数据获取时间:{last_updated}")
+    print(f"✅ 热门数据获取时间: {last_updated}")
 
-    print("\n=== 今日热门 ===")
+    print("""
+================= 今日热门 =================""")
     if today_processed:
         for idx, item in enumerate(today_processed[:20], 1):
-            print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']}")
+            print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']} | {item['genreTitle']}")
 
-    print("\n=== 本周热门 ===")
+    print("""
+================= 本周热门 =================""")
     if week_processed:
         for idx, item in enumerate(week_processed[:20], 1):
-            print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']}")
+            print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']} | {item['genreTitle']}")
 
-    print("\n=== 执行完成 ===")
+    print("""
+================= 执行完成 =================""")
