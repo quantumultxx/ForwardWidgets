@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12 15:43:18",
+    "last_updated": "2025-07-12 15:55:15",
     "today_global": [
         {
             "id": 1374534,
@@ -92,6 +92,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
+            "id": 1391013,
+            "title": "像你这样的人",
+            "type": "movie",
+            "release_date": "2025-07-11",
+            "overview": "Shrirenu是传统规训下的温婉女子，Madhu是敢于撕碎规则的叛逆者。当两人的世界因一次偶遇交汇，一段笨拙却炽热的爱情悄然萌芽——但父权的阴影始终如影随形，让她们在自由与束缚间反复挣扎。",
+            "rating": 8.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/flbWD0ql2Qw4DCGy94nIALGn9ob.jpg"
+        },
+        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -110,16 +120,6 @@
             "rating": 6.5,
             "poster_url": "https://image.tmdb.org/t/p/original/aOZYT8mFmY58KJbsj6pausCNlRr.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg"
-        },
-        {
-            "id": 1391013,
-            "title": "像你这样的人",
-            "type": "movie",
-            "release_date": "2025-07-11",
-            "overview": "Shrirenu是传统规训下的温婉女子，Madhu是敢于撕碎规则的叛逆者。当两人的世界因一次偶遇交汇，一段笨拙却炽热的爱情悄然萌芽——但父权的阴影始终如影随形，让她们在自由与束缚间反复挣扎。",
-            "rating": 8.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/flbWD0ql2Qw4DCGy94nIALGn9ob.jpg"
         },
         {
             "id": 239826,
@@ -274,16 +274,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
-        },
-        {
             "id": 846422,
             "title": "永生守卫2",
             "type": "movie",
@@ -292,6 +282,16 @@
             "rating": 6.1,
             "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
+        },
+        {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
             "id": 240411,
@@ -364,6 +364,26 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
         },
         {
+            "id": 1374534,
+            "title": "凹凸双雄",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
+            "rating": 6.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/vRfaESjUXHvsSv1fx8keTiLavZt.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg"
+        },
+        {
+            "id": 1243341,
+            "title": "僵尸高校4：吸血鬼黎明",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
+            "rating": 7.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
+        },
+        {
             "id": 90802,
             "title": "睡魔",
             "type": "tv",
@@ -382,26 +402,6 @@
             "rating": 8.5,
             "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg"
-        },
-        {
-            "id": 82739,
-            "title": "青春猪头少年不会梦到兔女郎学姐",
-            "type": "tv",
-            "release_date": "2018-10-04",
-            "overview": "思春期症候群，这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法。女主人公们一个接一个地出现于咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/2tKH9xWLh7LfKOBGMrMx8SFEs6H.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/8RPS3tBXaVbungeYAysamXIibLR.jpg"
-        },
-        {
-            "id": 114471,
-            "title": "钢铁之心",
-            "type": "tv",
-            "release_date": "2025-06-24",
-            "overview": "决心闯出一片天的年轻天才发明家莉莉·威廉姆斯，回到了家乡芝加哥。她打造的独特钢铁战甲令人赞叹，但在追逐自己的雄心壮志时，她卷入了与神秘而充满魅力的帕克·罗宾斯（即“红兜帽”）相关的事件中。",
-            "rating": 5.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/cdqVKwUv0QNCqN5Kf6NRtbmpO7s.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg"
         }
     ]
 }
