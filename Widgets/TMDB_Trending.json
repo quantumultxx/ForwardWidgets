@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13 03:52:17",
+    "last_updated": "2025-07-13 04:24:47",
     "today_global": [
         {
             "id": 1374534,
@@ -24,17 +24,6 @@
             "genreTitle": "科幻, 冒险, 动作"
         },
         {
-            "id": 1425045,
-            "title": "砖墙谜攻",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
-            "genreTitle": "科幻, 惊悚"
-        },
-        {
             "id": 1243341,
             "title": "僵尸高校4：吸血鬼黎明",
             "type": "movie",
@@ -44,6 +33,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg",
             "genreTitle": "音乐, 冒险, 爱情"
+        },
+        {
+            "id": 1425045,
+            "title": "砖墙谜攻",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+            "rating": 5.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+            "genreTitle": "科幻, 惊悚"
         },
         {
             "id": 259909,
@@ -112,28 +112,6 @@
             "genreTitle": "动作, 科幻, 冒险"
         },
         {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
-            "genreTitle": "恐怖, 惊悚, 动作"
-        },
-        {
-            "id": 292575,
-            "title": "扫毒风暴",
-            "type": "tv",
-            "release_date": "2025-07-12",
-            "overview": "1995年，走私商卢少骅一夜间倾家荡产，却也因此意识到一种新型毒品——冰毒，所能带来的巨大利润，他心生邪念，成为一名制毒师。彼时，缉毒警林强峰结束卧底生涯，为追查毒品线索调任西港市缉毒支队。数年间，林强峰带队投身于这场扫毒风暴，而卢少骅则辗转国内外，结识了一众毒枭，野心不断膨胀……最终，以林强峰为代表的缉毒警不辱使命，力破卢少骅诡诈的毒网阴谋。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/k3hO8nBPlUDpGWDTrEQPXMCo3dv.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/aZB8p8mM90tGCIozwVwS7w3KC4A.jpg",
-            "genreTitle": "犯罪, 剧情"
-        },
-        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -143,6 +121,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
             "genreTitle": "动作, 惊悚, 犯罪"
+        },
+        {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
+            "genreTitle": "恐怖, 惊悚, 动作"
         },
         {
             "id": 1130022,
@@ -156,6 +145,17 @@
             "genreTitle": "犯罪, 剧情, 惊悚"
         },
         {
+            "id": 239826,
+            "title": "巴拉德",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+            "genreTitle": "犯罪, 剧情"
+        },
+        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -165,39 +165,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
             "genreTitle": "动作, 剧情"
-        },
-        {
-            "id": 232402,
-            "title": "S Line",
-            "type": "tv",
-            "release_date": "2025-07-11",
-            "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
-            "rating": 9.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
-            "genreTitle": "Sci-Fi & Fantasy, 剧情, 悬疑"
-        },
-        {
-            "id": 239826,
-            "title": "巴拉德",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
-            "genreTitle": "犯罪, 剧情"
-        },
-        {
-            "id": 749170,
-            "title": "国家元首",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
-            "genreTitle": "动作, 惊悚, 喜剧"
         },
         {
             "id": 240411,
@@ -220,6 +187,39 @@
             "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg",
             "genreTitle": "动画, 悬疑, 动作冒险"
+        },
+        {
+            "id": 232402,
+            "title": "S Line",
+            "type": "tv",
+            "release_date": "2025-07-11",
+            "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
+            "rating": 9.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
+            "genreTitle": "Sci-Fi & Fantasy, 剧情, 悬疑"
+        },
+        {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+            "genreTitle": "动作冒险, 悬疑, 剧情"
+        },
+        {
+            "id": 749170,
+            "title": "国家元首",
+            "type": "movie",
+            "release_date": "2025-07-02",
+            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
+            "genreTitle": "动作, 惊悚, 喜剧"
         }
     ],
     "week_global_all": [
@@ -246,17 +246,6 @@
             "genreTitle": "动作, 冒险, 剧情"
         },
         {
-            "id": 986056,
-            "title": "雷霆特攻队*",
-            "type": "movie",
-            "release_date": "2025-04-30",
-            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-            "genreTitle": "动作, 科幻, 冒险"
-        },
-        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -266,6 +255,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
             "genreTitle": "动作, 惊悚, 犯罪"
+        },
+        {
+            "id": 986056,
+            "title": "雷霆特攻队*",
+            "type": "movie",
+            "release_date": "2025-04-30",
+            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+            "genreTitle": "动作, 科幻, 冒险"
         },
         {
             "id": 1234821,
@@ -290,15 +290,15 @@
             "genreTitle": "科幻, 惊悚"
         },
         {
-            "id": 749170,
-            "title": "国家元首",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
-            "genreTitle": "动作, 惊悚, 喜剧"
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+            "genreTitle": "动作冒险, 悬疑, 剧情"
         },
         {
             "id": 911430,
@@ -312,15 +312,26 @@
             "genreTitle": "动作, 剧情"
         },
         {
-            "id": 93405,
-            "title": "鱿鱼游戏",
+            "id": 749170,
+            "title": "国家元首",
+            "type": "movie",
+            "release_date": "2025-07-02",
+            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
+            "genreTitle": "动作, 惊悚, 喜剧"
+        },
+        {
+            "id": 240411,
+            "title": "胆大党",
             "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-            "genreTitle": "动作冒险, 悬疑, 剧情"
+            "release_date": "2024-10-04",
+            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+            "genreTitle": "动画, 动作冒险, 喜剧"
         },
         {
             "id": 239826,
@@ -328,7 +339,7 @@
             "type": "tv",
             "release_date": "2025-07-09",
             "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.4,
+            "rating": 7.5,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
             "genreTitle": "犯罪, 剧情"
@@ -343,17 +354,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
             "genreTitle": "恐怖, 动作, 惊悚"
-        },
-        {
-            "id": 240411,
-            "title": "胆大党",
-            "type": "tv",
-            "release_date": "2024-10-04",
-            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-            "genreTitle": "动画, 动作冒险, 喜剧"
         },
         {
             "id": 123249,
@@ -389,6 +389,17 @@
             "genreTitle": "音乐, 冒险, 爱情"
         },
         {
+            "id": 1374534,
+            "title": "凹凸双雄",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
+            "rating": 5.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
+            "genreTitle": "动作, 喜剧, 犯罪"
+        },
+        {
             "id": 241554,
             "title": "Murderbot",
             "type": "tv",
@@ -420,17 +431,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
             "genreTitle": "Sci-Fi & Fantasy, 剧情"
-        },
-        {
-            "id": 1374534,
-            "title": "凹凸双雄",
-            "type": "movie",
-            "release_date": "2025-07-10",
-            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
-            "rating": 5.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
-            "genreTitle": "动作, 喜剧, 犯罪"
         },
         {
             "id": 82739,
