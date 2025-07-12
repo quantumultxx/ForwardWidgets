@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13 06:44:40",
+    "last_updated": "2025-07-13 06:56:40",
     "today_global": [
         {
             "id": 1061474,
@@ -40,7 +40,7 @@
             "type": "movie",
             "release_date": "2025-07-10",
             "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
-            "rating": 6.3,
+            "rating": 6.5,
             "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg",
             "genreTitle": "音乐, 冒险, 爱情"
@@ -123,17 +123,6 @@
             "genreTitle": "动作, 惊悚, 犯罪"
         },
         {
-            "id": 93405,
-            "title": "鱿鱼游戏",
-            "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-            "genreTitle": "动作冒险, 悬疑, 剧情"
-        },
-        {
             "id": 1429744,
             "title": "尸杀泰拳",
             "type": "movie",
@@ -143,6 +132,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
             "genreTitle": "恐怖, 惊悚, 动作"
+        },
+        {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+            "genreTitle": "动作冒险, 悬疑, 剧情"
         },
         {
             "id": 239826,
@@ -178,28 +178,6 @@
             "genreTitle": "动画, 喜剧, 剧情"
         },
         {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
-            "genreTitle": "动作, 剧情"
-        },
-        {
-            "id": 253811,
-            "title": "桃源暗鬼",
-            "type": "tv",
-            "release_date": "2025-07-11",
-            "overview": "　　体内流淌着鬼之血……\n\n　　部分人类世代传承着“鬼”与“桃太郎”的血脉。\n\n　　远古时代，自觉凶暴的“鬼”曾隐居生活，却遭到“桃太郎”的讨伐。双方分别组建了“桃太郎机关”与“鬼机关”，展开了数千年的对抗。主角一之濑四季突遭“桃太郎”袭击，才得知自己是“鬼”。当他遇见寄宿在自己血脉中的“鬼”时，其宿命已然展开——\n\n　　新世代暗黑英雄传奇《鬼谭》，就此开幕！",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg",
-            "genreTitle": "动画, 悬疑, 动作冒险"
-        },
-        {
             "id": 1233413,
             "title": "罪人",
             "type": "movie",
@@ -211,6 +189,17 @@
             "genreTitle": "恐怖, 动作, 惊悚"
         },
         {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+            "genreTitle": "动作, 剧情"
+        },
+        {
             "id": 1130022,
             "title": "自主公民",
             "type": "movie",
@@ -220,6 +209,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg",
             "genreTitle": "犯罪, 剧情, 惊悚"
+        },
+        {
+            "id": 253811,
+            "title": "桃源暗鬼",
+            "type": "tv",
+            "release_date": "2025-07-11",
+            "overview": "　　体内流淌着鬼之血……\n\n　　部分人类世代传承着“鬼”与“桃太郎”的血脉。\n\n　　远古时代，自觉凶暴的“鬼”曾隐居生活，却遭到“桃太郎”的讨伐。双方分别组建了“桃太郎机关”与“鬼机关”，展开了数千年的对抗。主角一之濑四季突遭“桃太郎”袭击，才得知自己是“鬼”。当他遇见寄宿在自己血脉中的“鬼”时，其宿命已然展开——\n\n　　新世代暗黑英雄传奇《鬼谭》，就此开幕！",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg",
+            "genreTitle": "动画, 悬疑, 动作冒险"
         }
     ],
     "week_global_all": [
@@ -400,6 +400,17 @@
             "genreTitle": "动作, 喜剧, 犯罪"
         },
         {
+            "id": 259909,
+            "title": "嗜血法医：杀魔复生",
+            "type": "tv",
+            "release_date": "2025-07-13",
+            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
+            "rating": 9.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
+            "genreTitle": "犯罪, 剧情"
+        },
+        {
             "id": 93740,
             "title": "Foundation",
             "type": "tv",
@@ -420,17 +431,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
             "genreTitle": "动作, 奇幻"
-        },
-        {
-            "id": 259909,
-            "title": "嗜血法医：杀魔复生",
-            "type": "tv",
-            "release_date": "2025-07-13",
-            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
-            "rating": 9.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
-            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 82739,
