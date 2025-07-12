@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12 19:19:25",
+    "last_updated": "2025-07-12 19:40:23",
     "today_global": [
         {
             "id": 1374534,
@@ -8,7 +8,7 @@
             "release_date": "2025-07-10",
             "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
             "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/vRfaESjUXHvsSv1fx8keTiLavZt.jpg",
+            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg"
         },
         {
@@ -152,16 +152,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
         },
         {
-            "id": 253811,
-            "title": "桃源暗鬼",
-            "type": "tv",
-            "release_date": "2025-07-11",
-            "overview": "　　体内流淌着鬼之血……\n\n　　部分人类世代传承着“鬼”与“桃太郎”的血脉。\n\n　　远古时代，自觉凶暴的“鬼”曾隐居生活，却遭到“桃太郎”的讨伐。双方分别组建了“桃太郎机关”与“鬼机关”，展开了数千年的对抗。主角一之濑四季突遭“桃太郎”袭击，才得知自己是“鬼”。当他遇见寄宿在自己血脉中的“鬼”时，其宿命已然展开——\n\n　　新世代暗黑英雄传奇《鬼谭》，就此开幕！",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg"
-        },
-        {
             "id": 1234821,
             "title": "侏罗纪世界：重生",
             "type": "movie",
@@ -170,6 +160,16 @@
             "rating": 6.4,
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
+        },
+        {
+            "id": 253811,
+            "title": "桃源暗鬼",
+            "type": "tv",
+            "release_date": "2025-07-11",
+            "overview": "　　体内流淌着鬼之血……\n\n　　部分人类世代传承着“鬼”与“桃太郎”的血脉。\n\n　　远古时代，自觉凶暴的“鬼”曾隐居生活，却遭到“桃太郎”的讨伐。双方分别组建了“桃太郎机关”与“鬼机关”，展开了数千年的对抗。主角一之濑四季突遭“桃太郎”袭击，才得知自己是“鬼”。当他遇见寄宿在自己血脉中的“鬼”时，其宿命已然展开——\n\n　　新世代暗黑英雄传奇《鬼谭》，就此开幕！",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg"
         },
         {
             "id": 232402,
@@ -254,6 +254,26 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
+            "id": 259909,
+            "title": "嗜血法医：杀魔复生",
+            "type": "tv",
+            "release_date": "2025-07-13",
+            "overview": "",
+            "rating": 9.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
+        },
+        {
+            "id": 1374534,
+            "title": "凹凸双雄",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
+            "rating": 6.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg"
+        },
+        {
             "id": 1234821,
             "title": "侏罗纪世界：重生",
             "type": "movie",
@@ -274,24 +294,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
         },
         {
-            "id": 1374534,
-            "title": "凹凸双雄",
+            "id": 1243341,
+            "title": "僵尸高校4：吸血鬼黎明",
             "type": "movie",
             "release_date": "2025-07-10",
-            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
-            "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg"
-        },
-        {
-            "id": 259909,
-            "title": "嗜血法医：杀魔复生",
-            "type": "tv",
-            "release_date": "2025-07-13",
-            "overview": "",
-            "rating": 9.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
+            "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
+            "rating": 6.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
         },
         {
             "id": 911430,
@@ -304,16 +314,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         },
         {
-            "id": 1243341,
-            "title": "僵尸高校4：吸血鬼黎明",
-            "type": "movie",
-            "release_date": "2025-07-10",
-            "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
-            "rating": 6.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
-        },
-        {
             "id": 749170,
             "title": "国家元首",
             "type": "movie",
@@ -322,6 +322,16 @@
             "rating": 7.0,
             "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
+        },
+        {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 240411,
@@ -342,16 +352,6 @@
             "rating": 6.1,
             "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
-        },
-        {
-            "id": 93740,
-            "title": "Foundation",
-            "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 239826,
