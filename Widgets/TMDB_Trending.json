@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12 17:42:17",
+    "last_updated": "2025-07-12 17:54:14",
     "today_global": [
         {
             "id": 1374534,
@@ -92,6 +92,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
         },
         {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
+        },
+        {
             "id": 1391013,
             "title": "像你这样的人",
             "type": "movie",
@@ -110,16 +120,6 @@
             "rating": 6.5,
             "poster_url": "https://image.tmdb.org/t/p/original/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg"
-        },
-        {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
         },
         {
             "id": 986056,
@@ -142,16 +142,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
-            "id": 253811,
-            "title": "桃源暗鬼",
-            "type": "tv",
-            "release_date": "2025-07-11",
-            "overview": "　　体内流淌着鬼之血……\n\n　　部分人类世代传承着“鬼”与“桃太郎”的血脉。\n\n　　远古时代，自觉凶暴的“鬼”曾隐居生活，却遭到“桃太郎”的讨伐。双方分别组建了“桃太郎机关”与“鬼机关”，展开了数千年的对抗。主角一之濑四季突遭“桃太郎”袭击，才得知自己是“鬼”。当他遇见寄宿在自己血脉中的“鬼”时，其宿命已然展开——\n\n　　新世代暗黑英雄传奇《鬼谭》，就此开幕！",
-            "rating": 10.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg"
-        },
-        {
             "id": 1234821,
             "title": "侏罗纪世界：重生",
             "type": "movie",
@@ -170,6 +160,16 @@
             "rating": 7.3,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
+        },
+        {
+            "id": 253811,
+            "title": "桃源暗鬼",
+            "type": "tv",
+            "release_date": "2025-07-11",
+            "overview": "　　体内流淌着鬼之血……\n\n　　部分人类世代传承着“鬼”与“桃太郎”的血脉。\n\n　　远古时代，自觉凶暴的“鬼”曾隐居生活，却遭到“桃太郎”的讨伐。双方分别组建了“桃太郎机关”与“鬼机关”，展开了数千年的对抗。主角一之濑四季突遭“桃太郎”袭击，才得知自己是“鬼”。当他遇见寄宿在自己血脉中的“鬼”时，其宿命已然展开——\n\n　　新世代暗黑英雄传奇《鬼谭》，就此开幕！",
+            "rating": 10.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg"
         },
         {
             "id": 232402,
@@ -254,6 +254,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
+            "id": 1425045,
+            "title": "砖墙谜攻",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+            "rating": 5.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
+        },
+        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -274,24 +284,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
-            "id": 1425045,
-            "title": "砖墙谜攻",
+            "id": 1374534,
+            "title": "凹凸双雄",
             "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
-        },
-        {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
+            "release_date": "2025-07-10",
+            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
+            "rating": 6.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/vRfaESjUXHvsSv1fx8keTiLavZt.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg"
         },
         {
             "id": 259909,
@@ -314,6 +314,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
         },
         {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
+        },
+        {
             "id": 240411,
             "title": "胆大党",
             "type": "tv",
@@ -322,26 +332,6 @@
             "rating": 8.6,
             "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
-        },
-        {
-            "id": 1374534,
-            "title": "凹凸双雄",
-            "type": "movie",
-            "release_date": "2025-07-10",
-            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
-            "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/vRfaESjUXHvsSv1fx8keTiLavZt.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg"
-        },
-        {
-            "id": 241554,
-            "title": "Murderbot",
-            "type": "tv",
-            "release_date": "2025-05-15",
-            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
         },
         {
             "id": 1243341,
@@ -354,14 +344,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
+            "id": 241554,
+            "title": "Murderbot",
             "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
         },
         {
             "id": 239826,
@@ -372,6 +362,16 @@
             "rating": 7.3,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
+        },
+        {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 1233413,
