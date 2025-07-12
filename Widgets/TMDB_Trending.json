@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12 23:43:31",
+    "last_updated": "2025-07-12 23:55:58",
     "today_global": [
         {
             "id": 1374534,
@@ -290,6 +290,17 @@
             "genreTitle": "动作, 剧情"
         },
         {
+            "id": 259909,
+            "title": "嗜血法医：杀魔复生",
+            "type": "tv",
+            "release_date": "2025-07-13",
+            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
+            "rating": 9.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
+            "genreTitle": "犯罪, 剧情"
+        },
+        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -310,17 +321,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
             "genreTitle": "科幻, 冒险, 动作"
-        },
-        {
-            "id": 259909,
-            "title": "嗜血法医：杀魔复生",
-            "type": "tv",
-            "release_date": "2025-07-13",
-            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
-            "rating": 9.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
-            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 1425045,
@@ -367,17 +367,6 @@
             "genreTitle": "喜剧, 剧情, Sci-Fi & Fantasy"
         },
         {
-            "id": 846422,
-            "title": "永生守卫2",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
-            "genreTitle": "动作, 奇幻"
-        },
-        {
             "id": 1374534,
             "title": "凹凸双雄",
             "type": "movie",
@@ -387,6 +376,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
             "genreTitle": "动作, 喜剧, 犯罪"
+        },
+        {
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
+            "genreTitle": "动作, 奇幻"
         },
         {
             "id": 93740,
@@ -433,15 +433,15 @@
             "genreTitle": "音乐, 冒险, 爱情"
         },
         {
-            "id": 123249,
-            "title": "更衣人偶坠入爱河",
-            "type": "tv",
-            "release_date": "2022-01-09",
-            "overview": "男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
-            "rating": 8.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
-            "genreTitle": "动画, 喜剧, 剧情"
+            "id": 1042834,
+            "title": "伊甸",
+            "type": "movie",
+            "release_date": "2024-09-07",
+            "overview": "　　聚焦一群不可思议的人，他们独立背弃了社会，每个人都被渴望改变的强烈愿望所驱使，他们抛下一切，将自己的未来押在最不可能的地方——环境严酷的加拉帕戈斯群岛。",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/a4eOEvtsunTot0p2L88VMcIpnQX.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg",
+            "genreTitle": "惊悚, 剧情"
         }
     ]
 }
