@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13 03:19:09",
+    "last_updated": "2025-07-13 03:39:30",
     "today_global": [
         {
             "id": 1374534,
@@ -123,17 +123,6 @@
             "genreTitle": "犯罪, 剧情"
         },
         {
-            "id": 1130022,
-            "title": "自主公民",
-            "type": "movie",
-            "release_date": "2025-07-11",
-            "overview": "",
-            "rating": 6.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg",
-            "genreTitle": "犯罪, 剧情, 惊悚"
-        },
-        {
             "id": 1429744,
             "title": "尸杀泰拳",
             "type": "movie",
@@ -143,6 +132,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
             "genreTitle": "恐怖, 惊悚, 动作"
+        },
+        {
+            "id": 1130022,
+            "title": "自主公民",
+            "type": "movie",
+            "release_date": "2025-07-11",
+            "overview": "",
+            "rating": 6.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg",
+            "genreTitle": "犯罪, 剧情, 惊悚"
         },
         {
             "id": 541671,
@@ -156,6 +156,17 @@
             "genreTitle": "动作, 惊悚, 犯罪"
         },
         {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+            "genreTitle": "动作, 剧情"
+        },
+        {
             "id": 232402,
             "title": "S Line",
             "type": "tv",
@@ -167,15 +178,15 @@
             "genreTitle": "Sci-Fi & Fantasy, 剧情, 悬疑"
         },
         {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
-            "genreTitle": "动作, 剧情"
+            "id": 239826,
+            "title": "巴拉德",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 749170,
@@ -198,17 +209,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/aVG8MTcg6MdTPlbs3S5w5L2enSI.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/bJDFlfg7DNCwtoQJWcEOO0NRiUr.jpg",
             "genreTitle": "动画, 悬疑, 动作冒险"
-        },
-        {
-            "id": 239826,
-            "title": "巴拉德",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
-            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 240411,
@@ -290,17 +290,6 @@
             "genreTitle": "动作, 惊悚, 喜剧"
         },
         {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
-            "genreTitle": "动作, 剧情"
-        },
-        {
             "id": 1425045,
             "title": "砖墙谜攻",
             "type": "movie",
@@ -310,6 +299,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
             "genreTitle": "科幻, 惊悚"
+        },
+        {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+            "genreTitle": "动作, 剧情"
         },
         {
             "id": 93405,
@@ -334,28 +334,6 @@
             "genreTitle": "动画, 动作冒险, 喜剧"
         },
         {
-            "id": 239826,
-            "title": "巴拉德",
-            "type": "tv",
-            "release_date": "2025-07-09",
-            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
-            "genreTitle": "犯罪, 剧情"
-        },
-        {
-            "id": 846422,
-            "title": "永生守卫2",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
-            "genreTitle": "动作, 奇幻"
-        },
-        {
             "id": 123249,
             "title": "更衣人偶坠入爱河",
             "type": "tv",
@@ -365,6 +343,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/d8LIz1CKmwGGKA6zK1XqHgPlzjv.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
             "genreTitle": "动画, 喜剧, 剧情"
+        },
+        {
+            "id": 239826,
+            "title": "巴拉德",
+            "type": "tv",
+            "release_date": "2025-07-09",
+            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 1233413,
@@ -378,15 +367,15 @@
             "genreTitle": "恐怖, 动作, 惊悚"
         },
         {
-            "id": 241554,
-            "title": "Murderbot",
-            "type": "tv",
-            "release_date": "2025-05-15",
-            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
-            "genreTitle": "喜剧, 剧情, Sci-Fi & Fantasy"
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
+            "genreTitle": "动作, 奇幻"
         },
         {
             "id": 1243341,
@@ -400,15 +389,26 @@
             "genreTitle": "音乐, 冒险, 爱情"
         },
         {
-            "id": 292575,
-            "title": "扫毒风暴",
+            "id": 241554,
+            "title": "Murderbot",
             "type": "tv",
-            "release_date": "2025-07-12",
-            "overview": "1995年，走私商卢少骅一夜间倾家荡产，却也因此意识到一种新型毒品——冰毒，所能带来的巨大利润，他心生邪念，成为一名制毒师。彼时，缉毒警林强峰结束卧底生涯，为追查毒品线索调任西港市缉毒支队。数年间，林强峰带队投身于这场扫毒风暴，而卢少骅则辗转国内外，结识了一众毒枭，野心不断膨胀……最终，以林强峰为代表的缉毒警不辱使命，力破卢少骅诡诈的毒网阴谋。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/k3hO8nBPlUDpGWDTrEQPXMCo3dv.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/aZB8p8mM90tGCIozwVwS7w3KC4A.jpg",
-            "genreTitle": "犯罪, 剧情"
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
+            "genreTitle": "喜剧, 剧情, Sci-Fi & Fantasy"
+        },
+        {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+            "genreTitle": "Sci-Fi & Fantasy, 剧情"
         },
         {
             "id": 259909,
@@ -422,15 +422,15 @@
             "genreTitle": "犯罪, 剧情"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
+            "id": 292575,
+            "title": "扫毒风暴",
             "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
-            "genreTitle": "Sci-Fi & Fantasy, 剧情"
+            "release_date": "2025-07-12",
+            "overview": "1995年，走私商卢少骅一夜间倾家荡产，却也因此意识到一种新型毒品——冰毒，所能带来的巨大利润，他心生邪念，成为一名制毒师。彼时，缉毒警林强峰结束卧底生涯，为追查毒品线索调任西港市缉毒支队。数年间，林强峰带队投身于这场扫毒风暴，而卢少骅则辗转国内外，结识了一众毒枭，野心不断膨胀……最终，以林强峰为代表的缉毒警不辱使命，力破卢少骅诡诈的毒网阴谋。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/k3hO8nBPlUDpGWDTrEQPXMCo3dv.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/aZB8p8mM90tGCIozwVwS7w3KC4A.jpg",
+            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 82739,
