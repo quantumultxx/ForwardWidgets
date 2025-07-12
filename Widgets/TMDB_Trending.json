@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12 17:54:14",
+    "last_updated": "2025-07-12 18:23:37",
     "today_global": [
         {
             "id": 1374534,
@@ -42,16 +42,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
-            "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
-        },
-        {
             "id": 1425045,
             "title": "砖墙谜攻",
             "type": "movie",
@@ -60,6 +50,16 @@
             "rating": 5.7,
             "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
+        },
+        {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 1246310,
@@ -102,16 +102,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg"
         },
         {
-            "id": 1391013,
-            "title": "像你这样的人",
-            "type": "movie",
-            "release_date": "2025-07-11",
-            "overview": "Shrirenu是传统规训下的温婉女子，Madhu是敢于撕碎规则的叛逆者。当两人的世界因一次偶遇交汇，一段笨拙却炽热的爱情悄然萌芽——但父权的阴影始终如影随形，让她们在自由与束缚间反复挣扎。",
-            "rating": 8.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/flbWD0ql2Qw4DCGy94nIALGn9ob.jpg"
-        },
-        {
             "id": 1130022,
             "title": "自主公民",
             "type": "movie",
@@ -120,6 +110,16 @@
             "rating": 6.5,
             "poster_url": "https://image.tmdb.org/t/p/original/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg"
+        },
+        {
+            "id": 1391013,
+            "title": "像你这样的人",
+            "type": "movie",
+            "release_date": "2025-07-11",
+            "overview": "Shrirenu是传统规训下的温婉女子，Madhu是敢于撕碎规则的叛逆者。当两人的世界因一次偶遇交汇，一段笨拙却炽热的爱情悄然萌芽——但父权的阴影始终如影随形，让她们在自由与束缚间反复挣扎。",
+            "rating": 8.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/flbWD0ql2Qw4DCGy94nIALGn9ob.jpg"
         },
         {
             "id": 986056,
@@ -142,16 +142,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg"
         },
         {
-            "id": 1234821,
-            "title": "侏罗纪世界：重生",
-            "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-            "rating": 6.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
-        },
-        {
             "id": 239826,
             "title": "巴拉德",
             "type": "tv",
@@ -160,6 +150,16 @@
             "rating": 7.3,
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
+        },
+        {
+            "id": 1234821,
+            "title": "侏罗纪世界：重生",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+            "rating": 6.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
             "id": 253811,
@@ -192,14 +192,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
         },
         {
-            "id": 749170,
-            "title": "国家元首",
+            "id": 911430,
+            "title": "F1：狂飙飞车",
             "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg"
         }
     ],
     "week_global_all": [
@@ -222,6 +222,16 @@
             "rating": 7.2,
             "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg"
+        },
+        {
+            "id": 1425045,
+            "title": "砖墙谜攻",
+            "type": "movie",
+            "release_date": "2025-07-09",
+            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+            "rating": 5.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
         },
         {
             "id": 986056,
@@ -254,16 +264,6 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg"
         },
         {
-            "id": 1425045,
-            "title": "砖墙谜攻",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-            "rating": 5.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
-        },
-        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -272,16 +272,6 @@
             "rating": 7.9,
             "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
-        },
-        {
-            "id": 749170,
-            "title": "国家元首",
-            "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
             "id": 1374534,
@@ -304,14 +294,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg"
         },
         {
-            "id": 846422,
-            "title": "永生守卫2",
+            "id": 749170,
+            "title": "国家元首",
             "type": "movie",
-            "release_date": "2025-07-01",
-            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-            "rating": 6.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
+            "release_date": "2025-07-02",
+            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg"
         },
         {
             "id": 911430,
@@ -334,6 +324,16 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
         },
         {
+            "id": 846422,
+            "title": "永生守卫2",
+            "type": "movie",
+            "release_date": "2025-07-01",
+            "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+            "rating": 6.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg"
+        },
+        {
             "id": 1243341,
             "title": "僵尸高校4：吸血鬼黎明",
             "type": "movie",
@@ -344,14 +344,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg"
         },
         {
-            "id": 241554,
-            "title": "Murderbot",
+            "id": 93740,
+            "title": "Foundation",
             "type": "tv",
-            "release_date": "2025-05-15",
-            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
         },
         {
             "id": 239826,
@@ -364,14 +364,14 @@
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
+            "id": 241554,
+            "title": "Murderbot",
             "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg"
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg"
         },
         {
             "id": 1233413,
