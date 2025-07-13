@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13 17:26:07",
+    "last_updated": "2025-07-13 17:44:13",
     "today_global": [
         {
             "id": 1061474,
@@ -40,7 +40,7 @@
             "type": "tv",
             "release_date": "2025-07-13",
             "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
-            "rating": 9.4,
+            "rating": 9.3,
             "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
             "genreTitle": "犯罪, 剧情"
@@ -134,17 +134,6 @@
             "genreTitle": "动作, 惊悚, 犯罪"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
-            "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
-            "genreTitle": "Sci-Fi & Fantasy, 剧情"
-        },
-        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -154,6 +143,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
             "genreTitle": "动作, 剧情"
+        },
+        {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+            "genreTitle": "Sci-Fi & Fantasy, 剧情"
         },
         {
             "id": 232402,
@@ -167,17 +167,6 @@
             "genreTitle": "Sci-Fi & Fantasy, 剧情, 悬疑"
         },
         {
-            "id": 1429744,
-            "title": "尸杀泰拳",
-            "type": "movie",
-            "release_date": "2025-07-09",
-            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-            "rating": 6.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
-            "genreTitle": "恐怖, 惊悚, 动作"
-        },
-        {
             "id": 82739,
             "title": "青春猪头少年不会梦到兔女郎学姐",
             "type": "tv",
@@ -187,17 +176,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/2tKH9xWLh7LfKOBGMrMx8SFEs6H.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/ffvaWDSYLcIQRCLFLG1a3lC0xPX.jpg",
             "genreTitle": "动画, 喜剧, 悬疑"
-        },
-        {
-            "id": 1233413,
-            "title": "罪人",
-            "type": "movie",
-            "release_date": "2025-04-16",
-            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-            "rating": 7.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-            "genreTitle": "恐怖, 动作, 惊悚"
         },
         {
             "id": 1234821,
@@ -211,15 +189,37 @@
             "genreTitle": "科幻, 冒险, 动作"
         },
         {
-            "id": 239826,
-            "title": "巴拉德",
-            "type": "tv",
+            "id": 1233413,
+            "title": "罪人",
+            "type": "movie",
+            "release_date": "2025-04-16",
+            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+            "rating": 7.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+            "genreTitle": "恐怖, 动作, 惊悚"
+        },
+        {
+            "id": 1429744,
+            "title": "尸杀泰拳",
+            "type": "movie",
             "release_date": "2025-07-09",
-            "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
-            "genreTitle": "犯罪, 剧情"
+            "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
+            "rating": 6.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
+            "genreTitle": "恐怖, 惊悚, 动作"
+        },
+        {
+            "id": 292035,
+            "title": "逆爱",
+            "type": "tv",
+            "release_date": "2025-06-16",
+            "overview": "原本只是为了报复前女友，没想到撩着撩着，自己先沦陷。落魄直男吴所畏为了出气，决定把她的现任男友池骋给「撩」过来。结果这位跩跩的公子哥不但上钩，还让吴所畏自己也弯得彻底！两人从互看不顺眼，到一路暧昧，误会、偶遇、床边纠缠通通来，从情敌变情人，甜到发烫。就在感情越陷越深的时候，前任回国、秘密曝光、身份翻转——这段恋情，还有没有未来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/qXB8wIuRQ4boWSZSoLFAu5g6K9l.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/vBUnzYFcRuex2WnlfWs8hda9klR.jpg",
+            "genreTitle": "剧情, 动作冒险"
         }
     ],
     "week_global_all": [
@@ -323,17 +323,6 @@
             "genreTitle": "犯罪, 剧情"
         },
         {
-            "id": 259909,
-            "title": "嗜血法医：杀魔复生",
-            "type": "tv",
-            "release_date": "2025-07-13",
-            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
-            "rating": 9.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
-            "genreTitle": "犯罪, 剧情"
-        },
-        {
             "id": 749170,
             "title": "国家元首",
             "type": "movie",
@@ -343,6 +332,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
             "genreTitle": "动作, 惊悚, 喜剧"
+        },
+        {
+            "id": 259909,
+            "title": "嗜血法医：杀魔复生",
+            "type": "tv",
+            "release_date": "2025-07-13",
+            "overview": "　　本剧改编自同名韩剧。居住在羽多野町的女大学生富樫琴音，在自家庭院里仅留下了一截手指第一关节后神秘失踪，案件至今未解，转眼已过去25年。她的孪生哥哥富樫浩之（安田显饰）如今成为了一名警察，任职于羽多野署生活安全科。这时，一位精英警官八代真人（水上恒司饰）被调任至此。两人性格不合，却在科长森平的命令下被迫搭档。某日，在巡逻途中，他们接到报警前往搜寻一位失智老人，然而事件却由此展开…",
+            "rating": 9.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
+            "genreTitle": "犯罪, 剧情"
         },
         {
             "id": 123249,
@@ -389,17 +389,6 @@
             "genreTitle": "恐怖, 动作, 惊悚"
         },
         {
-            "id": 82739,
-            "title": "青春猪头少年不会梦到兔女郎学姐",
-            "type": "tv",
-            "release_date": "2018-10-04",
-            "overview": "思春期症候群，这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法。女主人公们一个接一个地出现于咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/2tKH9xWLh7LfKOBGMrMx8SFEs6H.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/ffvaWDSYLcIQRCLFLG1a3lC0xPX.jpg",
-            "genreTitle": "动画, 喜剧, 悬疑"
-        },
-        {
             "id": 292035,
             "title": "逆爱",
             "type": "tv",
@@ -411,15 +400,15 @@
             "genreTitle": "剧情, 动作冒险"
         },
         {
-            "id": 241554,
-            "title": "Murderbot",
+            "id": 82739,
+            "title": "青春猪头少年不会梦到兔女郎学姐",
             "type": "tv",
-            "release_date": "2025-05-15",
-            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
-            "genreTitle": "喜剧, 剧情, Sci-Fi & Fantasy"
+            "release_date": "2018-10-04",
+            "overview": "思春期症候群，这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法。女主人公们一个接一个地出现于咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。",
+            "rating": 8.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/2tKH9xWLh7LfKOBGMrMx8SFEs6H.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/ffvaWDSYLcIQRCLFLG1a3lC0xPX.jpg",
+            "genreTitle": "动画, 喜剧, 悬疑"
         },
         {
             "id": 93740,
@@ -431,6 +420,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
             "genreTitle": "Sci-Fi & Fantasy, 剧情"
+        },
+        {
+            "id": 241554,
+            "title": "Murderbot",
+            "type": "tv",
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
+            "genreTitle": "喜剧, 剧情, Sci-Fi & Fantasy"
         },
         {
             "id": 1429744,
