@@ -88,7 +88,7 @@ def process_tmdb_data(data, time_window, media_type):
                 detail_data = get_media_details(item_type, media_id)
                 if detail_data:
                     genres = detail_data.get("genres", [])
-                    genre_title = ", ".join([g["name"] for g in genres[:3]])
+                    genre_title = ", ".join([g["name"] for g in genres[:1]])
 
         results.append({
             "id": media_id,
