@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-15 03:25:03",
+    "last_updated": "2025-07-15 03:40:30",
     "today_global": [
         {
             "id": 1061474,
@@ -57,17 +57,6 @@
             "genreTitle": "音乐"
         },
         {
-            "id": 1374534,
-            "title": "凹凸双雄",
-            "type": "movie",
-            "release_date": "2025-07-10",
-            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
-            "rating": 5.2,
-            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
-            "genreTitle": "动作"
-        },
-        {
             "id": 207332,
             "title": "坂本日常",
             "type": "tv",
@@ -79,15 +68,15 @@
             "genreTitle": "动画"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
-            "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
-            "genreTitle": "Sci-Fi & Fantasy"
+            "id": 1374534,
+            "title": "凹凸双雄",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
+            "rating": 5.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
+            "genreTitle": "动作"
         },
         {
             "id": 617126,
@@ -112,6 +101,28 @@
             "genreTitle": "动作冒险"
         },
         {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+            "genreTitle": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 986056,
+            "title": "雷霆特攻队*",
+            "type": "movie",
+            "release_date": "2025-04-30",
+            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+            "genreTitle": "动作"
+        },
+        {
             "id": 1011477,
             "title": "功夫梦：融合之道",
             "type": "movie",
@@ -123,14 +134,25 @@
             "genreTitle": "动作"
         },
         {
-            "id": 986056,
-            "title": "雷霆特攻队*",
+            "id": 1326106,
+            "title": "怪兽8号 第一季 总集篇",
             "type": "movie",
-            "release_date": "2025-04-30",
-            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+            "release_date": "2025-03-28",
+            "overview": "地点为怪兽大国日本。 从事清洁业的日比野卡夫卡在因缘际会下，再次下定决心，要再次见到现身为日本防卫队的希望之星，同时亦是卡夫卡的儿时玩伴—亚白米娜，却在这个紧要关头，变身成为拥有强大力量的「怪兽8号」。 在其后辈. 市川雷诺的协助下得以隐藏身分，通过了防卫队员选拔试验，经历了首次实战，卡夫卡一步步朝向过去曾有过的梦想迈进。 然而好景不常，某天拥有高度智慧的神秘怪兽袭击了防卫队基地！ 在绝望的情况下，卡夫卡被迫做出重大抉择...。 番外篇「保科放大假」大纲： 放大假，此为防卫队员百忙之中的安养之日... 长期沉浸于训练之中，早已忘记该如何度过假日的雷诺，却从跟自己一样是放假的保科身上，察觉到一股异样的氛围，于是决定和伊春进行跟踪作战！ 然而事情却开始朝向出乎意料的方向发展...？！",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/gGjJIqPkPYLnbEvsACDQn8ZIEBh.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
+            "genreTitle": "动画"
+        },
+        {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
             "genreTitle": "动作"
         },
         {
@@ -167,25 +189,14 @@
             "genreTitle": "科幻"
         },
         {
-            "id": 1326106,
-            "title": "怪兽8号 第一季 总集篇",
+            "id": 7451,
+            "title": "极限特工",
             "type": "movie",
-            "release_date": "2025-03-28",
-            "overview": "地点为怪兽大国日本。 从事清洁业的日比野卡夫卡在因缘际会下，再次下定决心，要再次见到现身为日本防卫队的希望之星，同时亦是卡夫卡的儿时玩伴—亚白米娜，却在这个紧要关头，变身成为拥有强大力量的「怪兽8号」。 在其后辈. 市川雷诺的协助下得以隐藏身分，通过了防卫队员选拔试验，经历了首次实战，卡夫卡一步步朝向过去曾有过的梦想迈进。 然而好景不常，某天拥有高度智慧的神秘怪兽袭击了防卫队基地！ 在绝望的情况下，卡夫卡被迫做出重大抉择...。 番外篇「保科放大假」大纲： 放大假，此为防卫队员百忙之中的安养之日... 长期沉浸于训练之中，早已忘记该如何度过假日的雷诺，却从跟自己一样是放假的保科身上，察觉到一股异样的氛围，于是决定和伊春进行跟踪作战！ 然而事情却开始朝向出乎意料的方向发展...？！",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/gGjJIqPkPYLnbEvsACDQn8ZIEBh.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
-            "genreTitle": "动画"
-        },
-        {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+            "release_date": "2002-08-09",
+            "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+            "rating": 5.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
             "genreTitle": "动作"
         },
         {
@@ -208,17 +219,6 @@
             "rating": 7.5,
             "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
-            "genreTitle": "动作"
-        },
-        {
-            "id": 7451,
-            "title": "极限特工",
-            "type": "movie",
-            "release_date": "2002-08-09",
-            "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-            "rating": 5.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
             "genreTitle": "动作"
         }
     ],
@@ -257,17 +257,6 @@
             "genreTitle": "科幻"
         },
         {
-            "id": 240411,
-            "title": "胆大党",
-            "type": "tv",
-            "release_date": "2024-10-04",
-            "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-            "genreTitle": "动画"
-        },
-        {
             "id": 259909,
             "title": "嗜血法医：杀魔复生",
             "type": "tv",
@@ -277,6 +266,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/UI2S7dJdGylqp9xK3GwRt7zz68.jpg",
             "genreTitle": "犯罪"
+        },
+        {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+            "genreTitle": "动作冒险"
         },
         {
             "id": 986056,
@@ -323,17 +323,6 @@
             "genreTitle": "动作"
         },
         {
-            "id": 93405,
-            "title": "鱿鱼游戏",
-            "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-            "genreTitle": "动作冒险"
-        },
-        {
             "id": 911430,
             "title": "F1：狂飙飞车",
             "type": "movie",
@@ -356,17 +345,6 @@
             "genreTitle": "Sci-Fi & Fantasy"
         },
         {
-            "id": 1243341,
-            "title": "僵尸高校4：吸血鬼黎明",
-            "type": "movie",
-            "release_date": "2025-07-10",
-            "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg",
-            "genreTitle": "音乐"
-        },
-        {
             "id": 1429744,
             "title": "尸杀泰拳",
             "type": "movie",
@@ -378,14 +356,36 @@
             "genreTitle": "恐怖"
         },
         {
+            "id": 1243341,
+            "title": "僵尸高校4：吸血鬼黎明",
+            "type": "movie",
+            "release_date": "2025-07-10",
+            "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg",
+            "genreTitle": "音乐"
+        },
+        {
             "id": 1374534,
             "title": "凹凸双雄",
             "type": "movie",
             "release_date": "2025-07-10",
             "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
-            "rating": 5.2,
+            "rating": 5.3,
             "poster_url": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
+            "genreTitle": "动作"
+        },
+        {
+            "id": 749170,
+            "title": "国家元首",
+            "type": "movie",
+            "release_date": "2025-07-02",
+            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
+            "rating": 7.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
             "genreTitle": "动作"
         },
         {
@@ -400,17 +400,6 @@
             "genreTitle": "恐怖"
         },
         {
-            "id": 803796,
-            "title": "K-POP：猎魔女团",
-            "type": "movie",
-            "release_date": "2025-06-20",
-            "overview": "K-pop 超级明星鲁米、米拉和佐伊如果不是在座无虚席的体育场举办演唱会，就是在利用自己的秘密力量保护粉丝们免受超自然威胁。",
-            "rating": 8.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/l48vxsG9FLs8SEFoWuds7K6uxVv.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rJjhOuRFldNF0OWSuSk4PiCLmeA.jpg",
-            "genreTitle": "动画"
-        },
-        {
             "id": 846422,
             "title": "永生守卫2",
             "type": "movie",
@@ -422,15 +411,26 @@
             "genreTitle": "动作"
         },
         {
-            "id": 749170,
-            "title": "国家元首",
+            "id": 617126,
+            "title": "神奇4侠：初露锋芒",
             "type": "movie",
-            "release_date": "2025-07-02",
-            "overview": "英国首相 和美国总统 的公开争执让两国联盟岌岌可危。然而，当他们成为某个强大势力的袭击目标后，这对冤家不得不放下分歧，展开一场横跨多国的疯狂行动。在军情六处精英特工诺埃尔 的协助下，他们必须想方设法挫败那个威胁整个自由世界的惊天阴谋。",
-            "rating": 7.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/gsp6imDEkBtJV0BZ1HMdEcG9UH7.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
-            "genreTitle": "动作"
+            "release_date": "2025-07-23",
+            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+            "genreTitle": "科幻"
+        },
+        {
+            "id": 241554,
+            "title": "Murderbot",
+            "type": "tv",
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
+            "genreTitle": "喜剧"
         },
         {
             "id": 243083,
