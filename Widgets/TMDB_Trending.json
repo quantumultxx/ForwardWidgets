@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-15 17:44:45",
+    "last_updated": "2025-07-15 17:58:21",
     "today_global": [
         {
             "id": 1087192,
@@ -51,7 +51,7 @@
             "type": "tv",
             "release_date": "2025-07-13",
             "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
-            "rating": 7.9,
+            "rating": 8.1,
             "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
             "genreTitle": "悬疑"
@@ -68,17 +68,6 @@
             "genreTitle": "惊悚"
         },
         {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
-            "genreTitle": "动作"
-        },
-        {
             "id": 259909,
             "title": "嗜血法医：杀魔复生",
             "type": "tv",
@@ -88,6 +77,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/UI2S7dJdGylqp9xK3GwRt7zz68.jpg",
             "genreTitle": "犯罪"
+        },
+        {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+            "genreTitle": "动作"
         },
         {
             "id": 617126,
@@ -279,17 +279,6 @@
             "genreTitle": "动作"
         },
         {
-            "id": 911430,
-            "title": "F1：狂飙飞车",
-            "type": "movie",
-            "release_date": "2025-06-25",
-            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-            "rating": 7.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
-            "genreTitle": "动作"
-        },
-        {
             "id": 259909,
             "title": "嗜血法医：杀魔复生",
             "type": "tv",
@@ -299,6 +288,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/UI2S7dJdGylqp9xK3GwRt7zz68.jpg",
             "genreTitle": "犯罪"
+        },
+        {
+            "id": 911430,
+            "title": "F1：狂飙飞车",
+            "type": "movie",
+            "release_date": "2025-06-25",
+            "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+            "rating": 7.7,
+            "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+            "genreTitle": "动作"
         },
         {
             "id": 1234821,
@@ -323,17 +323,6 @@
             "genreTitle": "犯罪"
         },
         {
-            "id": 986056,
-            "title": "雷霆特攻队*",
-            "type": "movie",
-            "release_date": "2025-04-30",
-            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-            "rating": 7.4,
-            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-            "genreTitle": "动作"
-        },
-        {
             "id": 541671,
             "title": "疾速追杀：芭蕾杀姬",
             "type": "movie",
@@ -345,15 +334,15 @@
             "genreTitle": "动作"
         },
         {
-            "id": 93405,
-            "title": "鱿鱼游戏",
-            "type": "tv",
-            "release_date": "2021-09-17",
-            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-            "rating": 7.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-            "genreTitle": "动作冒险"
+            "id": 986056,
+            "title": "雷霆特攻队*",
+            "type": "movie",
+            "release_date": "2025-04-30",
+            "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+            "rating": 7.4,
+            "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+            "genreTitle": "动作"
         },
         {
             "id": 93740,
@@ -365,6 +354,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
             "genreTitle": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 93405,
+            "title": "鱿鱼游戏",
+            "type": "tv",
+            "release_date": "2021-09-17",
+            "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+            "rating": 7.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+            "genreTitle": "动作冒险"
         },
         {
             "id": 1243341,
@@ -400,6 +400,17 @@
             "genreTitle": "动画"
         },
         {
+            "id": 207332,
+            "title": "坂本日常",
+            "type": "tv",
+            "release_date": "2025-01-11",
+            "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
+            "rating": 8.1,
+            "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
+            "genreTitle": "动画"
+        },
+        {
             "id": 1429744,
             "title": "尸杀泰拳",
             "type": "movie",
@@ -420,17 +431,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
             "genreTitle": "科幻"
-        },
-        {
-            "id": 207332,
-            "title": "坂本日常",
-            "type": "tv",
-            "release_date": "2025-01-11",
-            "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
-            "rating": 8.1,
-            "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
-            "genreTitle": "动画"
         },
         {
             "id": 241554,
