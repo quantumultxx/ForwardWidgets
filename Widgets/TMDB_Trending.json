@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-15 22:29:35",
+    "last_updated": "2025-07-15 22:49:59",
     "today_global": [
         {
             "id": 1087192,
@@ -57,6 +57,17 @@
             "genreTitle": "悬疑"
         },
         {
+            "id": 617126,
+            "title": "神奇4侠：初露锋芒",
+            "type": "movie",
+            "release_date": "2025-07-23",
+            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+            "rating": 0.0,
+            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+            "genreTitle": "科幻"
+        },
+        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -99,17 +110,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
             "genreTitle": "惊悚"
-        },
-        {
-            "id": 617126,
-            "title": "神奇4侠：初露锋芒",
-            "type": "movie",
-            "release_date": "2025-07-23",
-            "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-            "rating": 0.0,
-            "poster_url": "https://image.tmdb.org/t/p/original/wMYCHC0LE8sHvI35LzSOQxAD2x6.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-            "genreTitle": "科幻"
         },
         {
             "id": 986056,
@@ -178,14 +178,14 @@
             "genreTitle": "动作"
         },
         {
-            "id": 93740,
-            "title": "Foundation",
+            "id": 232402,
+            "title": "S Line",
             "type": "tv",
-            "release_date": "2021-09-23",
-            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-            "rating": 7.8,
-            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+            "release_date": "2025-07-11",
+            "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
+            "rating": 9.2,
+            "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
             "genreTitle": "Sci-Fi & Fantasy"
         },
         {
@@ -200,6 +200,17 @@
             "genreTitle": "音乐"
         },
         {
+            "id": 93740,
+            "title": "Foundation",
+            "type": "tv",
+            "release_date": "2021-09-23",
+            "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+            "rating": 7.8,
+            "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+            "genreTitle": "Sci-Fi & Fantasy"
+        },
+        {
             "id": 1233413,
             "title": "罪人",
             "type": "movie",
@@ -209,17 +220,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
             "genreTitle": "恐怖"
-        },
-        {
-            "id": 936108,
-            "title": "魔法蓝精灵",
-            "type": "movie",
-            "release_date": "2025-06-30",
-            "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
-            "rating": 6.7,
-            "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nZFgO3BDxpLzTpDXhYbdXBGdUVm.jpg",
-            "genreTitle": "动画"
         }
     ],
     "week_global_all": [
@@ -246,17 +246,6 @@
             "genreTitle": "奇幻"
         },
         {
-            "id": 1011477,
-            "title": "功夫梦：融合之道",
-            "type": "movie",
-            "release_date": "2025-05-08",
-            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-            "rating": 7.3,
-            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg",
-            "genreTitle": "动作"
-        },
-        {
             "id": 1071585,
             "title": "梅根 2.0",
             "type": "movie",
@@ -265,6 +254,17 @@
             "rating": 7.2,
             "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/kyBOGOBUMdGWOhzECuosPSzoMpi.jpg",
+            "genreTitle": "动作"
+        },
+        {
+            "id": 1011477,
+            "title": "功夫梦：融合之道",
+            "type": "movie",
+            "release_date": "2025-05-08",
+            "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+            "rating": 7.3,
+            "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nKyBbFSooRPTJVqjrDteD1lF733.jpg",
             "genreTitle": "动作"
         },
         {
@@ -279,17 +279,6 @@
             "genreTitle": "惊悚"
         },
         {
-            "id": 259909,
-            "title": "嗜血法医：杀魔复生",
-            "type": "tv",
-            "release_date": "2025-07-13",
-            "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-            "rating": 8.9,
-            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
-            "genreTitle": "犯罪"
-        },
-        {
             "id": 93405,
             "title": "鱿鱼游戏",
             "type": "tv",
@@ -301,6 +290,17 @@
             "genreTitle": "动作冒险"
         },
         {
+            "id": 259909,
+            "title": "嗜血法医：杀魔复生",
+            "type": "tv",
+            "release_date": "2025-07-13",
+            "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+            "rating": 8.9,
+            "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg",
+            "genreTitle": "犯罪"
+        },
+        {
             "id": 986056,
             "title": "雷霆特攻队*",
             "type": "movie",
@@ -309,6 +309,17 @@
             "rating": 7.4,
             "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+            "genreTitle": "动作"
+        },
+        {
+            "id": 541671,
+            "title": "疾速追杀：芭蕾杀姬",
+            "type": "movie",
+            "release_date": "2025-06-04",
+            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
             "genreTitle": "动作"
         },
         {
@@ -332,17 +343,6 @@
             "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
             "genreTitle": "犯罪"
-        },
-        {
-            "id": 541671,
-            "title": "疾速追杀：芭蕾杀姬",
-            "type": "movie",
-            "release_date": "2025-06-04",
-            "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
-            "genreTitle": "动作"
         },
         {
             "id": 1243341,
@@ -378,17 +378,6 @@
             "genreTitle": "Sci-Fi & Fantasy"
         },
         {
-            "id": 1233413,
-            "title": "罪人",
-            "type": "movie",
-            "release_date": "2025-04-16",
-            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-            "rating": 7.6,
-            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-            "genreTitle": "恐怖"
-        },
-        {
             "id": 617126,
             "title": "神奇4侠：初露锋芒",
             "type": "movie",
@@ -400,15 +389,15 @@
             "genreTitle": "科幻"
         },
         {
-            "id": 241554,
-            "title": "Murderbot",
-            "type": "tv",
-            "release_date": "2025-05-15",
-            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
-            "rating": 7.5,
-            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
-            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
-            "genreTitle": "喜剧"
+            "id": 1233413,
+            "title": "罪人",
+            "type": "movie",
+            "release_date": "2025-04-16",
+            "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+            "rating": 7.6,
+            "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+            "genreTitle": "恐怖"
         },
         {
             "id": 1374534,
@@ -420,6 +409,17 @@
             "poster_url": "https://image.tmdb.org/t/p/original/gAnmx3xP6Ct2xQOCjusupnkdsUI.jpg",
             "backdrop_url": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
             "genreTitle": "动作"
+        },
+        {
+            "id": 241554,
+            "title": "Murderbot",
+            "type": "tv",
+            "release_date": "2025-05-15",
+            "overview": "在未来高科技世界，一台叛逃的安保机器人暗中获得了自由意志。虽然它只想窝在角落里追肥皂剧，但为了隐藏身份，它不得不接受一项新任务：在一个危险星球上保护一群科学家。",
+            "rating": 7.5,
+            "poster_url": "https://image.tmdb.org/t/p/original/idIAVXcveWUlZ7wywx25DvJWrsm.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/original/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
+            "genreTitle": "喜剧"
         },
         {
             "id": 240411,
