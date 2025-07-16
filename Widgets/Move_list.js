@@ -602,35 +602,25 @@ async function fetchTmdbData(api, params) {
 }
 
 async function loadTmdbTrendingData() {
-    try {
-        const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/TMDB_Trending.json");
-        if (response && response.data) {
-            return response.data;
-        } else {
-            throw new Error("JSON数据为空或格式不正确");
-        }
-    } catch (error) {
-        console.error("加载JSON数据失败:", error);
-        return { today_global: [], week_global_all: [] };
-    }
+    const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/TMDB_Trending.json");
+    return response.data;
 }
 
-async function loadTodayGlobalMedia(params) {
+async function loadTodayGlobalMedia() {
     const data = await loadTmdbTrendingData();
     return data.today_global.map(item => ({
         id: item.id.toString(),
         type: "tmdb",
         title: item.title,
-        description: item.overview || "暂无简介",
-        releaseDate: item.release_date,
-        backdropPath: item.backdrop_url,
-        posterPath: item.poster_url,
+        genreTitle: item.genreTitle,
         rating: item.rating,
+        description: item.overview,
+        releaseDate: item.release_date,
+        posterPath: item.poster_url,
+        backdropPath: item.title_backdrop,
         mediaType: item.type,
-        genreTitle: item.genreTitle
     }));
 }
-
 
 async function loadWeekGlobalMovies(params) {
     const data = await loadTmdbTrendingData();
@@ -638,13 +628,13 @@ async function loadWeekGlobalMovies(params) {
         id: item.id.toString(),
         type: "tmdb",
         title: item.title,
-        description: item.overview || "暂无简介",
-        releaseDate: item.release_date,
-        backdropPath: item.backdrop_url,
-        posterPath: item.poster_url,
+        genreTitle: item.genreTitle,
         rating: item.rating,
+        description: item.overview,
+        releaseDate: item.release_date,
+        posterPath: item.poster_url,
+        backdropPath: item.title_backdrop,
         mediaType: item.type,
-        genreTitle: item.genreTitle
     }));
 }
 
