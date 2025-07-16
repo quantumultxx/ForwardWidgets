@@ -486,7 +486,7 @@ async function fetchTmdbGenres() {
 
 function getTmdbGenreTitles(genreIds, mediaType) {
     const genres = tmdbGenresCache?.[mediaType] || {};
-    const topThreeIds = genreIds.slice(0, 4); 
+    const topThreeIds = genreIds.slice(0, 3); 
     return topThreeIds
         .map(id => genres[id]?.trim() || `未知类型(${id})`)
         .filter(Boolean)
