@@ -66,7 +66,7 @@ def process_tmdb_data(data, time_window, media_type):
     for item in data.get("results", []):
         title = item.get("title") or item.get("name")
         release_date = item.get("release_date") or item.get("first_air_date")
-        overview = item.get("overview", "暂无简介")
+        overview = item.get("overview")
         rating = round(item.get("vote_average", 0), 1)
         item_type = media_type if media_type != "all" else item.get("media_type", "unknown")
         media_id = item.get("id")
