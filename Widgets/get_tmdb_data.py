@@ -75,7 +75,7 @@ def process_tmdb_data(data, time_window, media_type):
 
         detail_data = get_media_details(item_type, media_id)
         genres = detail_data.get("genres", [])
-        genre_title = ", ".join([g["name"] for g in genres[:1]])
+        genre_title = ", ".join([g["name"] for g in genres[:3]])
 
         image_data = get_media_images(item_type, media_id)
         title_backdrop_url = get_best_title_backdrop(image_data)
