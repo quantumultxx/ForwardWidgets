@@ -1,120 +1,110 @@
 import os
 import json
 import requests
-import time
 from datetime import datetime, timezone, timedelta
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-if not TMDB_API_KEY:
-    print("错误：未找到 TMDB_API_KEY ！")
-    exit(1)
-
 BASE_URL = "https://api.themoviedb.org/3"
 SAVE_PATH = os.path.join(os.getcwd(), "TMDB_Trending.json")
 
 def fetch_tmdb_data(time_window="day", media_type="all"):
-    if not TMDB_API_KEY:
-        print("错误：TMDB API Key 未配置！")
-        return []
-    
     endpoint = f"/trending/all/{time_window}" if media_type == "all" else f"/trending/{media_type}/{time_window}"
     url = f"{BASE_URL}{endpoint}"
     params = {"api_key": TMDB_API_KEY, "language": "zh-CN"}
-
-    max_retries = 3
-    retry_delay = 5
-
-    for attempt in range(max_retries):
-        try:
-            response = requests.get(url, params=params, timeout=10)
-            response.raise_for_status()
-            print(f"API请求成功: {url}")
-            return response.json()
-        except requests.exceptions.HTTPError as e:
-            status_code = e.response.status_code
-            reason = e.response.reason
-            print(f"HTTP错误 ({status_code}): {reason} (URL: {url})")
-            if status_code == 429:
-                retry_after = int(e.response.headers.get("Retry-After", retry_delay))
-                print(f"触发限流，等待 {retry_after} 秒后重试...")
-                time.sleep(retry_after)
-                continue
-            if status_code == 401:
-                print("API Key无效或已过期，请检查环境变量！")
-            return []
-        except requests.exceptions.RequestException as e:
-            print(f"网络请求失败: {str(e)} (URL: {url})")
-            if attempt == max_retries - 1:
-                print("所有重试均失败，放弃请求")
-                return []
+    response = requests.get(url, params=params)
+    return response.json()
 
 def get_media_details(media_type, media_id):
     detail_endpoint = f"/{media_type}/{media_id}"
     url = f"{BASE_URL}{detail_endpoint}"
     params = {"api_key": TMDB_API_KEY, "language": "zh-CN"}
+    response = requests.get(url, params=params)
+    return response.json()
 
-    max_retries = 3
-    retry_delay = 5
+def get_media_images(media_type, media_id):
+    images_endpoint = f"/{media_type}/{media_id}/images"
+    url = f"{BASE_URL}{images_endpoint}"
+    params = {
+        "api_key": TMDB_API_KEY,
+        "include_image_language": "zh,en,null"
+    }
+    response = requests.get(url, params=params)
+    return response.json()
 
-    for attempt in range(max_retries):
-        try:
-            response = requests.get(url, params=params, timeout=10)
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.HTTPError as e:
-            status_code = e.response.status_code
-            reason = e.response.reason
-            return None
-        except requests.exceptions.RequestException as e:
-            print(f"媒体详情网络请求失败: {str(e)} (ID: {media_id})")
-            if attempt == max_retries - 1:
-                print(f"放弃获取媒体ID {media_id} 的详细信息")
-                return None
+def get_image_url(path, size="original"):
+    return f"https://image.tmdb.org/t/p/{size}{path}"
+
+def get_best_title_backdrop(image_data):
+    backdrops = image_data.get("backdrops", [])
+    
+    def get_priority_score(backdrop):
+        lang = backdrop.get("iso_639_1")
+        if lang == "zh":
+            lang_score = 0
+        elif lang == "en":
+            lang_score = 1
+        elif lang is None:
+            lang_score = 2
+        else:
+            lang_score = 3
+        
+        vote_avg = -backdrop.get("vote_average", 0)
+        
+        width = backdrop.get("width", 0)
+        height = backdrop.get("height", 0)
+        resolution = -(width * height)
+        
+        return (lang_score, vote_avg, resolution)
+    
+    sorted_backdrops = sorted(backdrops, key=get_priority_score)
+    best_backdrop = sorted_backdrops[0]
+    
+    return get_image_url(best_backdrop["file_path"])
 
 def process_tmdb_data(data, time_window, media_type):
     results = []
     for item in data.get("results", []):
-        title = item.get("title") or item.get("name", "未知标题")
-        release_date = item.get("release_date") or item.get("first_air_date", "未知日期")
+        title = item.get("title") or item.get("name")
+        release_date = item.get("release_date") or item.get("first_air_date")
         overview = item.get("overview", "暂无简介")
         rating = round(item.get("vote_average", 0), 1)
-        poster_url = f"https://image.tmdb.org/t/p/original{item.get('poster_path')}" if item.get("poster_path") else "无海报"
-        backdrop_url = f"https://image.tmdb.org/t/p/original{item.get('backdrop_path')}" if item.get("backdrop_path") else "无背景图"
         item_type = media_type if media_type != "all" else item.get("media_type", "unknown")
+        media_id = item.get("id")
 
-        genre_title = "未知分类"
-        if media_id := item.get("id"):
-            if item_type in ["movie", "tv"]:
-                detail_data = get_media_details(item_type, media_id)
-                if detail_data:
-                    genres = detail_data.get("genres", [])
-                    genre_title = ", ".join([g["name"] for g in genres[:1]])
+        poster_url = get_image_url(item.get("poster_path"))
+
+        detail_data = get_media_details(item_type, media_id)
+        genres = detail_data.get("genres", [])
+        genre_title = ", ".join([g["name"] for g in genres[:1]])
+
+        image_data = get_media_images(item_type, media_id)
+        title_backdrop_url = get_best_title_backdrop(image_data)
 
         results.append({
             "id": media_id,
             "title": title,
             "type": item_type,
+            "genreTitle": genre_title,
+            "rating": rating,
             "release_date": release_date,
             "overview": overview,
-            "rating": rating,
             "poster_url": poster_url,
-            "backdrop_url": backdrop_url,
-            "genreTitle": genre_title
+            "title_backdrop": title_backdrop_url
         })
+    
     return results
 
 def save_to_json(data, file_path):
-    try:
-        os.makedirs(os.path.dirname(file_path), exist_ok=True)
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"数据成功保存至: {file_path}")
-        return True
-    except Exception as e:
-        print(f"文件保存失败: {str(e)}")
-        return False
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-if __name__ == "__main__":
+def print_results(items, title_text):
+    print(f"\n{title_text}")
+    for idx, item in enumerate(items[:20], 1):
+        print(f"{idx:2d}. {item['title']} ({item['type']}) "
+              f"评分: {item['rating']} | {item['genreTitle']}")
+
+def main():
     print("=== 开始执行TMDB数据获取 ===")
 
     today_global = fetch_tmdb_data(time_window="day", media_type="all")
@@ -133,24 +123,14 @@ if __name__ == "__main__":
         "week_global_all": week_processed
     }
 
-    save_success = save_to_json(data_to_save, SAVE_PATH)
-    if not save_success:
-        print("文件保存失败，脚本终止执行")
-        exit(1)
+    save_to_json(data_to_save, SAVE_PATH)
 
     print(f"✅ 热门数据获取时间: {last_updated}")
 
-    print("""
-================= 今日热门 =================""")
-    if today_processed:
-        for idx, item in enumerate(today_processed[:20], 1):
-            print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']} | {item['genreTitle']}")
+    print_results(today_processed, "================= 今日热门  =================")
+    print_results(week_processed, "================= 本周热门  =================")
 
-    print("""
-================= 本周热门 =================""")
-    if week_processed:
-        for idx, item in enumerate(week_processed[:20], 1):
-            print(f"{idx}. {item['title']} ({item['type']}) 评分: {item['rating']} | {item['genreTitle']}")
+    print("\n================= 执行完成 =================")
 
-    print("""
-================= 执行完成 =================""")
+if __name__ == "__main__":
+    main()
