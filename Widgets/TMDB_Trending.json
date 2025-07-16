@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17 03:41:22",
+  "last_updated": "2025-07-17 03:53:10",
   "today_global": [
     {
       "id": 1087192,
@@ -200,17 +200,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 8.9,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
       "id": 215401,
       "title": "弹速狂飙",
       "type": "tv",
@@ -220,6 +209,17 @@
       "overview": "　　故事发生在不久的将来，人类文明崩坏，世界尽是一片荒凉的景象。在困顿的生活条件下，人们仍在利用过往文明的残余顽强地生存着。吉尔是位勤劳勇敢的少年，在一家废品店工作。同时，他和一个拥有四重人格的护理机器人以及常年穿着北极熊戏服的大熊组队合作，一起处理追回失物的委托。\n\n　　一天，一位叫诺娃的神秘女孩找到吉尔的小队，希望他们能够帮助她追回她父亲的遗物。吉尔和他的伙伴们没有想到，这一系列事件彻底打破了他们平静的生活，将他们卷入了难以预料的危机之中。在任务的执行过程中，他们很快便遭遇了特工组织穷追不舍的伏击和围攻。为了摆脱他们的追捕，他们在城市中展开了惊心动魄的汽车追逐，应付了一场场激烈的战斗。吉尔他们取走的这件物品中，竟然还隐藏着一个足以撼动这个世界根基的秘密。吉尔将跟他的小队一起，向世人揭示这一切。",
       "poster_url": "https://image.tmdb.org/t/p/original/40bwxWOfivkzINruBNV4R0HpuRu.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pRSW75M5ugiHVdye7cOInGEofIg.jpg"
+    },
+    {
+      "id": 1425045,
+      "title": "砖墙谜攻",
+      "type": "movie",
+      "genreTitle": "惊悚•科幻",
+      "rating": 5.7,
+      "release_date": "2025-07-09",
+      "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
     }
   ],
   "week_global_all": [
@@ -323,17 +323,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
-      "id": 541671,
-      "title": "疾速追杀：芭蕾杀姬",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.5,
-      "release_date": "2025-06-04",
-      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
-    },
-    {
       "id": 93405,
       "title": "鱿鱼游戏",
       "type": "tv",
@@ -343,6 +332,17 @@
       "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
       "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
+    },
+    {
+      "id": 541671,
+      "title": "疾速追杀：芭蕾杀姬",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-06-04",
+      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
       "id": 1243341,
