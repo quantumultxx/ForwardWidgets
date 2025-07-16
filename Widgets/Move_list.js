@@ -495,7 +495,7 @@ function getTmdbGenreTitles(genreIds, mediaType) {
 
 function getDoubanGenreTitles(genres) {
     if (!genres || genres.length === 0) return "未分类";
-    const topThreeGenres = genres.slice(0, 4); 
+    const topThreeGenres = genres.slice(0, 1); 
     return topThreeGenres.join('•');
 }
 
