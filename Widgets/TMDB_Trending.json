@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17 16:33:30",
+  "last_updated": "2025-07-17 17:00:18",
   "today_global": [
     {
       "id": 1087192,
@@ -24,17 +24,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
-      "id": 1061474,
-      "title": "超人",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.5,
-      "release_date": "2025-07-09",
-      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
-    },
-    {
       "id": 194766,
       "title": "我变漂亮的那个夏天",
       "type": "tv",
@@ -46,6 +35,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
+      "id": 1061474,
+      "title": "超人",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.5,
+      "release_date": "2025-07-09",
+      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+    },
+    {
       "id": 231462,
       "title": "下流大盗",
       "type": "tv",
@@ -55,6 +55,17 @@
       "overview": "1997年，韩国百姓生活困苦，这时民间谣传有人在韩国沿岸发现中国船舰的残骸。为了过上更好的生活，宽石和熙东决定出发寻找埋藏在海中的宝藏。",
       "poster_url": "https://image.tmdb.org/t/p/original/xA7fRlFT8M8iFRwYYDZlJBD44Xf.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/plrj4yypIuvwB6WBcABZp6nUUwq.jpg"
+    },
+    {
+      "id": 248852,
+      "title": "荒境狂途",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 10.0,
+      "release_date": "2025-07-17",
+      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zqVjGBzJgC2lN9O5Baxborh1IMs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oGsh97JAA6LYu92B6TEswrjac8W.jpg"
     },
     {
       "id": 103516,
@@ -90,15 +101,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9J2uA51xM9l0dtRaJ80ajtuNIVl.jpg"
     },
     {
-      "id": 248852,
-      "title": "荒境狂途",
-      "type": "tv",
-      "genreTitle": "悬疑•剧情",
-      "rating": 10.0,
-      "release_date": "2025-07-17",
-      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/zqVjGBzJgC2lN9O5Baxborh1IMs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oGsh97JAA6LYu92B6TEswrjac8W.jpg"
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 5.9,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 215401,
@@ -134,15 +145,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
+      "id": 1083433,
+      "title": "我永远忘不了你去年夏天做了什么",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 5.9,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+      "genreTitle": "恐怖•悬疑•惊悚",
+      "rating": 7.0,
+      "release_date": "2025-07-16",
+      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
       "id": 911430,
@@ -156,15 +167,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 1083433,
-      "title": "我永远忘不了你去年夏天做了什么",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑•惊悚",
-      "rating": 7.0,
-      "release_date": "2025-07-16",
-      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
+      "id": 253372,
+      "title": "研究院",
+      "type": "tv",
+      "genreTitle": "悬疑•Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2025-07-13",
+      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zfWQd6pQN5aWCRiYU88kZcVJz0v.jpg"
     },
     {
       "id": 1011477,
@@ -187,17 +198,6 @@
       "overview": "梅根（M3GAN）是一个具备高度人工智能、栩栩如生的玩具人偶，被设计成小孩子最好的玩伴和令家长最安心的盟友。这款玩具人偶由一名玩具公司杰出的机器人专家洁玛（艾莉森·威廉姆斯 饰）精心设计，梅根能够借由聆听以及观察学习人类行为，并且成为她照顾的小孩的朋友、老师、玩伴和保护者。当洁玛突然成为她失去双亲的八岁侄女凯蒂（维奥莱特·麦格劳 饰）的监护人之后，洁玛并不确定也没有准备好能够成为一个好的家长，加上她的工作压力非常巨大，于是就决定将她设计的人工智能玩具人偶梅根和凯蒂配对，试图解决照顾凯蒂这个孤儿和纾解她工作压力这两个问题，但是她的这个决定却造成无法想像的严重后果。",
       "poster_url": "https://image.tmdb.org/t/p/original/sgTqVw2XKOQMMIZmsiqo0MWB4V6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ymIQhRC66U39d5RGw7frAw9Jbvq.jpg"
-    },
-    {
-      "id": 253372,
-      "title": "研究院",
-      "type": "tv",
-      "genreTitle": "悬疑•Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2025-07-13",
-      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zfWQd6pQN5aWCRiYU88kZcVJz0v.jpg"
     },
     {
       "id": 1233413,
@@ -301,37 +301,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 5.9,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+      "genreTitle": "Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
+    },
+    {
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 1234821,
@@ -345,37 +334,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
-      "id": 103516,
-      "title": "星际迷航：奇异新世界",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2022-05-05",
-      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
-      "id": 986056,
-      "title": "雷霆特攻队*",
+      "id": 911430,
+      "title": "F1：狂飙飞车",
       "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
-      "id": 617126,
-      "title": "神奇4侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 0.0,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
       "id": 541671,
@@ -389,6 +356,61 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
+      "id": 248852,
+      "title": "荒境狂途",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 10.0,
+      "release_date": "2025-07-17",
+      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zqVjGBzJgC2lN9O5Baxborh1IMs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oGsh97JAA6LYu92B6TEswrjac8W.jpg"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 5.9,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 617126,
+      "title": "神奇4侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 0.0,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
       "id": 1243341,
       "title": "僵尸高校4：吸血鬼黎明",
       "type": "movie",
@@ -398,17 +420,6 @@
       "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
       "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/9G4txItMPxp55r2XzSH53tXKBV8.jpg"
-    },
-    {
-      "id": 194766,
-      "title": "我变漂亮的那个夏天",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.2,
-      "release_date": "2022-06-16",
-      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 1374534,
@@ -431,17 +442,6 @@
       "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
       "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/2moqxKL9kePruE4K2EVFOJYuCPu.jpg"
-    },
-    {
-      "id": 1429744,
-      "title": "尸杀泰拳",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•动作",
-      "rating": 6.8,
-      "release_date": "2025-07-09",
-      "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/81VkYfwSFcMNJRszeD9TORikiDS.jpg"
     }
   ]
 }
