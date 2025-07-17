@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17 22:50:33",
+  "last_updated": "2025-07-17 23:27:34",
   "today_global": [
     {
       "id": 1087192,
@@ -46,17 +46,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
-      "id": 103516,
-      "title": "星际迷航：奇异新世界",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2022-05-05",
-      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
       "id": 248852,
       "title": "荒境狂途",
       "type": "tv",
@@ -66,6 +55,17 @@
       "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/oGsh97JAA6LYu92B6TEswrjac8W.jpg"
+    },
+    {
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     },
     {
       "id": 231462,
@@ -112,28 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
-    },
-    {
-      "id": 936108,
-      "title": "魔法蓝精灵",
-      "type": "movie",
-      "genreTitle": "动画•家庭•奇幻",
-      "rating": 7.4,
-      "release_date": "2025-06-30",
-      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
-    },
-    {
       "id": 1083433,
       "title": "我永远忘不了你去年夏天做了什么",
       "type": "movie",
@@ -154,6 +132,28 @@
       "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
       "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
+    },
+    {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
+    {
+      "id": 936108,
+      "title": "魔法蓝精灵",
+      "type": "movie",
+      "genreTitle": "动画•家庭•奇幻",
+      "rating": 7.4,
+      "release_date": "2025-06-30",
+      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
     },
     {
       "id": 93405,
@@ -200,26 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 1233413,
-      "title": "罪人",
+      "id": 986056,
+      "title": "雷霆特攻队*",
       "type": "movie",
-      "genreTitle": "恐怖•动作•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-04-16",
-      "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fevc9A7IaQPs8oUeHqgyhO5qiyD.jpg"
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 1151031,
-      "title": "复活她",
+      "id": 1087891,
+      "title": "谍网追凶",
       "type": "movie",
-      "genreTitle": "恐怖",
-      "rating": 7.4,
-      "release_date": "2025-05-28",
-      "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ocCNYIYWzIUV91YZYzDZ1cAQOPT.jpg"
+      "genreTitle": "惊悚•动作",
+      "rating": 7.0,
+      "release_date": "2025-04-09",
+      "overview": "中央情报局密码专家Charlie Heller（拉米·马雷克 Rami Malek 饰）的妻子（瑞秋·布罗斯纳安 Rachel Brosnahan 饰）在伦敦一场恐怖袭击中丧生，他要求上司追捕凶手，但由于相互冲突的内部优先利益无法成行，于是他胁迫该机构训练他本人，自己展开行动。",
+      "poster_url": "https://image.tmdb.org/t/p/original/2LV7qOYoqtSXDlTrPT62a8KjKLG.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/eJb8AijJrKhuRWw8bFF8C6zjtlH.jpg"
     }
   ],
   "week_global_all": [
@@ -257,15 +257,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
-      "id": 1425045,
-      "title": "砖墙谜攻",
-      "type": "movie",
-      "genreTitle": "惊悚•科幻",
-      "rating": 5.7,
-      "release_date": "2025-07-09",
-      "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     },
     {
       "id": 1011477,
@@ -279,6 +279,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
     },
     {
+      "id": 1425045,
+      "title": "砖墙谜攻",
+      "type": "movie",
+      "genreTitle": "惊悚•科幻",
+      "rating": 5.7,
+      "release_date": "2025-07-09",
+      "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
+    },
+    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -288,28 +299,6 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/jSoRKtjlqQi9Hb1hmGQ8cbDnCbj.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
-      "id": 103516,
-      "title": "星际迷航：奇异新世界",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2022-05-05",
-      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
       "id": 911430,
@@ -323,6 +312,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
+    {
       "id": 617126,
       "title": "神奇4侠：初露锋芒",
       "type": "movie",
@@ -332,17 +332,6 @@
       "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
       "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     },
     {
       "id": 93405,
@@ -367,6 +356,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
       "id": 541671,
       "title": "疾速追杀：芭蕾杀姬",
       "type": "movie",
@@ -389,17 +389,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9b810eHdLgRqGxEV1gyskoMY0BG.jpg"
     },
     {
-      "id": 1243341,
-      "title": "僵尸高校4：吸血鬼黎明",
-      "type": "movie",
-      "genreTitle": "音乐•冒险•爱情",
-      "rating": 6.9,
-      "release_date": "2025-07-10",
-      "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
-      "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9G4txItMPxp55r2XzSH53tXKBV8.jpg"
-    },
-    {
       "id": 194766,
       "title": "我变漂亮的那个夏天",
       "type": "tv",
@@ -411,15 +400,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
-      "id": 239826,
-      "title": "巴拉德",
+      "id": 248852,
+      "title": "荒境狂途",
       "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 7.4,
-      "release_date": "2025-07-09",
-      "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2moqxKL9kePruE4K2EVFOJYuCPu.jpg"
+      "genreTitle": "悬疑•剧情",
+      "rating": 8.7,
+      "release_date": "2025-07-17",
+      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oGsh97JAA6LYu92B6TEswrjac8W.jpg"
+    },
+    {
+      "id": 1243341,
+      "title": "僵尸高校4：吸血鬼黎明",
+      "type": "movie",
+      "genreTitle": "音乐•冒险•爱情",
+      "rating": 6.9,
+      "release_date": "2025-07-10",
+      "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
+      "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9G4txItMPxp55r2XzSH53tXKBV8.jpg"
     },
     {
       "id": 1429744,
@@ -433,15 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/81VkYfwSFcMNJRszeD9TORikiDS.jpg"
     },
     {
-      "id": 1233413,
-      "title": "罪人",
-      "type": "movie",
-      "genreTitle": "恐怖•动作•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-04-16",
-      "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fevc9A7IaQPs8oUeHqgyhO5qiyD.jpg"
+      "id": 239826,
+      "title": "巴拉德",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 7.4,
+      "release_date": "2025-07-09",
+      "overview": "警探雷妮巴拉德在追捕一名冷酷无情的连环杀手时，陷入了一张由谋杀与腐败编织而成的阴谋网，意外揭开了一场威胁到她信念根基的警署黑幕。在内心的阴影步步紧逼之下，巴拉德不仅要智斗罪犯，还要应对来自同僚的阻力，只为将迟到的正义带给那些受害者及其家属。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fjPHBvLimAdjNmtYfYjeIen2jyP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2moqxKL9kePruE4K2EVFOJYuCPu.jpg"
     }
   ]
 }
