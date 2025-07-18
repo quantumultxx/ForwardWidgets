@@ -28,8 +28,12 @@ def get_media_images(media_type, media_id):
         "api_key": TMDB_API_KEY,
         "include_image_language": "zh,en,null"
     }
-    response = requests.get(url, params=params)
-    return response.json()
+    try:
+        response = requests.get(url, params=params)
+        response.raise_for_status()
+        return response.json()
+    except requests.exceptions.RequestException as e:
+        return {"backdrops": []}
 
 def get_image_url(path, size="original"):
     return f"https://image.tmdb.org/t/p/{size}{path}"
@@ -57,10 +61,13 @@ def get_best_title_backdrop(image_data):
         return (lang_score, vote_avg, resolution)
     
     sorted_backdrops = sorted(backdrops, key=get_priority_score)
-    best_backdrop = sorted_backdrops[0]
     
+    if not sorted_backdrops:
+        return ""
+    
+    best_backdrop = sorted_backdrops[0]
     return get_image_url(best_backdrop["file_path"])
-
+    
 def process_tmdb_data(data, time_window, media_type):
     results = []
     for item in data.get("results", []):
