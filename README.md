@@ -52,5 +52,5 @@
 ## My GitHub Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quantumultx/ForwardWidgets/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
