@@ -51,5 +51,14 @@
 ---
 ## My GitHub Contributions
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/ForwardWidgets/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- 
+使用说明：
+1. 将上面的 YOUR_USERNAME 替换为你的 GitHub 用户名
+2. 推送代码到 GitHub 后，GitHub Actions 会自动生成蛇形贡献图
+3. 首次运行可能需要几分钟，之后每天自动更新
+-->
 
