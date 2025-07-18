@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-18 21:39:11",
+  "last_updated": "2025-07-18 21:59:03",
   "today_global": [
     {
       "id": 248852,
@@ -112,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/eJb8AijJrKhuRWw8bFF8C6zjtlH.jpg"
     },
     {
-      "id": 931285,
-      "title": "Mortal Kombat II",
-      "type": "movie",
-      "genreTitle": "动作•奇幻•冒险",
-      "rating": 0.0,
-      "release_date": "2025-10-22",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/lGamD2f6xEZJSoXlntAd5wvQnWZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1u7uliaQfBhe07zWcFfAhU1rdPN.jpg"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "type": "tv",
@@ -145,17 +134,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
-      "id": 240411,
-      "title": "胆大党",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•喜剧",
-      "rating": 8.6,
-      "release_date": "2024-10-04",
-      "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-      "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
-    },
-    {
       "id": 107255,
       "title": "龙族",
       "type": "tv",
@@ -165,6 +143,28 @@
       "overview": "欢迎来到真实的世界！这一段拥有龙的历史，这里记载了一代代人的努力和牺牲。少年踏上属于他的成王之路，友情、爱情、成长……",
       "poster_url": "https://image.tmdb.org/t/p/original/4VLHu3LGgKJ6wcOtcbsYZJtWZr6.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/dZnMMzmMRW0EfvICgrJAfGKpjVe.jpg"
+    },
+    {
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "type": "movie",
+      "genreTitle": "动作•奇幻•冒险",
+      "rating": 0.0,
+      "release_date": "2025-10-22",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/lGamD2f6xEZJSoXlntAd5wvQnWZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1u7uliaQfBhe07zWcFfAhU1rdPN.jpg"
+    },
+    {
+      "id": 240411,
+      "title": "胆大党",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•喜剧",
+      "rating": 8.6,
+      "release_date": "2024-10-04",
+      "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+      "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
     },
     {
       "id": 259909,
@@ -178,28 +178,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
-    },
-    {
-      "id": 533533,
-      "title": "创：战神",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 0.0,
-      "release_date": "2025-10-08",
-      "overview": "　　当一个高度复杂的程序Ares从赛博空间被派往现实，执行一项危险的任务，这将是人类与人工智能个体的首次相遇。",
-      "poster_url": "https://image.tmdb.org/t/p/original/obYiuBLv9P9j1DCj0Zx09RIB8gC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
-    },
-    {
       "id": 93405,
       "title": "鱿鱼游戏",
       "type": "tv",
@@ -211,15 +189,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
     },
     {
-      "id": 1011477,
-      "title": "功夫梦：融合之道",
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
       "type": "movie",
-      "genreTitle": "动作•冒险•剧情",
-      "rating": 7.3,
-      "release_date": "2025-05-08",
-      "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-      "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
+    {
+      "id": 232402,
+      "title": "S Line",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•悬疑",
+      "rating": 8.2,
+      "release_date": "2025-07-11",
+      "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
+    },
+    {
+      "id": 533533,
+      "title": "创：战神",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 0.0,
+      "release_date": "2025-10-08",
+      "overview": "　　当一个高度复杂的程序Ares从赛博空间被派往现实，执行一项危险的任务，这将是人类与人工智能个体的首次相遇。",
+      "poster_url": "https://image.tmdb.org/t/p/original/obYiuBLv9P9j1DCj0Zx09RIB8gC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg"
     }
   ],
   "week_global_all": [
@@ -334,17 +334,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
     },
     {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
-    },
-    {
       "id": 911430,
       "title": "F1：狂飙飞车",
       "type": "movie",
@@ -356,6 +345,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
+    {
       "id": 986056,
       "title": "雷霆特攻队*",
       "type": "movie",
@@ -365,17 +365,6 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
-      "id": 1429744,
-      "title": "尸杀泰拳",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•动作",
-      "rating": 6.7,
-      "release_date": "2025-07-09",
-      "overview": "面对可怕的丧尸大军，这位前拳击手必须运用拳法、速度、精力来拯救女友，奋力求生。",
-      "poster_url": "https://image.tmdb.org/t/p/original/rE5Bf1ejCUuHxmQGIJTZ7W7M13p.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/81VkYfwSFcMNJRszeD9TORikiDS.jpg"
     },
     {
       "id": 541671,
@@ -400,15 +389,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
-      "id": 240411,
-      "title": "胆大党",
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•喜剧",
-      "rating": 8.6,
-      "release_date": "2024-10-04",
-      "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-      "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
+    },
+    {
+      "id": 232402,
+      "title": "S Line",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•悬疑",
+      "rating": 8.2,
+      "release_date": "2025-07-11",
+      "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
     },
     {
       "id": 1243341,
@@ -433,15 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9b810eHdLgRqGxEV1gyskoMY0BG.jpg"
     },
     {
-      "id": 846422,
-      "title": "永生守卫2",
+      "id": 1233413,
+      "title": "罪人",
       "type": "movie",
-      "genreTitle": "动作•奇幻",
-      "rating": 6.1,
-      "release_date": "2025-07-01",
-      "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
-      "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/A5n2C0iEKGadJQkM7k1KrFxrwFl.jpg"
+      "genreTitle": "恐怖•动作•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-04-16",
+      "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fevc9A7IaQPs8oUeHqgyhO5qiyD.jpg"
     }
   ]
 }
