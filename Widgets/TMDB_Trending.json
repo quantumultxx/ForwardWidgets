@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-07-19 07:55:07",
+  "last_updated": "2025-07-19 09:59:14",
   "today_global": [
     {
       "id": 248852,
       "title": "荒境狂途",
       "type": "tv",
       "genreTitle": "悬疑•剧情",
-      "rating": 8.2,
+      "rating": 8.3,
       "release_date": "2025-07-17",
       "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
@@ -39,11 +39,22 @@
       "title": "墙外之音",
       "type": "movie",
       "genreTitle": "惊悚•剧情",
-      "rating": 7.3,
+      "rating": 7.6,
       "release_date": "2025-07-17",
       "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
       "poster_url": "https://image.tmdb.org/t/p/original/wUdyz4lYoyCR906SRJoL7GeN2rc.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+    },
+    {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.8,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
       "id": 617126,
@@ -66,17 +77,6 @@
       "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
       "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.8,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
       "id": 259909,
@@ -112,28 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 5.9,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 194766,
-      "title": "我变漂亮的那个夏天",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.2,
-      "release_date": "2022-06-16",
-      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
-    },
-    {
       "id": 240411,
       "title": "胆大党",
       "type": "tv",
@@ -145,15 +123,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
     },
     {
-      "id": 1236197,
-      "title": "Juegos de Seducción",
+      "id": 1429834,
+      "title": "家人未满",
       "type": "movie",
-      "genreTitle": "惊悚•剧情•爱情",
-      "rating": 10.0,
-      "release_date": "2025-07-18",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/s91PuVwq8jwDtrCWjkpF63rZgyX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1MQNH3DayfXhjCyum3bDIY9wry4.jpg"
+      "genreTitle": "喜剧",
+      "rating": 5.5,
+      "release_date": "2025-07-17",
+      "overview": "一名巴西爸爸与女儿的阿根廷公婆针锋相对，巴里洛切之旅由此变为一场关于地域自尊和争强好胜的搞笑闹剧。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lP5kcBL67k4aduIEzlSTVRR4RBh.jpg"
+    },
+    {
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 1087891,
@@ -178,15 +167,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d00oOPLAFe9MATgxPGCHBIv4p4h.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "id": 1011477,
+      "title": "功夫梦：融合之道",
       "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.0,
-      "release_date": "2025-07-18",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg"
+      "genreTitle": "动作•冒险•剧情",
+      "rating": 7.3,
+      "release_date": "2025-05-08",
+      "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+      "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
     },
     {
       "id": 107255,
@@ -211,15 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
     },
     {
-      "id": 931285,
-      "title": "Mortal Kombat II",
+      "id": 7451,
+      "title": "极限特工",
       "type": "movie",
-      "genreTitle": "动作•奇幻•冒险",
-      "rating": 0.0,
-      "release_date": "2025-10-22",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/lGamD2f6xEZJSoXlntAd5wvQnWZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/1u7uliaQfBhe07zWcFfAhU1rdPN.jpg"
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 5.9,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 232402,
+      "title": "S Line",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•悬疑",
+      "rating": 7.8,
+      "release_date": "2025-07-11",
+      "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
     }
   ],
   "week_global_all": [
@@ -257,17 +257,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
-      "id": 617126,
-      "title": "神奇4侠：初露锋芒",
-      "type": "movie",
-      "genreTitle": "科幻•冒险",
-      "rating": 9.6,
-      "release_date": "2025-07-23",
-      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
-      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -279,81 +268,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
-    },
-    {
-      "id": 7451,
-      "title": "极限特工",
+      "id": 617126,
+      "title": "神奇4侠：初露锋芒",
       "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 5.9,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 248852,
-      "title": "荒境狂途",
-      "type": "tv",
-      "genreTitle": "悬疑•剧情",
-      "rating": 8.2,
-      "release_date": "2025-07-17",
-      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3dDn5GcoJhfJlb6W9ooINRkQxlo.jpg"
-    },
-    {
-      "id": 103516,
-      "title": "星际迷航：奇异新世界",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2022-05-05",
-      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
-      "id": 1425045,
-      "title": "砖墙谜攻",
-      "type": "movie",
-      "genreTitle": "惊悚•科幻",
-      "rating": 5.8,
-      "release_date": "2025-07-09",
-      "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
-    },
-    {
-      "id": 1083433,
-      "title": "我永远忘不了你去年夏天做了什么",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑•惊悚",
-      "rating": 6.0,
-      "release_date": "2025-07-16",
-      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
-    },
-    {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+      "genreTitle": "科幻•冒险",
+      "rating": 9.6,
+      "release_date": "2025-07-23",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
       "id": 1011477,
@@ -367,15 +290,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
     },
     {
-      "id": 240411,
-      "title": "胆大党",
+      "id": 93740,
+      "title": "Foundation",
       "type": "tv",
-      "genreTitle": "动画•动作冒险•喜剧",
-      "rating": 8.6,
-      "release_date": "2024-10-04",
-      "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
-      "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     },
     {
       "id": 93405,
@@ -389,26 +312,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
     },
     {
-      "id": 194766,
-      "title": "我变漂亮的那个夏天",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.2,
-      "release_date": "2022-06-16",
-      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
+      "id": 1425045,
+      "title": "砖墙谜攻",
+      "type": "movie",
+      "genreTitle": "惊悚•科幻",
+      "rating": 5.8,
+      "release_date": "2025-07-09",
+      "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cTnjeLRnlSy4QgqZKIyGzAiwvsi.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队*",
+      "id": 541671,
+      "title": "疾速追杀：芭蕾杀姬",
       "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-06-04",
+      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
+    },
+    {
+      "id": 240411,
+      "title": "胆大党",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•喜剧",
+      "rating": 8.6,
+      "release_date": "2024-10-04",
+      "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+      "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
     },
     {
       "id": 911430,
@@ -422,26 +356,92 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 1233413,
-      "title": "罪人",
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
       "type": "movie",
-      "genreTitle": "恐怖•动作•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-04-16",
-      "overview": "魅力冷峻且坚毅的双胞胎企业家斯莫克（迈克尔·B·乔丹 饰）和斯塔克（迈克尔·B·乔丹 饰），这对兄弟在历经第一次世界大战的战壕和芝加哥黑帮的洗礼后，于1932年带着大把现金、一卡车烈酒，怀揣着开一家自动点唱机酒吧的计划，在阔别七年后回到了他们位于密西西比三角洲的家乡克拉克斯代尔。他们穿着时髦的大城市服装，打扮得整洁利落，在这个极度贫穷、实行种族隔离的种植园小镇上显得格外扎眼。他们从汗流浃背的老好人霍格伍德（大卫·马尔多纳多 饰）手中买下了一座废弃的磨坊、里面的设备以及磨坊所在的土地，并警告霍格伍德和他三K党那帮狐朋狗友，除非他们想挨枪子，否则别踏进自己的地盘。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fevc9A7IaQPs8oUeHqgyhO5qiyD.jpg"
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
-      "id": 541671,
-      "title": "疾速追杀：芭蕾杀姬",
+      "id": 1374534,
+      "title": "凹凸双雄",
       "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.5,
-      "release_date": "2025-06-04",
-      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
+      "genreTitle": "动作•喜剧•犯罪",
+      "rating": 5.8,
+      "release_date": "2025-07-10",
+      "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gAnmx3xP6Ct2xQOCjusupnkdsUI.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9b810eHdLgRqGxEV1gyskoMY0BG.jpg"
+    },
+    {
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
+    },
+    {
+      "id": 846422,
+      "title": "永生守卫2",
+      "type": "movie",
+      "genreTitle": "动作•奇幻",
+      "rating": 6.1,
+      "release_date": "2025-07-01",
+      "overview": "安蒂（查理兹·塞隆 饰）与不死军团再度集结，展现前所未有的使命感，誓死保护全世界。布克（马提亚斯·修奈尔 饰）背叛后流亡在外，而琼（吴青芸 饰）逃离水牢后怀恨在心。安蒂发现自己失去了不死之身，除了努力面对事实之外，还要想尽办法抵抗神秘的势力，不让自己数千年来的努力付诸流水。安蒂、奈尔、乔、尼基和詹姆斯·科普利联手寻求老友杜亚的协助，盼他解开不死之身的谜团。",
+      "poster_url": "https://image.tmdb.org/t/p/original/anQxMF3uXz3R4c83zJYQqVqA3AV.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/A5n2C0iEKGadJQkM7k1KrFxrwFl.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队*",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 1243341,
+      "title": "僵尸高校4：吸血鬼黎明",
+      "type": "movie",
+      "genreTitle": "音乐•冒险•爱情",
+      "rating": 7.0,
+      "release_date": "2025-07-10",
+      "overview": "　　Addison和Zed本想二人世界放暑假，结果阴差阳错成为夏令营的导师，又要化解吸血鬼同Daywalker族群的对立。他们会怎样用青春热血的劲歌热舞应对危机?",
+      "poster_url": "https://image.tmdb.org/t/p/original/6LpJV5Tt7wwiWcAOiNlb1HjDxsY.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9G4txItMPxp55r2XzSH53tXKBV8.jpg"
+    },
+    {
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 5.9,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     }
   ]
 }
