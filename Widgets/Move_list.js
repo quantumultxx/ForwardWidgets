@@ -602,7 +602,7 @@ async function fetchTmdbData(api, params) {
 }
 
 async function loadTmdbTrendingData() {
-    const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/TMDB_Trending.json");
+    const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/data/TMDB_Trending.json");
     return response.data;
 }
 

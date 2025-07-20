@@ -33,14 +33,14 @@ jobs:
           git config user.email "actions-crawler@github.com"
 
       - name: Run crawler script
-        run: python Widgets/javrate_actor_crawler.py
+        run: python scripts/javrate_actor_crawler.py
         env:
           DEBUG: 'true'
 
       - name: Check if data file exists
         id: check_file
         run: |
-          if [ -f "Widgets/javrate_actors.json" ]; then
+          if [ -f "data/javrate_actors.json" ]; then
             echo "file_exists=true" >> $GITHUB_OUTPUT
           else
             echo "file_exists=false" >> $GITHUB_OUTPUT
@@ -51,7 +51,7 @@ jobs:
         id: check_changes
         if: steps.check_file.outputs.file_exists == 'true'
         run: |
-          if ! git diff --quiet -- Widgets/javrate_actors.json; then
+          if ! git diff --quiet -- data/javrate_actors.json; then
             echo "changes_detected=true" >> $GITHUB_OUTPUT
           else
             echo "changes_detected=false" >> $GITHUB_OUTPUT
@@ -60,7 +60,7 @@ jobs:
       - name: Commit and push data file
         if: steps.check_changes.outputs.changes_detected == 'true'
         run: |
-          git add Widgets/javrate_actors.json
+          git add data/javrate_actors.json
           git commit -m "Auto-update:($(TZ=Asia/Shanghai date +%Y-%m-%d_%H:%M:%S))"
           git pull --rebase
           git push

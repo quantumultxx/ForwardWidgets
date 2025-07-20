@@ -5,7 +5,7 @@ from datetime import datetime, timezone, timedelta
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3"
-SAVE_PATH = os.path.join(os.getcwd(), "TMDB_Trending.json")
+SAVE_PATH = os.path.join(os.getcwd(), "data", "TMDB_Trending.json")
 
 def fetch_tmdb_data(time_window="day", media_type="all"):
     endpoint = f"/trending/all/{time_window}" if media_type == "all" else f"/trending/{media_type}/{time_window}"
