@@ -37,17 +37,15 @@ jobs:
       - name: Run Python script
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        working-directory: Widgets
         run: |
           echo "开始运行 get_tmdb_data.py..."
-          python get_tmdb_data.py
+          python scripts/get_tmdb_data.py
           echo "get_tmdb_data.py 运行完成"
 
       - name: Check for changes in JSON file
         id: check_changes
-        working-directory: Widgets  
         run: |
-          if ! git diff --quiet -- TMDB_Trending.json; then
+          if ! git diff --quiet -- data/TMDB_Trending.json; then
             echo "changes_detected=true" >> $GITHUB_OUTPUT
           else
             echo "changes_detected=false" >> $GITHUB_OUTPUT
@@ -62,9 +60,8 @@ jobs:
 
       - name: Commit and push changes
         if: steps.check_changes.outputs.changes_detected == 'true'
-        working-directory: Widgets
         run: |
-          git add TMDB_Trending.json
+          git add data/TMDB_Trending.json
           git commit -m "Auto-update:$(TZ=Asia/Shanghai date +%Y-%m-%d_%H:%M:%S)"
           git push --force-with-lease
           echo "数据文件已成功更新并推送"

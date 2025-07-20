@@ -22,7 +22,7 @@ RETRY_DELAY_RANGE = (1, 3)   # 重试延迟范围（秒）
 PAGE_DELAY_RANGE = (1, 3)    # 页面间延迟范围（秒）
 TIMEOUT = 10                 # 请求超时时间（秒）
 MAX_RETRIES = 3              # 最大重试次数
-OUTPUT_DIR = "Widgets"       # 输出目录
+OUTPUT_DIR = "data"          # 输出目录
 
 # ==================== 核心功能 ====================
 def get_headers():
