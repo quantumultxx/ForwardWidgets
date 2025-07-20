@@ -87,6 +87,15 @@ def process_tmdb_data(data, time_window, media_type):
         image_data = get_media_images(item_type, media_id)
         title_backdrop_url = get_best_title_backdrop(image_data)
 
+        if item_type == "person":
+            continue
+            
+        if (rating == 0 and 
+            not release_date and 
+            not overview and 
+            "None" in poster_url):
+            continue
+
         results.append({
             "id": media_id,
             "title": title,
