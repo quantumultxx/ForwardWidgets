@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-21 04:37:27",
+  "last_updated": "2025-07-21 04:45:12",
   "today_global": [
     {
       "id": 207468,
@@ -46,17 +46,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 1269208,
-      "title": "墙外之音",
-      "type": "movie",
-      "genreTitle": "惊悚•剧情",
-      "rating": 6.7,
-      "release_date": "2025-07-17",
-      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
-    },
-    {
       "id": 617126,
       "title": "神奇4侠：初露锋芒",
       "type": "movie",
@@ -68,11 +57,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
+      "id": 1269208,
+      "title": "墙外之音",
+      "type": "movie",
+      "genreTitle": "惊悚•剧情",
+      "rating": 6.7,
+      "release_date": "2025-07-17",
+      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+    },
+    {
       "id": 248852,
       "title": "荒境狂途",
       "type": "tv",
       "genreTitle": "悬疑•剧情",
-      "rating": 7.8,
+      "rating": 7.7,
       "release_date": "2025-07-17",
       "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
@@ -134,6 +134,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
     },
     {
+      "id": 93405,
+      "title": "鱿鱼游戏",
+      "type": "tv",
+      "genreTitle": "动作冒险•悬疑•剧情",
+      "rating": 7.9,
+      "release_date": "2021-09-17",
+      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
+    },
+    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -154,17 +165,6 @@
       "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
       "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
-    },
-    {
-      "id": 93405,
-      "title": "鱿鱼游戏",
-      "type": "tv",
-      "genreTitle": "动作冒险•悬疑•剧情",
-      "rating": 7.9,
-      "release_date": "2021-09-17",
-      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
     },
     {
       "id": 244808,
@@ -312,6 +312,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 207468,
+      "title": "怪兽8号",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2024-04-13",
+      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5HOL3peaKj8COZx1hXFcEDgwhvD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/nLRUj577aqqnvtcgRf3MkyxuY4I.jpg"
+    },
+    {
       "id": 93405,
       "title": "鱿鱼游戏",
       "type": "tv",
@@ -345,15 +356,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
     },
     {
-      "id": 207468,
-      "title": "怪兽8号",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2024-04-13",
-      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/5HOL3peaKj8COZx1hXFcEDgwhvD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/nLRUj577aqqnvtcgRf3MkyxuY4I.jpg"
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
       "id": 93740,
@@ -365,17 +376,6 @@
       "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
       "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
-    },
-    {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
       "id": 541671,
@@ -411,15 +411,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 6.8,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     }
   ]
 }
