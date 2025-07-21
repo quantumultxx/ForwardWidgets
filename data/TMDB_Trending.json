@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-21 17:02:50",
+  "last_updated": "2025-07-21 17:43:34",
   "today_global": [
     {
       "id": 1311031,
@@ -112,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 253372,
-      "title": "研究院",
-      "type": "tv",
-      "genreTitle": "悬疑•Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2025-07-13",
-      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -134,26 +123,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 93405,
-      "title": "鱿鱼游戏",
+      "id": 253372,
+      "title": "研究院",
       "type": "tv",
-      "genreTitle": "动作冒险•悬疑•剧情",
-      "rating": 7.9,
-      "release_date": "2021-09-17",
-      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
+      "genreTitle": "悬疑•Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2025-07-13",
+      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
     },
     {
-      "id": 1083433,
-      "title": "我永远忘不了你去年夏天做了什么",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑•惊悚",
-      "rating": 5.9,
-      "release_date": "2025-07-16",
-      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
+      "id": 231280,
+      "title": "健将联盟",
+      "type": "tv",
+      "genreTitle": "犯罪•喜剧•动作冒险",
+      "rating": 8.8,
+      "release_date": "2025-05-31",
+      "overview": "时隔十一年，警方重启前运动国手的特殊招募计划。曾被誉为英雄的世界级奖牌选手如今面对现实的严酷挑战，尽管陷入经济困境、遭遇突如其来的悲剧以及警界内部的歧视，这群拥有各自故事的运动员仍再次集结成为特别任务小组，以他们身为运动员时所锻炼出的毅力与技能迎战重大犯罪案件。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fg7Xm5C0JavTtSz9gKwQcKnCuLq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6Qd0zIiV5MUN3ZxBhPVBam67Z0y.jpg"
     },
     {
       "id": 244808,
@@ -167,15 +156,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
     },
     {
-      "id": 231280,
-      "title": "健将联盟",
+      "id": 1083433,
+      "title": "我永远忘不了你去年夏天做了什么",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑•惊悚",
+      "rating": 5.9,
+      "release_date": "2025-07-16",
+      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
+    },
+    {
+      "id": 93405,
+      "title": "鱿鱼游戏",
       "type": "tv",
-      "genreTitle": "犯罪•喜剧•动作冒险",
-      "rating": 8.8,
-      "release_date": "2025-05-31",
-      "overview": "时隔十一年，警方重启前运动国手的特殊招募计划。曾被誉为英雄的世界级奖牌选手如今面对现实的严酷挑战，尽管陷入经济困境、遭遇突如其来的悲剧以及警界内部的歧视，这群拥有各自故事的运动员仍再次集结成为特别任务小组，以他们身为运动员时所锻炼出的毅力与技能迎战重大犯罪案件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fg7Xm5C0JavTtSz9gKwQcKnCuLq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6Qd0zIiV5MUN3ZxBhPVBam67Z0y.jpg"
+      "genreTitle": "动作冒险•悬疑•剧情",
+      "rating": 7.9,
+      "release_date": "2021-09-17",
+      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
     },
     {
       "id": 541671,
@@ -200,6 +200,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kXVb0f4zz1v7PdIqfKZviS3RzQ.jpg"
     },
     {
+      "id": 1429,
+      "title": "进击的巨人",
+      "type": "tv",
+      "genreTitle": "动画•Sci-Fi & Fantasy•动作冒险",
+      "rating": 8.7,
+      "release_date": "2013-04-07",
+      "overview": "曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/by4f66EHK82OZNyEuYbOW5RxFBa.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+    },
+    {
       "id": 1087891,
       "title": "谍网追凶",
       "type": "movie",
@@ -209,17 +220,6 @@
       "overview": "中央情报局密码专家Charlie Heller（拉米·马雷克 Rami Malek 饰）的妻子（瑞秋·布罗斯纳安 Rachel Brosnahan 饰）在伦敦一场恐怖袭击中丧生，他要求上司追捕凶手，但由于相互冲突的内部优先利益无法成行，于是他胁迫该机构训练他本人，自己展开行动。",
       "poster_url": "https://image.tmdb.org/t/p/original/4ABLpkIM3XtlaczduuGzd7JjUuj.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/eJb8AijJrKhuRWw8bFF8C6zjtlH.jpg"
-    },
-    {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     }
   ],
   "week_global_all": [
@@ -345,17 +345,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
     },
     {
-      "id": 194766,
-      "title": "我变漂亮的那个夏天",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.2,
-      "release_date": "2022-06-16",
-      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -367,15 +356,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 93405,
-      "title": "鱿鱼游戏",
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
       "type": "tv",
-      "genreTitle": "动作冒险•悬疑•剧情",
-      "rating": 7.9,
-      "release_date": "2021-09-17",
-      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 1011477,
@@ -389,15 +378,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
+      "id": 103516,
+      "title": "星际迷航：奇异新世界",
       "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+      "genreTitle": "Sci-Fi & Fantasy",
+      "rating": 8.1,
+      "release_date": "2022-05-05",
+      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
+      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     },
     {
       "id": 541671,
@@ -411,26 +400,37 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
-      "id": 103516,
-      "title": "星际迷航：奇异新世界",
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
       "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2022-05-05",
-      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
-      "id": 1083433,
-      "title": "我永远忘不了你去年夏天做了什么",
+      "id": 93405,
+      "title": "鱿鱼游戏",
+      "type": "tv",
+      "genreTitle": "动作冒险•悬疑•剧情",
+      "rating": 7.9,
+      "release_date": "2021-09-17",
+      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
+    },
+    {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
       "type": "movie",
-      "genreTitle": "恐怖•悬疑•惊悚",
-      "rating": 5.9,
-      "release_date": "2025-07-16",
-      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
       "id": 93740,
