@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22 05:43:28",
+  "last_updated": "2025-07-22 05:55:27",
   "today_global": [
     {
       "id": 617126,
@@ -79,17 +79,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
-      "id": 207468,
-      "title": "怪兽8号",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2024-04-13",
-      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
-    },
-    {
       "id": 7451,
       "title": "极限特工",
       "type": "movie",
@@ -99,6 +88,17 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 207468,
+      "title": "怪兽8号",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2024-04-13",
+      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
     },
     {
       "id": 1269208,
@@ -178,17 +178,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
     },
     {
-      "id": 207332,
-      "title": "坂本日常",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 8.1,
-      "release_date": "2025-01-11",
-      "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
-      "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -198,6 +187,17 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
+      "id": 207332,
+      "title": "坂本日常",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•动作冒险",
+      "rating": 8.1,
+      "release_date": "2025-01-11",
+      "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
+      "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
     },
     {
       "id": 1083433,
@@ -356,17 +356,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 207468,
-      "title": "怪兽8号",
-      "type": "tv",
-      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 8.6,
-      "release_date": "2024-04-13",
-      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
-    },
-    {
       "id": 194766,
       "title": "我变美的那夏天",
       "type": "tv",
@@ -376,6 +365,17 @@
       "overview": "《我变美的那夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
       "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
+    },
+    {
+      "id": 207468,
+      "title": "怪兽8号",
+      "type": "tv",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "release_date": "2024-04-13",
+      "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
     },
     {
       "id": 253372,
