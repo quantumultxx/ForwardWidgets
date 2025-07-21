@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22 01:38:15",
+  "last_updated": "2025-07-22 01:54:34",
   "today_global": [
     {
       "id": 1311031,
@@ -112,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
     },
     {
-      "id": 253372,
-      "title": "研究院",
-      "type": "tv",
-      "genreTitle": "悬疑•Sci-Fi & Fantasy",
-      "rating": 7.8,
-      "release_date": "2025-07-13",
-      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
-    },
-    {
       "id": 60625,
       "title": "瑞克和莫蒂",
       "type": "tv",
@@ -134,15 +123,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kXVb0f4zz1v7PdIqfKZviS3RzQ.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+      "id": 253372,
+      "title": "研究院",
+      "type": "tv",
+      "genreTitle": "悬疑•Sci-Fi & Fantasy",
+      "rating": 7.8,
+      "release_date": "2025-07-13",
+      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
     },
     {
       "id": 986056,
@@ -154,6 +143,17 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
       "id": 7451,
@@ -200,17 +200,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
     },
     {
-      "id": 231280,
-      "title": "健将联盟",
-      "type": "tv",
-      "genreTitle": "犯罪•喜剧•动作冒险",
-      "rating": 8.8,
-      "release_date": "2025-05-31",
-      "overview": "时隔十一年，警方重启前运动国手的特殊招募计划。曾被誉为英雄的世界级奖牌选手如今面对现实的严酷挑战，尽管陷入经济困境、遭遇突如其来的悲剧以及警界内部的歧视，这群拥有各自故事的运动员仍再次集结成为特别任务小组，以他们身为运动员时所锻炼出的毅力与技能迎战重大犯罪案件。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fg7Xm5C0JavTtSz9gKwQcKnCuLq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/6Qd0zIiV5MUN3ZxBhPVBam67Z0y.jpg"
-    },
-    {
       "id": 574475,
       "title": "死神来了6：血脉诅咒",
       "type": "movie",
@@ -220,6 +209,17 @@
       "overview": "　　大学生史蒂芬妮（凯特琳·桑塔·胡安娜 Kaitlyn Santa Juana 饰）饱受反复出现的暴力恶梦所困扰，于是决定回到家乡，寻找唯一可能打破这个循环的人，并拯救家人免于无法避免的可怕厄运。",
       "poster_url": "https://image.tmdb.org/t/p/original/nMUAHKfJg1eqKC4t8LCP8GFKG5I.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGs0fA7AJaPDEnTQwfFN6nrXhyc.jpg"
+    },
+    {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     }
   ],
   "week_global_all": [
@@ -279,17 +279,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 7.5,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
       "id": 207468,
       "title": "怪兽8号",
       "type": "tv",
@@ -299,6 +288,17 @@
       "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
       "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
+    },
+    {
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 7.5,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
       "id": 248852,
@@ -312,17 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3dDn5GcoJhfJlb6W9ooINRkQxlo.jpg"
     },
     {
-      "id": 253372,
-      "title": "研究院",
-      "type": "tv",
-      "genreTitle": "悬疑•Sci-Fi & Fantasy",
-      "rating": 7.8,
-      "release_date": "2025-07-13",
-      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
-    },
-    {
       "id": 911430,
       "title": "F1：狂飙飞车",
       "type": "movie",
@@ -332,6 +321,17 @@
       "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
       "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
+      "id": 253372,
+      "title": "研究院",
+      "type": "tv",
+      "genreTitle": "悬疑•Sci-Fi & Fantasy",
+      "rating": 7.8,
+      "release_date": "2025-07-13",
+      "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
     },
     {
       "id": 541671,
@@ -345,17 +345,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 5.9,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
       "id": 986056,
       "title": "雷霆特攻队",
       "type": "movie",
@@ -365,17 +354,6 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 60625,
@@ -389,6 +367,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kXVb0f4zz1v7PdIqfKZviS3RzQ.jpg"
     },
     {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 5.9,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
       "id": 244808,
       "title": "拔作岛",
       "type": "tv",
@@ -398,17 +398,6 @@
       "overview": "　　青蓝岛……这里是施行特殊条例的乐园岛屿。\n\n　　转学到这里的主人公“橘淳之介”，不仅是个骄傲的童贞，同时也是个深入骨髓的处女厨。但是色情条例对他就读的水乃月学园也不例外，没有发生关系的人会被立即逮捕。\n\n　　淳之介能从绝对遵守纪律的学生会和风纪委员会，通称“SS”的恶魔手中逃脱吗……！？\n\n　　和伙伴们一起死守童贞吧！淳之介的战斗现在开始！",
       "poster_url": "https://image.tmdb.org/t/p/original/cAUcpvuTub7p4wB9yRo6TWdKJnz.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
-    },
-    {
-      "id": 1083433,
-      "title": "我永远忘不了你去年夏天做了什么",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑•惊悚",
-      "rating": 5.9,
-      "release_date": "2025-07-16",
-      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
       "id": 1234821,
@@ -431,6 +420,17 @@
       "overview": "　　大学生史蒂芬妮（凯特琳·桑塔·胡安娜 Kaitlyn Santa Juana 饰）饱受反复出现的暴力恶梦所困扰，于是决定回到家乡，寻找唯一可能打破这个循环的人，并拯救家人免于无法避免的可怕厄运。",
       "poster_url": "https://image.tmdb.org/t/p/original/nMUAHKfJg1eqKC4t8LCP8GFKG5I.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGs0fA7AJaPDEnTQwfFN6nrXhyc.jpg"
+    },
+    {
+      "id": 1083433,
+      "title": "我永远忘不了你去年夏天做了什么",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑•惊悚",
+      "rating": 5.8,
+      "release_date": "2025-07-16",
+      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
       "id": 1269208,
