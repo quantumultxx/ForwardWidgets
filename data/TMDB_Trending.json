@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22 05:55:27",
+  "last_updated": "2025-07-22 06:25:17",
   "today_global": [
     {
       "id": 617126,
@@ -145,17 +145,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
-    },
-    {
       "id": 253372,
       "title": "研究院",
       "type": "tv",
@@ -165,6 +154,17 @@
       "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
       "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
       "id": 244808,
@@ -178,17 +178,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
       "id": 207332,
       "title": "坂本日常",
       "type": "tv",
@@ -198,6 +187,17 @@
       "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
       "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 1083433,
@@ -323,28 +323,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
-    },
-    {
       "id": 986056,
       "title": "雷霆特攻队",
       "type": "movie",
@@ -356,15 +334,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 194766,
-      "title": "我变美的那夏天",
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
       "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.2,
-      "release_date": "2022-06-16",
-      "overview": "《我变美的那夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 207468,
@@ -378,6 +356,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
     },
     {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
       "id": 253372,
       "title": "研究院",
       "type": "tv",
@@ -387,6 +376,17 @@
       "overview": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。",
       "poster_url": "https://image.tmdb.org/t/p/original/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg"
+    },
+    {
+      "id": 194766,
+      "title": "我变美的那夏天",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变美的那夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 1011477,
@@ -411,17 +411,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
-      "id": 1083433,
-      "title": "我永远忘不了你去年夏天做了什么",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑•惊悚",
-      "rating": 5.8,
-      "release_date": "2025-07-16",
-      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
-    },
-    {
       "id": 207332,
       "title": "坂本日常",
       "type": "tv",
@@ -431,6 +420,17 @@
       "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
       "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
+    },
+    {
+      "id": 1083433,
+      "title": "我永远忘不了你去年夏天做了什么",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑•惊悚",
+      "rating": 5.8,
+      "release_date": "2025-07-16",
+      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
       "id": 1269208,
