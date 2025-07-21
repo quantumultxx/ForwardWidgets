@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22 06:25:17",
+  "last_updated": "2025-07-22 06:47:12",
   "today_global": [
     {
       "id": 617126,
@@ -178,17 +178,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
     },
     {
-      "id": 207332,
-      "title": "坂本日常",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 8.1,
-      "release_date": "2025-01-11",
-      "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
-      "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -198,6 +187,17 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
+      "id": 207332,
+      "title": "坂本日常",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•动作冒险",
+      "rating": 8.1,
+      "release_date": "2025-01-11",
+      "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
+      "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
     },
     {
       "id": 1083433,
@@ -323,17 +323,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 986056,
-      "title": "雷霆特攻队",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -354,6 +343,17 @@
       "overview": "在怪兽出现率首屈一指的日本——怪兽无情地蹂躏着这个国家，践踏人们的日常。曾经立志要成为防卫队员，而今从事怪兽专门清扫行业的主人公日比野卡夫卡在某一天因为受到谜之生物的影响，身体开始怪兽化。担任讨伐怪兽工作的日本防卫队将这样的他称作“怪兽8号”。",
       "poster_url": "https://image.tmdb.org/t/p/original/zIxjBvCx2WvQyFQMOAKxaEVc1LX.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
       "id": 911430,
@@ -389,17 +389,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
-      "id": 1011477,
-      "title": "功夫梦：融合之道",
-      "type": "movie",
-      "genreTitle": "动作•冒险•剧情",
-      "rating": 7.2,
-      "release_date": "2025-05-08",
-      "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-      "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
-    },
-    {
       "id": 1234821,
       "title": "侏罗纪世界：重生",
       "type": "movie",
@@ -411,15 +400,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
-      "id": 207332,
-      "title": "坂本日常",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 8.1,
-      "release_date": "2025-01-11",
-      "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
-      "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
+      "id": 1011477,
+      "title": "功夫梦：融合之道",
+      "type": "movie",
+      "genreTitle": "动作•冒险•剧情",
+      "rating": 7.2,
+      "release_date": "2025-05-08",
+      "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+      "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
     },
     {
       "id": 1083433,
@@ -431,6 +420,17 @@
       "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
       "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
+    },
+    {
+      "id": 207332,
+      "title": "坂本日常",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•动作冒险",
+      "rating": 8.1,
+      "release_date": "2025-01-11",
+      "overview": "所有的恶徒都畏惧，所有的杀手都憧憬的“那位男人”，某一天，坠入爱河了！！在便利店打工的葵让坂本一见钟情，于是他竟然果断隐退，放弃了杀手的身份。经历了婚姻与女儿的诞生，如今的坂本在一座宁静的小镇上经营着一家个人商店，然而，他已经胖得完全没有了昔日的影子……！！为了守护深爱的家人和这份平静的日常，昔日的传奇杀手，将迎战接踵而至的刺客！日常×非日常交织而成的新派动作故事，正式拉开帷幕！！",
+      "poster_url": "https://image.tmdb.org/t/p/original/1NyU5jsBDP3qraRs9Mwzw6zZQ09.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/ghVzaAV5XwViRZWSTMyQVT0LI1s.jpg"
     },
     {
       "id": 1269208,
