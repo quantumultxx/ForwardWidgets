@@ -934,11 +934,9 @@ async function fetchArtistMap() {
       throw new Error("艺人列表格式无效");
     }
     
-    // 检查是否为新格式 (包含 actors 字段)
     if (rawData.actors && typeof rawData.actors === "object") {
       artistMapCache = rawData.actors;
     } else {
-      // 兼容旧格式 (直接是艺人数据)
       artistMapCache = rawData;
     }
     

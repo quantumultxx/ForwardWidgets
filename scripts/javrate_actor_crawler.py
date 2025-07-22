@@ -179,12 +179,10 @@ def save_to_json(data, filepath):
         return False, 0
 
     try:
-        # 获取北京时间
         beijing_tz = pytz.timezone('Asia/Shanghai')
         beijing_time = datetime.now(beijing_tz)
         last_updated = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
         
-        # 创建包含时间戳的数据结构
         output_data = {
             "last_updated": last_updated,
             "actors": data
