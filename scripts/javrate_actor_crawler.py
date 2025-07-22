@@ -207,7 +207,7 @@ def main():
 
     session = create_session()
     all_actors = {}
-    total_pages = 120  # 根据需求调整目标页数
+    total_pages = 1  # 根据需求调整目标页数
     success_pages = 0
     total_actors = 0
 
