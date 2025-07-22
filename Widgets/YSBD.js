@@ -1,13 +1,13 @@
 // =============UserScript=============
 // @name         影视聚合查询组件
 // @version      1.3.0
-// @description  聚合查询豆瓣/TMDB/IMDB影视数据
+// @description  聚合查询豆瓣/TMDB影视数据
 // @author       阿米诺斯
 // =============UserScript=============
 WidgetMetadata = {
   id: "forward.combined.media.lists",
   title: "影视榜单",
-  description: "聚合豆瓣、TMDB、IMDB的影视榜单",
+  description: "聚合豆瓣、TMDB的影视榜单",
   author: "阿米诺斯",
   site: "https://github.com/quantumultxx/ForwardWidgets",
   version: "1.3.0",
