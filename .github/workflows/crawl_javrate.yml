@@ -20,7 +20,16 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pytz requests beautifulsoup4 lxml
+          if [ -f requirements.txt ]; then
+            pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt || \
+            pip install -r requirements.txt
+          else
+            pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pytz requests beautifulsoup4 lxml || \
+            pip install pytz requests beautifulsoup4 lxml
+          fi
+          python -c "import pytz; print('✓ pytz installed successfully')"
+          python -c "import requests; print('✓ requests installed successfully')"
+          python -c "import bs4; print('✓ beautifulsoup4 installed successfully')"
       - name: Configure Git user information
         run: |
           git config user.name "GitHub Actions"
