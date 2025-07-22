@@ -100,10 +100,6 @@ WidgetMetadata = {
           value: "subject" }
       ]
     },
-
-
-
-
     // =============TMDB模块=============
     // --- 当前与趋势模块 ---
     {
@@ -369,9 +365,6 @@ WidgetMetadata = {
         { name: "language", title: "语言", type: "language", value: "zh-CN" }
       ]
     },
-
-
-
   ]
 };
 
@@ -549,8 +542,6 @@ function parseDoubanAppDispatchUrl(url) {
 }
 
 // ===============豆瓣功能函数===============
-
-
 async function loadDoubanHotList(params = {}) {
   const url = params.url;
   
@@ -855,8 +846,6 @@ async function loadDoubanHotListWithTmdb(params = {}) {
   return await fetchImdbItemsForDouban(processedItemsWithMultiDetection);
 }
 
-
-
 async function loadDoubanRecommendItems(params = {}, mediaType = "movie") {
   const { start, limit } = calculatePagination(params);
   const category = params.category || "";
@@ -920,7 +909,6 @@ async function loadDoubanRecommendItems(params = {}, mediaType = "movie") {
     };
   });
 }
-
 
 async function fetchTmdbDataForDouban(key, mediaType) {
     let searchTypes = [];
@@ -1479,8 +1467,6 @@ async function tmdbTopRated(params) {
     const api = type === 'movie' ? `movie/top_rated` : `tv/top_rated`;
     return await fetchTmdbData(api, params);
 }
-
-
 
 async function tmdbDiscoverByNetwork(params = {}) {
     const api = "discover/tv";
