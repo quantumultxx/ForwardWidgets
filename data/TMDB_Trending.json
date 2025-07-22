@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-23 05:55:21",
+  "last_updated": "2025-07-23 06:24:03",
   "today_global": [
     {
       "id": 552524,
@@ -178,6 +178,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zcmnrL46jA5S4Grv4T7WJLboYAr.jpg"
     },
     {
+      "id": 244808,
+      "title": "拔作岛",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•剧情",
+      "rating": 4.9,
+      "release_date": "2025-07-19",
+      "overview": "　　青蓝岛……这里是施行特殊条例的乐园岛屿。\n\n　　转学到这里的主人公“橘淳之介”，不仅是个骄傲的童贞，同时也是个深入骨髓的处女厨。但是色情条例对他就读的水乃月学园也不例外，没有发生关系的人会被立即逮捕。\n\n　　淳之介能从绝对遵守纪律的学生会和风纪委员会，通称“SS”的恶魔手中逃脱吗……！？\n\n　　和伙伴们一起死守童贞吧！淳之介的战斗现在开始！",
+      "poster_url": "https://image.tmdb.org/t/p/original/cAUcpvuTub7p4wB9yRo6TWdKJnz.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
+    },
+    {
       "id": 541671,
       "title": "疾速追杀：芭蕾杀姬",
       "type": "movie",
@@ -209,17 +220,6 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
-      "id": 244808,
-      "title": "拔作岛",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•剧情",
-      "rating": 4.9,
-      "release_date": "2025-07-19",
-      "overview": "　　青蓝岛……这里是施行特殊条例的乐园岛屿。\n\n　　转学到这里的主人公“橘淳之介”，不仅是个骄傲的童贞，同时也是个深入骨髓的处女厨。但是色情条例对他就读的水乃月学园也不例外，没有发生关系的人会被立即逮捕。\n\n　　淳之介能从绝对遵守纪律的学生会和风纪委员会，通称“SS”的恶魔手中逃脱吗……！？\n\n　　和伙伴们一起死守童贞吧！淳之介的战斗现在开始！",
-      "poster_url": "https://image.tmdb.org/t/p/original/cAUcpvuTub7p4wB9yRo6TWdKJnz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
     }
   ],
   "week_global_all": [
@@ -345,6 +345,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
+      "id": 1083433,
+      "title": "我永远忘不了你去年夏天做了什么",
+      "type": "movie",
+      "genreTitle": "恐怖•悬疑•惊悚",
+      "rating": 5.9,
+      "release_date": "2025-07-16",
+      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
+      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
+    },
+    {
       "id": 1234821,
       "title": "侏罗纪世界：重生",
       "type": "movie",
@@ -367,17 +378,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     },
     {
-      "id": 1083433,
-      "title": "我永远忘不了你去年夏天做了什么",
-      "type": "movie",
-      "genreTitle": "恐怖•悬疑•惊悚",
-      "rating": 5.9,
-      "release_date": "2025-07-16",
-      "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
-      "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
-    },
-    {
       "id": 541671,
       "title": "疾速追杀：芭蕾杀姬",
       "type": "movie",
@@ -387,6 +387,17 @@
       "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
       "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
+    },
+    {
+      "id": 1285965,
+      "title": "危险动物",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.6,
+      "release_date": "2025-06-05",
+      "overview": "　　一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
     },
     {
       "id": 207468,
@@ -411,22 +422,11 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 1285965,
-      "title": "危险动物",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.6,
-      "release_date": "2025-06-05",
-      "overview": "　　一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
-    },
-    {
       "id": 1011477,
       "title": "功夫梦：融合之道",
       "type": "movie",
       "genreTitle": "动作•冒险•剧情",
-      "rating": 7.2,
+      "rating": 7.3,
       "release_date": "2025-05-08",
       "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
       "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
