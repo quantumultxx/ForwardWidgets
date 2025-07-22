@@ -5,6 +5,8 @@ import random
 import os
 import re
 import json
+from datetime import datetime
+import pytz
 
 # ==================== 配置参数 ====================
 ACTOR_SELECTORS = [  # 演员卡片选择器优先级列表
@@ -177,9 +179,18 @@ def save_to_json(data, filepath):
         return False, 0
 
     try:
+        beijing_tz = pytz.timezone('Asia/Shanghai')
+        beijing_time = datetime.now(beijing_tz)
+        last_updated = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
+        
+        output_data = {
+            "last_updated": last_updated,
+            "actors": data
+        }
+        
         os.makedirs(os.path.dirname(filepath), exist_ok=True)
         with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+            json.dump(output_data, f, ensure_ascii=False, indent=2)
         return True, len(data)
     except Exception as e:
         print(f"[保存错误] 文件写入失败: {str(e)}")
