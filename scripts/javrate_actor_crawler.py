@@ -185,6 +185,7 @@ def save_to_json(data, filepath):
         
         output_data = {
             "last_updated": last_updated,
+            "total_count": len(data),
             "actors": data
         }
         
