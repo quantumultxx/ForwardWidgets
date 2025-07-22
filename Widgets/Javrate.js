@@ -926,12 +926,20 @@ async function fetchArtistMap() {
     
     if (!response.data) throw new Error("艺人列表返回空数据");
     
-    artistMapCache = typeof response.data === "object" 
+    let rawData = typeof response.data === "object" 
       ? response.data 
       : JSON.parse(response.data);
     
-    if (typeof artistMapCache !== "object" || artistMapCache === null) {
+    if (typeof rawData !== "object" || rawData === null) {
       throw new Error("艺人列表格式无效");
+    }
+    
+    // 检查是否为新格式 (包含 actors 字段)
+    if (rawData.actors && typeof rawData.actors === "object") {
+      artistMapCache = rawData.actors;
+    } else {
+      // 兼容旧格式 (直接是艺人数据)
+      artistMapCache = rawData;
     }
     
     artistMapCacheTime = Date.now();
