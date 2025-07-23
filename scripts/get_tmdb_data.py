@@ -3,22 +3,51 @@ import json
 import requests
 from datetime import datetime, timezone, timedelta
 
-TMDB_API_KEY = os.getenv("TMDB_API_KEY")
+TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3"
-SAVE_PATH = os.path.join(os.getcwd(), "data", "TMDB_Trending.json")
+SAVE_PATH = "TMDB_Trending.json"
 
 def fetch_tmdb_data(time_window="day", media_type="all"):
+    if not TMDB_API_KEY:
+        return {"results": []}
+
     endpoint = f"/trending/all/{time_window}" if media_type == "all" else f"/trending/{media_type}/{time_window}"
     url = f"{BASE_URL}{endpoint}"
     params = {"api_key": TMDB_API_KEY, "language": "zh-CN"}
-    response = requests.get(url, params=params)
+
+    response = requests.get(url, params=params, timeout=10)
+    response.raise_for_status()
     return response.json()
 
+def fetch_now_playing():
+    if not TMDB_API_KEY:
+        return {"results": []}
+    
+    endpoint = "/movie/now_playing"
+    url = f"{BASE_URL}{endpoint}"
+    params = {
+        "api_key": TMDB_API_KEY,
+        "language": "zh-CN",
+        "region": "CN",
+        "page": 1
+    }
+    
+    response = requests.get(url, params=params, timeout=10)
+    response.raise_for_status()
+    data = response.json()
+    data["results"] = data["results"][:15]
+    return data
+
 def get_media_details(media_type, media_id):
+    if not TMDB_API_KEY:
+        return {"genres": []}
+    
     detail_endpoint = f"/{media_type}/{media_id}"
     url = f"{BASE_URL}{detail_endpoint}"
     params = {"api_key": TMDB_API_KEY, "language": "zh-CN"}
-    response = requests.get(url, params=params)
+    
+    response = requests.get(url, params=params, timeout=10)
+    response.raise_for_status()
     return response.json()
 
 def get_media_images(media_type, media_id):
@@ -28,12 +57,9 @@ def get_media_images(media_type, media_id):
         "api_key": TMDB_API_KEY,
         "include_image_language": "zh,en,null"
     }
-    try:
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        return response.json()
-    except requests.exceptions.RequestException as e:
-        return {"backdrops": []}
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    return response.json()
 
 def get_image_url(path, size="original"):
     return f"https://image.tmdb.org/t/p/{size}{path}"
@@ -53,7 +79,6 @@ def get_best_title_backdrop(image_data):
             lang_score = 3
         
         vote_avg = -backdrop.get("vote_average", 0)
-        
         width = backdrop.get("width", 0)
         height = backdrop.get("height", 0)
         resolution = -(width * height)
@@ -61,21 +86,17 @@ def get_best_title_backdrop(image_data):
         return (lang_score, vote_avg, resolution)
     
     sorted_backdrops = sorted(backdrops, key=get_priority_score)
-    
-    if not sorted_backdrops:
-        return ""
-    
     best_backdrop = sorted_backdrops[0]
     return get_image_url(best_backdrop["file_path"])
-    
+
 def process_tmdb_data(data, time_window, media_type):
     results = []
     for item in data.get("results", []):
         title = item.get("title") or item.get("name")
         release_date = item.get("release_date") or item.get("first_air_date")
         overview = item.get("overview")
-        rating = round(item.get("vote_average", 0), 1)
-        item_type = media_type if media_type != "all" else item.get("media_type", "unknown")
+        rating = round(item.get("vote_average"), 1)
+        item_type = media_type if media_type != "all" else item.get("media_type")
         media_id = item.get("id")
 
         poster_url = get_image_url(item.get("poster_path"))
@@ -110,18 +131,43 @@ def process_tmdb_data(data, time_window, media_type):
     
     return results
 
-def save_to_json(data, file_path):
-    with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+def save_to_json(data, filepath):
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-def print_results(items, title_text):
-    print(f"\n{title_text}")
-    for idx, item in enumerate(items[:20], 1):
-        print(f"{idx:2d}. {item['title']} ({item['type']}) "
-              f"评分: {item['rating']} | {item['genreTitle']}")
+def print_trending_results(results, section_title):
+    print("")
+    print(f"================= {section_title}  =================")
+    
+    for i, item in enumerate(results, 1):
+        title = item.get("title")
+        item_type = item.get("type")
+        rating = item.get("rating")
+        genre_title = item.get("genreTitle")
+        
+        print(f"{i:2d}. {title} ({item_type}) 评分: {rating} | {genre_title}")
 
 def main():
     print("=== 开始执行TMDB数据获取 ===")
+    
+    if not TMDB_API_KEY:
+        beijing_timezone = timezone(timedelta(hours=8))
+        beijing_now = datetime.now(beijing_timezone)
+        last_updated = beijing_now.strftime("%Y-%m-%d %H:%M:%S")
+        
+        print(f"✅ 热门数据获取时间: {last_updated}")
+        
+        data_to_save = {
+            "last_updated": last_updated,
+            "today_global": [],
+            "week_global_all": [],
+            "now_playing": []
+        }
+        save_to_json(data_to_save, SAVE_PATH)
+        print("")
+        print("================= 执行完成 =================")
+        print("get_tmdb_data.py 运行完成")
+        return
 
     today_global = fetch_tmdb_data(time_window="day", media_type="all")
     today_processed = process_tmdb_data(today_global, "day", "all")
@@ -129,24 +175,33 @@ def main():
     week_global_all = fetch_tmdb_data(time_window="week", media_type="all")
     week_processed = process_tmdb_data(week_global_all, "week", "all")
 
+    now_playing = fetch_now_playing()
+    now_playing_processed = process_tmdb_data(now_playing, "now", "movie")
+
     beijing_timezone = timezone(timedelta(hours=8))
     beijing_now = datetime.now(beijing_timezone)
     last_updated = beijing_now.strftime("%Y-%m-%d %H:%M:%S")
 
+    print(f"✅ 热门数据获取时间: {last_updated}")
+
+    print_trending_results(today_processed, "今日热门")
+    print_trending_results(week_processed, "本周热门")
+    
+    if now_playing_processed:
+        print_trending_results(now_playing_processed, "正在热映")
+
     data_to_save = {
         "last_updated": last_updated,
         "today_global": today_processed,
-        "week_global_all": week_processed
+        "week_global_all": week_processed,
+        "now_playing": now_playing_processed
     }
 
     save_to_json(data_to_save, SAVE_PATH)
-
-    print(f"✅ 热门数据获取时间: {last_updated}")
-
-    print_results(today_processed, "================= 今日热门  =================")
-    print_results(week_processed, "================= 本周热门  =================")
-
-    print("\n================= 执行完成 =================")
+    
+    print("")
+    print("================= 执行完成 =================")
+    print("get_tmdb_data.py 运行完成")
 
 if __name__ == "__main__":
     main()
