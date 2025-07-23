@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24 05:43:29",
+  "last_updated": "2025-07-24 05:55:34",
   "today_global": [
     {
       "id": 552524,
@@ -46,17 +46,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yq3iHUEkYNn0mXm4rQyOcp4qgbN.jpg"
     },
     {
-      "id": 1285965,
-      "title": "危险动物",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-06-05",
-      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
-    },
-    {
       "id": 1061474,
       "title": "超人",
       "type": "movie",
@@ -66,6 +55,17 @@
       "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
       "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+    },
+    {
+      "id": 1285965,
+      "title": "危险动物",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-06-05",
+      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
     },
     {
       "id": 1311031,
@@ -189,17 +189,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
     },
     {
-      "id": 194766,
-      "title": "我变漂亮的那个夏天",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.2,
-      "release_date": "2022-06-16",
-      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
-    },
-    {
       "id": 911430,
       "title": "F1：狂飙飞车",
       "type": "movie",
@@ -209,6 +198,17 @@
       "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
       "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 259207,
@@ -356,6 +356,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
+      "id": 541671,
+      "title": "疾速追杀：芭蕾杀姬",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-06-04",
+      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
+    },
+    {
       "id": 574475,
       "title": "死神来了6：血脉诅咒",
       "type": "movie",
@@ -365,17 +376,6 @@
       "overview": "　　大学生史蒂芬妮（凯特琳·桑塔·胡安娜 Kaitlyn Santa Juana 饰）饱受反复出现的暴力恶梦所困扰，于是决定回到家乡，寻找唯一可能打破这个循环的人，并拯救家人免于无法避免的可怕厄运。",
       "poster_url": "https://image.tmdb.org/t/p/original/nMUAHKfJg1eqKC4t8LCP8GFKG5I.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGs0fA7AJaPDEnTQwfFN6nrXhyc.jpg"
-    },
-    {
-      "id": 194766,
-      "title": "我变漂亮的那个夏天",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 8.2,
-      "release_date": "2022-06-16",
-      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 1083433,
@@ -389,37 +389,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
     },
     {
-      "id": 541671,
-      "title": "疾速追杀：芭蕾杀姬",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•犯罪",
-      "rating": 7.5,
-      "release_date": "2025-06-04",
-      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
-      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
-    },
-    {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
       "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.0,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
-      "id": 1269208,
-      "title": "墙外之音",
-      "type": "movie",
-      "genreTitle": "惊悚•剧情",
-      "rating": 6.6,
-      "release_date": "2025-07-17",
-      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
       "id": 156390,
@@ -442,6 +420,28 @@
       "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
       "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
+    },
+    {
+      "id": 1269208,
+      "title": "墙外之音",
+      "type": "movie",
+      "genreTitle": "惊悚•剧情",
+      "rating": 6.6,
+      "release_date": "2025-07-17",
+      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.0,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     }
   ],
   "now_playing": [
@@ -609,6 +609,61 @@
       "overview": "从卢浮宫到白金汉宫，到巴黎的阴沟到拉罗谢尔的围城……在一个被宗教战争分裂并受到英国入侵威胁的王国里，少数男男女女将剑拔弩张，将他们的命运与法国的命运绑在一起 。",
       "poster_url": "https://image.tmdb.org/t/p/original/gl7kGqjM6wKkWemDeuHuBvNwYxv.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/46dbKbEWIdc7NWQBF546S9FoC8P.jpg"
+    },
+    {
+      "id": 309809,
+      "title": "小王子",
+      "type": "movie",
+      "genreTitle": "冒险•动画•奇幻",
+      "rating": 7.6,
+      "release_date": "2015-10-16",
+      "overview": "灰蒙蒙的都市丛林，美丽的小女孩眼神中没有渴望和雀跃，她跟随妈妈穿梭钢筋水泥的光影之间，按照社会既定法则亦步亦趋。她的未来似乎早被注定和规划，即使生日礼物也找不到些许惊奇。为了进入好学校，母女俩搬到郊外一幢独栋房子里，旁边则是一间与周遭格格不入的破房子。某天，一个飞机螺旋桨突然破墙而入，从而建立起女孩和隔壁那个怪爷爷的友谊。老人自称曾是一名飞行员，年轻时他迫降沙漠，在那里认识了有着纯真心灵的小王子。女孩听老人讲述着有着童话般瑰丽色彩的往事，不知不觉间心驰神往……",
+      "poster_url": "https://image.tmdb.org/t/p/original/gwbxrlFrlYMcgUGmDrrKgoboe06.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dXWSq5HlQqs5CP8cF0DrN1J1wZ4.jpg"
+    },
+    {
+      "id": 1356587,
+      "title": "長安的荔枝",
+      "type": "movie",
+      "genreTitle": "剧情•历史•喜剧",
+      "rating": 8.0,
+      "release_date": "2025-07-12",
+      "overview": "唐天宝年间，人到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠搜搜花了不少钱，到头来却还是个无名小吏。然而这一切随着一次召见似乎有了转机，某天有人安排给他一个“荔枝使”的肥差，只要办成，那就是荣华富贵人生逆袭，但要是办不成……",
+      "poster_url": "https://image.tmdb.org/t/p/original/S8XM9nknYxBHCp1AO1TNpqwRzo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/mBa8hfCXiiMcguuOHojqotOH7IO.jpg"
+    },
+    {
+      "id": 962,
+      "title": "淘金记",
+      "type": "movie",
+      "genreTitle": "冒险•喜剧•剧情",
+      "rating": 8.0,
+      "release_date": "2025-06-26",
+      "overview": "卓别林的作品中浸透了小人物辛酸的微笑和无奈的自嘲。他们一方面身份卑微，穷困潦倒，令一方面又有着善良的意愿和小人物的狡猾。在历尽艰辛之后，最终得到了属于他们的幸福。  1898年，单身汉夏尔洛去阿拉斯加淘金，一场暴风雪，将他和另外一个采矿人吉姆卷进了逃犯拉森的小木屋。吉姆制服了拉森，与夏尔洛成为好友。 暴风雪停了之后，两人各奔东西，吉姆后来找到了金矿，却与拉森争斗起来，拉森打昏了吉姆，装满金块下山，途中遇到雪崩送了性命。夏尔洛独自来到蒙特卡罗舞场，爱上了舞女乔治亚。除夕之夜，夏尔洛设宴招待乔治亚，乔治亚却在舞厅忙于应付客人而失约。第二天夏尔洛去舞厅去找乔治亚，却遇到了失忆的吉姆。吉姆看到了夏尔洛后突然恢复了记忆，于是一起去找那个金矿。最终他们找到了金矿，成为了百万富翁。在回美国的轮船上，夏尔洛与乔治亚意外重逢，两人圆满结束。",
+      "poster_url": "https://image.tmdb.org/t/p/original/bBKC6yWby1eI9JlCj5HqKm0YzuD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg"
+    },
+    {
+      "id": 37280,
+      "title": "蜡笔小新：大人王国的反击",
+      "type": "movie",
+      "genreTitle": "动画•喜剧•冒险",
+      "rating": 8.2,
+      "release_date": "2025-06-28",
+      "overview": "这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
+      "poster_url": "https://image.tmdb.org/t/p/original/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tMu1ceUmscHoOJFCkz3HmTRBAg3.jpg"
+    },
+    {
+      "id": 1382007,
+      "title": "你行！你上！",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧",
+      "rating": 7.7,
+      "release_date": "2025-07-17",
+      "overview": "这是一对父子的传奇历险，也是两个野心家的一拍即合。从沈阳到美国，从3岁到17岁，弹琴胜似取经，八十八键多过八十一难，父子心无杂念，只管埋头向前，两人赤手空拳让美国殿堂艺术精英们刮目相看。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1y9IwioPnBuQGmkDglNBLR0hUCE.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rNOWkn54ZeATqWwhu4vzdU7neNo.jpg"
     }
   ]
 }
