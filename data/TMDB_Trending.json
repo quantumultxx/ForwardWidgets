@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-23 23:34:30",
+  "last_updated": "2025-07-23 23:57:17",
   "today_global": [
     {
       "id": 552524,
@@ -28,7 +28,7 @@
       "title": "神奇4侠：初露锋芒",
       "type": "movie",
       "genreTitle": "科幻•冒险",
-      "rating": 6.1,
+      "rating": 6.2,
       "release_date": "2025-07-23",
       "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
       "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
@@ -112,17 +112,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 248852,
-      "title": "荒境狂途",
-      "type": "tv",
-      "genreTitle": "悬疑•剧情",
-      "rating": 7.4,
-      "release_date": "2025-07-17",
-      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fmctH6IgyWVrQCzxnQiGJe5DjX3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
-    },
-    {
       "id": 278006,
       "title": "来自过去的信",
       "type": "tv",
@@ -132,6 +121,17 @@
       "overview": "一位年轻女子发现了自己过去深藏已久的秘密，她必须追溯到一系列信件的作者，才能揭开真相。",
       "poster_url": "https://image.tmdb.org/t/p/original/gTrASelf2Vpyk0qeQ83ogey7ZaV.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/vRYwjPKxSknKh5vh9aYyiz1i7My.jpg"
+    },
+    {
+      "id": 248852,
+      "title": "荒境狂途",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 7.4,
+      "release_date": "2025-07-17",
+      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fmctH6IgyWVrQCzxnQiGJe5DjX3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
     },
     {
       "id": 1071585,
@@ -200,26 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 83533,
-      "title": "阿凡达：火与烬",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•奇幻",
-      "rating": 0.0,
-      "release_date": "2025-12-17",
-      "overview": "故事发生在2154年，故事从地球开始，杰克·萨利是一个双腿瘫痪的前海军陆战队员，他觉得没有任何东西值得他去战斗，因此他对被派遣去潘多拉星球的采矿公司工作欣然接受。这个星球上有一种别的地方都没有的矿物元素“Unobtanium”，能够吸引人类不远万里来到这里拓荒的原因就是“Unobtanium”将彻底改变人类的能源产业。但是问题是，资源丰富的潘多拉星球并不适合人类生活，这里的空气对人类致命，本土的动植物都是凶猛的掠食者，极度危险。这里的环境也造就了与人类不同的种族：10英尺高（约3米）的蓝色类人生物“Na'vi族”。Na'vi族不满人类拓荒者的到来，也不喜欢人类的机器在这个星球的土地上因为到处挖矿而留下的斑斑伤痕。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/a2uCehLuFubdyrsyAbwhtb7Qwv5.jpg"
-    },
-    {
       "id": 248830,
       "title": "一杆入魂",
       "type": "tv",
       "genreTitle": "喜剧•剧情",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2025-06-03",
       "overview": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
       "poster_url": "https://image.tmdb.org/t/p/original/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/oRn4oYbhxAQg8TyGKNd8WMVuLKF.jpg"
+    },
+    {
+      "id": 194766,
+      "title": "我变漂亮的那个夏天",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "release_date": "2022-06-16",
+      "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
+      "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     }
   ],
   "week_global_all": [
@@ -228,7 +228,7 @@
       "title": "神奇4侠：初露锋芒",
       "type": "movie",
       "genreTitle": "科幻•冒险",
-      "rating": 6.1,
+      "rating": 6.2,
       "release_date": "2025-07-23",
       "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
       "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
@@ -279,28 +279,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.9,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
-    },
-    {
-      "id": 248852,
-      "title": "荒境狂途",
-      "type": "tv",
-      "genreTitle": "悬疑•剧情",
-      "rating": 7.4,
-      "release_date": "2025-07-17",
-      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fmctH6IgyWVrQCzxnQiGJe5DjX3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
-    },
-    {
       "id": 1311031,
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
@@ -312,15 +290,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 1285965,
-      "title": "危险动物",
+      "id": 1136867,
+      "title": "物质主义者",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.8,
-      "release_date": "2025-06-05",
-      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+      "genreTitle": "爱情•剧情",
+      "rating": 6.9,
+      "release_date": "2025-06-12",
+      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
       "id": 156390,
@@ -334,6 +312,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/aOnzIxpMGRtKfkQp5gqIaKlh3ov.jpg"
     },
     {
+      "id": 248852,
+      "title": "荒境狂途",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 7.4,
+      "release_date": "2025-07-17",
+      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fmctH6IgyWVrQCzxnQiGJe5DjX3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
+    },
+    {
+      "id": 1285965,
+      "title": "危险动物",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.8,
+      "release_date": "2025-06-05",
+      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+    },
+    {
       "id": 986056,
       "title": "雷霆特攻队*",
       "type": "movie",
@@ -345,17 +345,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
       "id": 194766,
       "title": "我变漂亮的那个夏天",
       "type": "tv",
@@ -365,6 +354,17 @@
       "overview": "《我变漂亮的那个夏天》是改编自《纽约时报》畅销书的新剧集。每年夏天，柏莉都会和她的家人前往考辛斯的渔人海滨别墅度假。每年夏天都是一样的...直到柏莉长到16岁。人际关系将受到考验，痛苦的真相将被揭露，而柏莉将永远改变。这是一个关于初恋、第一次心碎和成长的夏天——这是她变漂亮的夏天。",
       "poster_url": "https://image.tmdb.org/t/p/original/oor9tlOTmJnR9wcJ737VSM1zEBF.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 911430,
