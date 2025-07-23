@@ -3,9 +3,9 @@ import json
 import requests
 from datetime import datetime, timezone, timedelta
 
-TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3"
-SAVE_PATH = "TMDB_Trending.json"
+SAVE_PATH = os.path.join(os.getcwd(), "data", "TMDB_Trending.json")
 
 def fetch_tmdb_data(time_window="day", media_type="all"):
     if not TMDB_API_KEY:
