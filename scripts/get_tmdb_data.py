@@ -19,11 +19,11 @@ def fetch_tmdb_data(time_window="day", media_type="all"):
     response.raise_for_status()
     return response.json()
 
-def fetch_now_playing():
+def fetch_popular_movies():  
     if not TMDB_API_KEY:
         return {"results": []}
     
-    endpoint = "/movie/now_playing"
+    endpoint = "/movie/popular"
     url = f"{BASE_URL}{endpoint}"
     params = {
         "api_key": TMDB_API_KEY,
@@ -35,7 +35,7 @@ def fetch_now_playing():
     response = requests.get(url, params=params, timeout=10)
     response.raise_for_status()
     data = response.json()
-    data["results"] = data["results"][:20]
+    data["results"] = data["results"][:15]
     return data
 
 def get_media_details(media_type, media_id):
@@ -93,7 +93,7 @@ def process_tmdb_data(data, time_window, media_type):
     results = []
     for item in data.get("results", []):
         title = item.get("title") or item.get("name")
-        release_date = item.get("release_date") or item.get("first_air_date")
+        release_date = item.get("release_date")
         overview = item.get("overview")
         rating = round(item.get("vote_average"), 1)
         item_type = media_type if media_type != "all" else item.get("media_type")
@@ -161,7 +161,7 @@ def main():
             "last_updated": last_updated,
             "today_global": [],
             "week_global_all": [],
-            "now_playing": []
+            "popular_movies": []
         }
         save_to_json(data_to_save, SAVE_PATH)
         print("")
@@ -175,8 +175,8 @@ def main():
     week_global_all = fetch_tmdb_data(time_window="week", media_type="all")
     week_processed = process_tmdb_data(week_global_all, "week", "all")
 
-    now_playing = fetch_now_playing()
-    now_playing_processed = process_tmdb_data(now_playing, "now", "movie")
+    popular_movies = fetch_popular_movies()
+    popular_processed = process_tmdb_data(popular_movies, "popular", "movie")
 
     beijing_timezone = timezone(timedelta(hours=8))
     beijing_now = datetime.now(beijing_timezone)
@@ -187,14 +187,14 @@ def main():
     print_trending_results(today_processed, "今日热门")
     print_trending_results(week_processed, "本周热门")
     
-    if now_playing_processed:
-        print_trending_results(now_playing_processed, "正在热映")
+    if popular_processed:
+        print_trending_results(popular_processed, "热门电影")
 
     data_to_save = {
         "last_updated": last_updated,
         "today_global": today_processed,
         "week_global_all": week_processed,
-        "now_playing": now_playing_processed
+        "popular_movies": popular_processed
     }
 
     save_to_json(data_to_save, SAVE_PATH)
