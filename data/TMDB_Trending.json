@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24 04:48:52",
+  "last_updated": "2025-07-24 05:24:09",
   "today_global": [
     {
       "id": 552524,
@@ -13,17 +13,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.9,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
-    },
-    {
       "id": 617126,
       "title": "神奇4侠：初露锋芒",
       "type": "movie",
@@ -33,6 +22,17 @@
       "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
       "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 1136867,
+      "title": "物质主义者",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.9,
+      "release_date": "2025-06-12",
+      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
       "id": 156390,
@@ -90,17 +90,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
     },
     {
-      "id": 1319951,
-      "title": "40 Acres",
-      "type": "movie",
-      "genreTitle": "动作•惊悚•剧情",
-      "rating": 5.8,
-      "release_date": "2025-07-02",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/z8h3jq3gPe3whZ8EZxThDPbKmUF.jpg"
-    },
-    {
       "id": 1087192,
       "title": "新·驯龙高手",
       "type": "movie",
@@ -112,17 +101,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
       "id": 278006,
       "title": "来自过去的信",
       "type": "tv",
@@ -132,6 +110,28 @@
       "overview": "一位年轻女子发现了自己过去深藏已久的秘密，她必须追溯到一系列信件的作者，才能揭开真相。",
       "poster_url": "https://image.tmdb.org/t/p/original/gTrASelf2Vpyk0qeQ83ogey7ZaV.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/vRYwjPKxSknKh5vh9aYyiz1i7My.jpg"
+    },
+    {
+      "id": 1319951,
+      "title": "40 Acres",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•剧情",
+      "rating": 5.8,
+      "release_date": "2025-07-02",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/z8h3jq3gPe3whZ8EZxThDPbKmUF.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 986056,
@@ -200,6 +200,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
+      "id": 1269208,
+      "title": "墙外之音",
+      "type": "movie",
+      "genreTitle": "惊悚•剧情",
+      "rating": 6.6,
+      "release_date": "2025-07-17",
+      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+    },
+    {
       "id": 259207,
       "title": "命悬一线：伦敦重症急救实录",
       "type": "tv",
@@ -209,31 +220,9 @@
       "overview": "从危急情况到手术室，这部纪录片剧集聚焦伦敦创伤中心，展现医护人员治疗重症伤患的全过程。",
       "poster_url": "https://image.tmdb.org/t/p/original/ag2QnGMXAVKq23QEIHUWNMZSIqH.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/vLAaGQkEVrBnSOn6FupkrfRYZvb.jpg"
-    },
-    {
-      "id": 133727,
-      "title": "Acapulco",
-      "type": "tv",
-      "genreTitle": "喜剧•剧情",
-      "rating": 7.3,
-      "release_date": "2021-10-08",
-      "overview": "1984年，当马克西莫·戈亚多在阿卡普尔科最热门的度假酒店拉斯科林纳斯找到了一份梦寐以求的工作时，他觉得自己的梦想成真了。不过很快他就意识到在那里工作远比他想象中要复杂得多。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dINKxhJxqpuQo0Pcdyeru6O39W9.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/gPor1lLn7hQ86Mw4qaGbdkzLghJ.jpg"
     }
   ],
   "week_global_all": [
-    {
-      "id": 1061474,
-      "title": "超人",
-      "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 7.5,
-      "release_date": "2025-07-09",
-      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
-    },
     {
       "id": 617126,
       "title": "神奇4侠：初露锋芒",
@@ -244,6 +233,17 @@
       "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
       "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 1061474,
+      "title": "超人",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.5,
+      "release_date": "2025-07-09",
+      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
       "id": 1087192,
@@ -301,17 +301,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
       "id": 1136867,
       "title": "物质主义者",
       "type": "movie",
@@ -321,6 +310,17 @@
       "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
       "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+    },
+    {
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
       "id": 986056,
@@ -334,6 +334,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-01",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
+    {
       "id": 194766,
       "title": "我变漂亮的那个夏天",
       "type": "tv",
@@ -345,26 +356,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/2FcVG76jzM90i25zVfDF816UWRF.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.0,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
-      "id": 1234821,
-      "title": "侏罗纪世界：重生",
+      "id": 574475,
+      "title": "死神来了6：血脉诅咒",
       "type": "movie",
-      "genreTitle": "科幻•冒险•动作",
-      "rating": 6.4,
-      "release_date": "2025-07-01",
-      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
-      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+      "genreTitle": "恐怖•悬疑",
+      "rating": 7.2,
+      "release_date": "2025-05-14",
+      "overview": "　　大学生史蒂芬妮（凯特琳·桑塔·胡安娜 Kaitlyn Santa Juana 饰）饱受反复出现的暴力恶梦所困扰，于是决定回到家乡，寻找唯一可能打破这个循环的人，并拯救家人免于无法避免的可怕厄运。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nMUAHKfJg1eqKC4t8LCP8GFKG5I.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGs0fA7AJaPDEnTQwfFN6nrXhyc.jpg"
     },
     {
       "id": 541671,
@@ -378,6 +378,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.0,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
       "id": 1269208,
       "title": "墙外之音",
       "type": "movie",
@@ -387,6 +398,28 @@
       "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
       "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
+      "id": 93405,
+      "title": "鱿鱼游戏",
+      "type": "tv",
+      "genreTitle": "动作冒险•悬疑•剧情",
+      "rating": 7.9,
+      "release_date": "2021-09-17",
+      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
     },
     {
       "id": 207468,
@@ -409,39 +442,173 @@
       "overview": "　据美国媒体报道，索尼影业将翻拍青春惊悚片《我知道你去年夏天干了什么》（I Know What You Did Last Summer），由《鬼遮眼》的导演兼编剧迈克·弗拉纳根操刀剧本。",
       "poster_url": "https://image.tmdb.org/t/p/original/pNCK13PXVUFLbuTGtbNC611Bjzj.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8Mc9gYy3Jn2DbpY8542NepK9GeA.jpg"
-    },
+    }
+  ],
+  "now_playing": [
     {
-      "id": 93405,
-      "title": "鱿鱼游戏",
-      "type": "tv",
-      "genreTitle": "动作冒险•悬疑•剧情",
-      "rating": 7.9,
-      "release_date": "2021-09-17",
-      "overview": "数百名经济拮据的人接受了一个奇怪的邀请，参加儿童游戏比赛。在这场游戏中，有诱人的奖金，也有致命的高风险。",
-      "poster_url": "https://image.tmdb.org/t/p/original/1qLhWdhkuchtoBLmLzvubxqgF8O.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7GvdgCXOFVOJ082AavevFpMQDdi.jpg"
-    },
-    {
-      "id": 103516,
-      "title": "星际迷航：奇异新世界",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy",
-      "rating": 8.1,
-      "release_date": "2022-05-05",
-      "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
-      "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
-      "id": 1285965,
-      "title": "危险动物",
+      "id": 1061474,
+      "title": "超人",
       "type": "movie",
-      "genreTitle": "恐怖•惊悚",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 7.5,
+      "release_date": "2025-07-11",
+      "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+    },
+    {
+      "id": 1234821,
+      "title": "侏罗纪世界：重生",
+      "type": "movie",
+      "genreTitle": "科幻•冒险•动作",
+      "rating": 6.4,
+      "release_date": "2025-07-02",
+      "overview": "地球生态已被证明广泛不适合恐龙生存，危在旦夕的恐龙族群生存于孤岛之上，但是它们中却隐藏着能够带来人类医药奇迹的关键基因，为获取神秘基因，一支精英小队潜入恐龙禁地，然而等待他们的却是无法预知的危机和惊天阴谋……",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TamJnLwes02dJTTvIwJcQRtRuQ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-27",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
+      "id": 617126,
+      "title": "神奇4侠：初露锋芒",
+      "type": "movie",
+      "genreTitle": "科幻•冒险",
+      "rating": 6.3,
+      "release_date": "2025-07-25",
+      "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
+      "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 1406607,
+      "title": "戏台",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧",
+      "rating": 10.0,
+      "release_date": "2025-07-12",
+      "overview": "民国年间，战乱频发。五庆班班主侯喜亭（陈佩斯 饰）带着一众名角儿来到德祥大戏院演出，谁成想首演压轴登场的却是包子铺的伙计大嗓儿（黄渤 饰）？全场观众都在翘首以盼名角儿金啸天（尹正 饰）亮相，可刚攻城称王的洪大帅（姜武 饰）却偏偏指名让大嗓儿唱这出《霸王别姬》！眼看戏班的招牌就要砸了，前台戏迷退票砸场让戏院吴经理（杨皓宇 饰）苦不堪言，后台洪大帅持枪闹事更是让人吓破了胆！台前台后都乱了套，男旦凤小桐（余少群 饰）、教化处处长徐明礼（陈大愚 饰）、怀有异心的六姨太（徐卓儿 饰）等人也被卷入这场令人啼笑皆非的闹剧之中……台上霸王声声唱，台下荒唐众生相，既要保住戏班饭碗，又要哄好台下观众，大幕拉开之后，这场戏到底要怎么唱？",
+      "poster_url": "https://image.tmdb.org/t/p/original/wSFGtkoz8SW6yIgu1Xvxs584QQt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cfAGn86j4LYzRCKWSkXPnMxoru6.jpg"
+    },
+    {
+      "id": 936108,
+      "title": "魔法蓝精灵",
+      "type": "movie",
+      "genreTitle": "动画•家庭•奇幻",
+      "rating": 6.7,
+      "release_date": "2025-07-18",
+      "overview": "　　蓝精灵村庄每日载歌载舞一片欢乐，直到蓝爸爸（约翰·古德曼 John Goodman 配音）被格格巫绑架打破了平静，蓝妹妹（蕾哈娜 Rihanna 配音）带领蓝精灵勇闯现实世界，用魔法和智慧开启冒险。",
+      "poster_url": "https://image.tmdb.org/t/p/original/5Pj35TQUXTCus8WHnTLXE6cFs3M.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kZsoZOC0SJfamyXytr7lhQ9Idy8.jpg"
+    },
+    {
+      "id": 1022787,
+      "title": "地球特派员",
+      "type": "movie",
+      "genreTitle": "动画•家庭•喜剧",
       "rating": 6.8,
-      "release_date": "2025-06-05",
-      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+      "release_date": "2025-06-21",
+      "overview": "　　埃利奥是一个想象力丰富、痴迷外星人、对太空狂热的孩子，当他被传送到星际组织 \"共融宇宙\"时，他将经历一场史诗般的冒险。埃利奥被误认为是地球的领袖，他必须与古怪的外星生命体建立新的联系，渡过一场星际危机，并以某种方式发现自己真正的身份和位置。",
+      "poster_url": "https://image.tmdb.org/t/p/original/uMrr3HNsmdhOC2Fb9nZU9aP5EBG.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tQvTiexWVaw1EOGt2NOt3BTOYby.jpg"
+    },
+    {
+      "id": 1144107,
+      "title": "罗小黑战记 2",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•动作",
+      "rating": 8.6,
+      "release_date": "2025-07-18",
+      "overview": "　　小黑跟师父无限在村里过着安宁日子，他也渐渐适应了人类世界的生活。两年后，妖灵会馆突然被袭击，无限和小黑接到任务前往会馆。小黑能否经受住这突如其来的考验？面对意想不到的敌人，小黑又会做出怎样的选择……",
+      "poster_url": "https://image.tmdb.org/t/p/original/5KDVDjqDUxVyXryfBOgMBjND8u7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/dHjAdJcst9DKZZG1vXe6Y8HlCI5.jpg"
+    },
+    {
+      "id": 1401502,
+      "title": "无名之辈：否极泰来",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-06-26",
+      "overview": "　　在曼谷街头大闹分手的“渣男”陈三金（章宇 饰）与“狠女”薛芳梅（任素汐 饰），意外卷入了一场犯罪集团的绑架活动。二人不出意外的成为了人质中的“出头鸟”、绑匪的“眼中钉”，在面临生存还是毁灭的一系列极端选择之际，二人尽显“渣男”“狠女”本性。殊不知这场意外背后还暗藏着更大危机，极端情境下的二人将何去何从？异国人群中的无名之辈们又将如何反抗命运？",
+      "poster_url": "https://image.tmdb.org/t/p/original/fuJWObGkdhAqAO34FgQx6sVHxtu.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/6aP83Aiq8CAuibhStXFgEiU3KAo.jpg"
+    },
+    {
+      "id": 1139695,
+      "title": "酱园弄·悬案",
+      "type": "movie",
+      "genreTitle": "剧情•犯罪",
+      "rating": 6.0,
+      "release_date": "2025-06-14",
+      "overview": "影片根据民国四大奇案之一改编，女子杀夫碎尸最终竟无罪释放？1945年，上海酱园弄发生一起骇人血案，一石激起千层浪。詹周氏（章子怡 饰）为何杀夫？又如何凭一己之力完成碎尸？随着时代变迁，她的命运又将如何改写？大时代下鲜活的众生群像又将如何展开？",
+      "poster_url": "https://image.tmdb.org/t/p/original/dwZ8ovST9NTuCteWJQERut2KvQM.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sghqrrX37P433UjZNsF3bxSjGaZ.jpg"
+    },
+    {
+      "id": 1396965,
+      "title": "名侦探柯南：独眼的残像",
+      "type": "movie",
+      "genreTitle": "动画•动作•悬疑",
+      "rating": 7.3,
+      "release_date": "2025-06-27",
+      "overview": "长野县八岳连峰未宝岳。长野县警大和敢助在雪山上追赶“某个男人”时，突然有什么人的影子出现在了敢助的视野中。回过神来的瞬间，“某个男人”射出的步枪子弹掠过了敢助的左眼，伴随着地面轰鸣发生了雪崩。敢助就这样被吞噬——  10个月后。接到野边山国立天文台的设施研究员被某人袭击的报警后，从雪崩中奇迹般生还的敢助，和上原由衣赶到了现场。正在了解情况的时候天文台的巨大抛物面天线启动了，敢助受伤了的左眼不知为何突然剧烈地疼痛起来……  那天晚上，毛利侦探事务所接到了小五郎警视厅时期关系很好的同事、被称作“鳄鱼”的刑警的电话。他正在未宝岳调查将敢助卷入的雪崩事故，据说案件文档中有小五郎的名字。  柯南也跟着约定和“鳄鱼”日后见面的小五郎同去，但在前往约好的地点的途中，突然响起了枪声。  没有实现的约定，与存在于独眼中的残像。  在冰雪肆虐的山岳之上，白茫茫的因缘（乳白天空谜案）之帷幕被拉开了——",
+      "poster_url": "https://image.tmdb.org/t/p/original/2q27TnpLrxW7lsT3V5AKF9Dt7aG.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bE10DMcePbEWa8LAWZQ16vQNrwT.jpg"
+    },
+    {
+      "id": 1481390,
+      "title": "聊斋：兰若寺",
+      "type": "movie",
+      "genreTitle": "剧情•喜剧•奇幻",
+      "rating": 7.7,
+      "release_date": "2025-07-12",
+      "overview": "年青书生蒲松龄行路遇险，不得已夜宿兰若寺，却被一蛤蟆一乌龟抓到了一口奇异的古井底，两只精怪比赛讲故事并逼迫蒲松龄评判故事的好坏……最终，被逼无奈的蒲松龄也讲出了自己的奇妙故事。\r 本片为篇章式结构，分为一条主线《井下故事》以及五个经典聊斋故事改编的《崂山道士》《莲花公主》《聂小倩》《画皮》《鲁公女》，共六个篇章。",
+      "poster_url": "https://image.tmdb.org/t/p/original/paZseaaIQBDfNnXrld7ml4ZW3RF.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sMrbRWlw5YPEXFhK5zvNMXx7JNA.jpg"
+    },
+    {
+      "id": 799766,
+      "title": "更好的我",
+      "type": "movie",
+      "genreTitle": "音乐•剧情",
+      "rating": 7.8,
+      "release_date": "2025-06-27",
+      "overview": "　　见证巨星罗比·威廉姆斯波澜壮阔的不凡人生，除了名利、金钱、欲望之外，还有很多你不知道的事……",
+      "poster_url": "https://image.tmdb.org/t/p/original/vd2H9yGGXefbXXSs1mLIeNzd7S9.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cqUpeAdCOxaRFr8rnBK2K8B4OtX.jpg"
+    },
+    {
+      "id": 796185,
+      "title": "三个火枪手：达达尼昂",
+      "type": "movie",
+      "genreTitle": "冒险•动作•剧情",
+      "rating": 7.0,
+      "release_date": "2025-06-21",
+      "overview": "达达尼昂，一个意气风发的年轻加斯科涅人，在试图拯救一位被绑架的贵妇后被留下等死。逃出生天后，他一到巴黎，就想尽一切办法寻找袭击者，却没有意识到他的追索将把他引向一场事关法国未来的战争的核心。在国王的火枪手阿索斯、波托斯和阿拉米斯的帮助下，他面对邪恶的红衣主教黎塞留和米拉迪·德·温特的阴谋，同时爱上了女王的心腹康斯坦斯。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nD1sLRWaqrBJnkGPWW1dtiqfxLh.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yWOlr06JmScXgWhvNkuwpJV9LLb.jpg"
+    },
+    {
+      "id": 845111,
+      "title": "三个火枪手：米莱迪",
+      "type": "movie",
+      "genreTitle": "冒险•动作•剧情",
+      "rating": 6.4,
+      "release_date": "2025-06-28",
+      "overview": "从卢浮宫到白金汉宫，到巴黎的阴沟到拉罗谢尔的围城……在一个被宗教战争分裂并受到英国入侵威胁的王国里，少数男男女女将剑拔弩张，将他们的命运与法国的命运绑在一起 。",
+      "poster_url": "https://image.tmdb.org/t/p/original/gl7kGqjM6wKkWemDeuHuBvNwYxv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/46dbKbEWIdc7NWQBF546S9FoC8P.jpg"
     }
   ]
 }
