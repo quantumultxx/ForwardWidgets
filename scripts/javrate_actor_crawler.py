@@ -206,7 +206,7 @@ def main():
 
     session = create_session()
     all_actors = {}
-    total_pages = 120  # 根据需求调整目标页数
+    total_pages = 150  # 根据需求调整目标页数
     success_pages = 0
     total_actors = 0
 
@@ -226,6 +226,10 @@ def main():
             success_pages += 1
             all_actors.update(page_actors)
             print(f"第 {page} 页解析完成，找到 {page_count} 位演员")
+        # 如果当前页演员数量少于24个，认为是最后一页
+            if page_count < 24:
+                print(f"第 {page} 页演员数量({page_count})少于24个，认为已到达最后一页，停止爬取")
+                break
         else:
             print(f"第 {page} 页未找到有效演员信息")
 
