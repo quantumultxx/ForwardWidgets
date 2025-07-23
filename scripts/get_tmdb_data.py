@@ -35,7 +35,7 @@ def fetch_now_playing():
     response = requests.get(url, params=params, timeout=10)
     response.raise_for_status()
     data = response.json()
-    data["results"] = data["results"][:15]
+    data["results"] = data["results"][:20]
     return data
 
 def get_media_details(media_type, media_id):
