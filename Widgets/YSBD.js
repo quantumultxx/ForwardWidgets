@@ -181,7 +181,7 @@ WidgetMetadata = {
                 value: "",
                 belongTo: {
                   paramName: "air_status",
-                  value: ["released","upcoming"],
+                  value: ["released","upcoming",""],
                 },
                 enumOptions: [
                     { title: "全部", value: "" },
@@ -218,7 +218,7 @@ WidgetMetadata = {
                 value: "",
                 belongTo: {
                   paramName: "air_status",
-                  value: ["released","upcoming"],
+                  value: ["released","upcoming",""],
                 },
                 enumOptions: [
                     { title: "全部类型", value: "" },
@@ -246,7 +246,8 @@ WidgetMetadata = {
                 value: "released",
                 enumOptions: [
                     { title: "已上映", value: "released" },
-                    { title: "未上映", value: "upcoming" }
+                    { title: "未上映", value: "upcoming" },
+                    { title: "全部", value: "" }
                 ]
             },
             {
@@ -282,7 +283,7 @@ WidgetMetadata = {
           description: "选择一个公司以查看其剧集内容",
           belongTo: {
             paramName: "air_status",
-            value: ["released","upcoming"],
+            value: ["released","upcoming",""],
           },
           enumOptions: [
             { title: "全部", value: "" },
@@ -311,7 +312,7 @@ WidgetMetadata = {
           value: "",
           belongTo: {
             paramName: "air_status",
-            value: ["released","upcoming"],
+            value: ["released","upcoming",""],
           },
           enumOptions: [
             { title: "全部类型", value: "" },
@@ -344,7 +345,8 @@ WidgetMetadata = {
           value: "released",
           enumOptions: [
             { title: "已上映", value: "released" },
-            { title: "未上映", value: "upcoming" }
+            { title: "未上映", value: "upcoming" },
+            { title: "全部", value: "" }
           ]
         },
         {
