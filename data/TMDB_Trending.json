@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24 19:42:47",
+  "last_updated": "2025-07-24 19:55:06",
   "today_global": [
     {
       "id": 617126,
@@ -72,7 +72,7 @@
       "title": "超人",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2025-07-09",
       "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
       "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
@@ -94,7 +94,7 @@
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
       "genreTitle": "动画•动作•奇幻",
-      "rating": 7.3,
+      "rating": 6.9,
       "release_date": "2025-07-18",
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
@@ -156,6 +156,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
       "id": 1319951,
       "title": "40 Acres",
       "type": "movie",
@@ -167,15 +178,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/grI71v8Hbbvre3IXbWDTjXj0Fb.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+      "id": 248830,
+      "title": "一杆入魂",
+      "type": "tv",
+      "genreTitle": "喜剧•剧情",
+      "rating": 7.1,
+      "release_date": "2025-06-03",
+      "overview": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
+      "poster_url": "https://image.tmdb.org/t/p/original/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oRn4oYbhxAQg8TyGKNd8WMVuLKF.jpg"
     },
     {
       "id": 194766,
@@ -209,17 +220,6 @@
       "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
       "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
-    },
-    {
-      "id": 248830,
-      "title": "一杆入魂",
-      "type": "tv",
-      "genreTitle": "喜剧•剧情",
-      "rating": 7.1,
-      "release_date": "2025-06-03",
-      "overview": "普莱斯·卡希尔原本有望成为伟大的高尔夫球员，但因为一次在球场上情绪崩溃，而断送了他的职业生涯。现在，只能勉强维持生计的他，赌上一切指导一名潜力无限的少年天才桑提，同时也试图拯救自己。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oRn4oYbhxAQg8TyGKNd8WMVuLKF.jpg"
     }
   ],
   "week_global_all": [
@@ -239,7 +239,7 @@
       "title": "超人",
       "type": "movie",
       "genreTitle": "科幻•冒险•动作",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2025-07-09",
       "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
       "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
@@ -283,7 +283,7 @@
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
       "genreTitle": "动画•动作•奇幻",
-      "rating": 7.3,
+      "rating": 6.9,
       "release_date": "2025-07-18",
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
@@ -301,17 +301,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
-      "id": 248852,
-      "title": "荒境狂途",
-      "type": "tv",
-      "genreTitle": "悬疑•剧情",
-      "rating": 7.4,
-      "release_date": "2025-07-17",
-      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
-      "poster_url": "https://image.tmdb.org/t/p/original/fmctH6IgyWVrQCzxnQiGJe5DjX3.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
-    },
-    {
       "id": 2190,
       "title": "南方公园",
       "type": "tv",
@@ -321,6 +310,17 @@
       "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
       "poster_url": "https://image.tmdb.org/t/p/original/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
+    },
+    {
+      "id": 248852,
+      "title": "荒境狂途",
+      "type": "tv",
+      "genreTitle": "悬疑•剧情",
+      "rating": 7.4,
+      "release_date": "2025-07-17",
+      "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
+      "poster_url": "https://image.tmdb.org/t/p/original/fmctH6IgyWVrQCzxnQiGJe5DjX3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
     },
     {
       "id": 986056,
@@ -400,6 +400,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
+      "id": 1269208,
+      "title": "墙外之音",
+      "type": "movie",
+      "genreTitle": "惊悚•剧情",
+      "rating": 6.5,
+      "release_date": "2025-07-17",
+      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+    },
+    {
       "id": 37854,
       "title": "航海王",
       "type": "tv",
@@ -420,17 +431,6 @@
       "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
       "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
-      "id": 1269208,
-      "title": "墙外之音",
-      "type": "movie",
-      "genreTitle": "惊悚•剧情",
-      "rating": 6.6,
-      "release_date": "2025-07-17",
-      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
     },
     {
       "id": 1234821,
