@@ -93,10 +93,15 @@ def process_tmdb_data(data, time_window, media_type):
     results = []
     for item in data.get("results", []):
         title = item.get("title") or item.get("name")
-        release_date = item.get("release_date")
+        item_type = media_type if media_type != "all" else item.get("media_type")
+        
+        if item_type == "tv":
+            release_date = item.get("first_air_date")
+        else:
+            release_date = item.get("release_date")
+        
         overview = item.get("overview")
         rating = round(item.get("vote_average"), 1)
-        item_type = media_type if media_type != "all" else item.get("media_type")
         media_id = item.get("id")
 
         poster_url = get_image_url(item.get("poster_path"))
