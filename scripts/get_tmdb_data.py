@@ -206,7 +206,6 @@ def main():
     
     print("")
     print("================= 执行完成 =================")
-    print("get_tmdb_data.py 运行完成")
 
 if __name__ == "__main__":
     main()
