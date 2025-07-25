@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-26 07:43:39",
+  "last_updated": "2025-07-26 07:55:44",
   "today_global": [
     {
       "id": 1263256,
@@ -123,17 +123,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
       "id": 93740,
       "title": "Foundation",
       "type": "tv",
@@ -143,6 +132,17 @@
       "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
       "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 1136867,
@@ -178,17 +178,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 6.8,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
       "id": 1175942,
       "title": "坏蛋联盟2",
       "type": "movie",
@@ -198,6 +187,17 @@
       "overview": "续集中几位正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
       "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+    },
+    {
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 6.8,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
       "id": 232402,
@@ -290,17 +290,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 6.8,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
       "id": 986056,
       "title": "雷霆特攻队",
       "type": "movie",
@@ -310,6 +299,17 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 6.8,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
       "id": 259909,
@@ -356,17 +356,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
-    },
-    {
       "id": 1285965,
       "title": "危险动物",
       "type": "movie",
@@ -376,6 +365,17 @@
       "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
       "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
     },
     {
       "id": 1071585,
