@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-25 19:42:26",
+  "last_updated": "2025-07-25 19:54:22",
   "today_global": [
     {
       "id": 1263256,
@@ -200,6 +200,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
     },
     {
+      "id": 9614,
+      "title": "高尔夫球也疯狂",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.7,
+      "release_date": "1996-02-16",
+      "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
+      "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yUUFAqAnn73TwGD6QaH4Hg9dQB4.jpg"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "type": "tv",
@@ -209,17 +220,6 @@
       "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
       "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
-    },
-    {
-      "id": 9614,
-      "title": "高尔夫球也疯狂",
-      "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 6.6,
-      "release_date": "1996-02-16",
-      "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
-      "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yUUFAqAnn73TwGD6QaH4Hg9dQB4.jpg"
     }
   ],
   "week_global_all": [
@@ -345,17 +345,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
-      "id": 90802,
-      "title": "睡魔",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
-      "rating": 7.9,
-      "release_date": "2022-08-05",
-      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
-    },
-    {
       "id": 2190,
       "title": "南方公园",
       "type": "tv",
@@ -365,6 +354,17 @@
       "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
       "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
+    },
+    {
+      "id": 90802,
+      "title": "睡魔",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
+      "rating": 7.9,
+      "release_date": "2022-08-05",
+      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
       "id": 259909,
@@ -411,6 +411,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
     },
     {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
       "id": 93740,
       "title": "Foundation",
       "type": "tv",
@@ -431,17 +442,6 @@
       "overview": "在柯克船长登上企业号之前的几年里，跟随克里斯托弗·派克、斯波克和第一号探索银河系周围的新世界。",
       "poster_url": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg"
-    },
-    {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     }
   ],
   "popular_movies": [
