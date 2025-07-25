@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-25 23:47:10",
+  "last_updated": "2025-07-26 00:31:25",
   "today_global": [
     {
       "id": 1263256,
@@ -35,17 +35,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
-      "id": 90802,
-      "title": "睡魔",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
-      "rating": 7.9,
-      "release_date": "2022-08-05",
-      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
-    },
-    {
       "id": 552524,
       "title": "星际宝贝史迪奇",
       "type": "movie",
@@ -57,15 +46,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
-      "id": 1285728,
-      "title": "寻常女子的失常狂想",
-      "type": "movie",
-      "genreTitle": "剧情•惊悚•恐怖",
-      "rating": 6.7,
-      "release_date": "2025-07-23",
-      "overview": "当一种不明疾病开始颠覆她的生活时，一位社交名媛必须解开其背后的秘密——否则她的整个自我意识就会崩溃。",
-      "poster_url": "https://image.tmdb.org/t/p/original/p8QqvttODrPYdJLjAUvcUsJtDTD.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3uZH6KSSJV14Z5CDNIyfPDlMdl2.jpg"
+      "id": 90802,
+      "title": "睡魔",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
+      "rating": 7.9,
+      "release_date": "2022-08-05",
+      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
       "id": 9614,
@@ -79,15 +68,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yUUFAqAnn73TwGD6QaH4Hg9dQB4.jpg"
     },
     {
-      "id": 238084,
-      "title": "枪口彼端",
-      "type": "tv",
-      "genreTitle": "动作冒险•剧情•犯罪",
-      "rating": 8.5,
-      "release_date": "2025-07-25",
-      "overview": "讲述在「禁枪之国」的韩国，来源不明的非法枪支流入和枪击事件不断发生的背景下，两个男人因为各自的目的而持枪的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/nmdPj7yRptBwDdBlDXUlcDBvWpm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/LocigwVR8yda0xxpTBQh3XyaKQ.jpg"
+      "id": 1285728,
+      "title": "寻常女子的失常狂想",
+      "type": "movie",
+      "genreTitle": "剧情•惊悚•恐怖",
+      "rating": 6.7,
+      "release_date": "2025-07-23",
+      "overview": "当一种不明疾病开始颠覆她的生活时，一位社交名媛必须解开其背后的秘密——否则她的整个自我意识就会崩溃。",
+      "poster_url": "https://image.tmdb.org/t/p/original/p8QqvttODrPYdJLjAUvcUsJtDTD.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3uZH6KSSJV14Z5CDNIyfPDlMdl2.jpg"
     },
     {
       "id": 1061474,
@@ -101,15 +90,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+      "id": 238084,
+      "title": "枪口彼端",
+      "type": "tv",
+      "genreTitle": "动作冒险•剧情•犯罪",
+      "rating": 8.5,
+      "release_date": "2025-07-25",
+      "overview": "讲述在「禁枪之国」的韩国，来源不明的非法枪支流入和枪击事件不断发生的背景下，两个男人因为各自的目的而持枪的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/nmdPj7yRptBwDdBlDXUlcDBvWpm.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/LocigwVR8yda0xxpTBQh3XyaKQ.jpg"
     },
     {
       "id": 1087192,
@@ -145,6 +134,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
+      "id": 1136867,
+      "title": "物质主义者",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.8,
+      "release_date": "2025-06-12",
+      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
+    },
+    {
       "id": 1311031,
       "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
@@ -178,17 +178,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
     },
     {
-      "id": 93740,
-      "title": "Foundation",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
-    },
-    {
       "id": 232402,
       "title": "S Line",
       "type": "tv",
@@ -211,15 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 1241470,
+      "title": "地狱判官",
       "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+      "genreTitle": "科幻•动作•恐怖",
+      "rating": 5.8,
+      "release_date": "2025-07-25",
+      "overview": "在这部电影中，一队特种部队突击队员在执行任务的过程中被一艘神秘的宇宙飞船绑架。当他们在飞船上醒来时，很快发现自己正在被一个无情的外星种族追捕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/y9XxUGW2kCRY9TknGiKVsWJZPi3.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kj1lMKnOAzTOJFbNiOpGnqmONJ4.jpg"
     }
   ],
   "week_global_all": [
@@ -290,6 +290,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
+      "id": 9614,
+      "title": "高尔夫球也疯狂",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.7,
+      "release_date": "1996-02-16",
+      "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
+      "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yUUFAqAnn73TwGD6QaH4Hg9dQB4.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
       "id": 1136867,
       "title": "物质主义者",
       "type": "movie",
@@ -310,17 +332,6 @@
       "overview": "该剧以约塞米蒂（优胜美地）国家公园为背景，揭开背后不可告人的秘密。",
       "poster_url": "https://image.tmdb.org/t/p/original/fmctH6IgyWVrQCzxnQiGJe5DjX3.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/xHhdIMTVlFQ16eBRAbQbcw5sbQ6.jpg"
-    },
-    {
-      "id": 986056,
-      "title": "雷霆特攻队",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
       "id": 7451,
@@ -345,17 +356,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
-      "id": 9614,
-      "title": "高尔夫球也疯狂",
-      "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 6.7,
-      "release_date": "1996-02-16",
-      "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
-      "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yUUFAqAnn73TwGD6QaH4Hg9dQB4.jpg"
-    },
-    {
       "id": 2190,
       "title": "南方公园",
       "type": "tv",
@@ -378,28 +378,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.7,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
-    },
-    {
-      "id": 93740,
-      "title": "Foundation",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 7.8,
-      "release_date": "2021-09-23",
-      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
-      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
-    },
-    {
       "id": 1285965,
       "title": "危险动物",
       "type": "movie",
@@ -409,17 +387,6 @@
       "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
       "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
-    },
-    {
-      "id": 232402,
-      "title": "S Line",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情•悬疑",
-      "rating": 7.8,
-      "release_date": "2025-07-11",
-      "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
     },
     {
       "id": 541671,
@@ -433,15 +400,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     },
     {
-      "id": 1269208,
-      "title": "墙外之音",
+      "id": 1071585,
+      "title": "梅根2.0",
       "type": "movie",
-      "genreTitle": "惊悚•剧情",
-      "rating": 6.4,
-      "release_date": "2025-07-17",
-      "overview": "宇成（姜河那 饰）是一名年轻的上班族，他通过不懈努力终于购得自己的房子，但搬入后却被楼上的不明噪音所困扰，逐渐卷入一场惊悚的冒险中。面对高利贷款的压力和日益加剧的邻居冲突，宇成的生活变得越来越失控。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ouoGnWi8POgBrg1845kQNsEUhxn.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/tbU19fSptDPBgT5vFOP4SPWf6kS.jpg"
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
+    },
+    {
+      "id": 232402,
+      "title": "S Line",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•悬疑",
+      "rating": 7.8,
+      "release_date": "2025-07-11",
+      "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情",
+      "rating": 7.8,
+      "release_date": "2021-09-23",
+      "overview": "故事设定于虚构的未来，人类散布在银河系中的各个星球，但都从属于银河帝国(Galactic Empire)的统治之下，一位心理史学家却给出一个预言：帝国即将分崩离析，文明将会灰飞烟灭，为了维系人类这个族群，他不得不行动起来。",
+      "poster_url": "https://image.tmdb.org/t/p/original/kNYbxPW4opiaPJuonbgfFKUzMOg.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/kpZr075vetnMsOpJMzjPTBSp8h8.jpg"
+    },
+    {
+      "id": 292575,
+      "title": "扫毒风暴",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 7.5,
+      "release_date": "2025-07-12",
+      "overview": "1995年，走私商卢少骅一夜间倾家荡产，却也因此意识到一种新型毒品——冰毒，所能带来的巨大利润，他心生邪念，成为一名制毒师。彼时，缉毒警林强峰结束卧底生涯，为追查毒品线索调任西港市缉毒支队。数年间，林强峰带队投身于这场扫毒风暴，而卢少骅则辗转国内外，结识了一众毒枭，野心不断膨胀……最终，以林强峰为代表的缉毒警不辱使命，力破卢少骅诡诈的毒网阴谋。",
+      "poster_url": "https://image.tmdb.org/t/p/original/1573FCIqFn46QjSNqiQxnJSUiYS.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/rQ0fYrntUUtlNBuMoHCeYqPexJB.jpg"
     }
   ],
   "popular_movies": [
@@ -501,17 +501,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8or4S9BPhkeYK0vlKsPFee4JVWI.jpg"
     },
     {
-      "id": 1011477,
-      "title": "功夫梦：融合之道",
-      "type": "movie",
-      "genreTitle": "动作•冒险•剧情",
-      "rating": 7.2,
-      "release_date": "2025-06-07",
-      "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
-      "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
-    },
-    {
       "id": 1061474,
       "title": "超人",
       "type": "movie",
@@ -523,6 +512,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
+      "id": 1011477,
+      "title": "功夫梦：融合之道",
+      "type": "movie",
+      "genreTitle": "动作•冒险•剧情",
+      "rating": 7.2,
+      "release_date": "2025-06-07",
+      "overview": "　　功夫少年李峰（王班 饰）初入纽约，因帮朋友解围反遭当地空手道冠军“美式霸凌”，便决心参加空手道大赛赢回尊重。昔日恩师韩师傅（成龙 饰）远渡重洋携空手道大师丹尼尔（拉尔夫·马基奥 饰）出手相助，将纽约化成训练场对李峰开启宗师特训。在师傅们的教导下，李峰能否将两个武术流派融会贯通，用胜利赢得尊重并开辟属于自己的武学之道？",
+      "poster_url": "https://image.tmdb.org/t/p/original/vLSMpla6S8pMtgOU201tya6tDtH.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/bS9forQsFHi1jSkPiwZiCgPcjmk.jpg"
+    },
+    {
+      "id": 1124619,
+      "title": "双面伴娘",
+      "type": "movie",
+      "genreTitle": "动作•喜剧",
+      "rating": 5.9,
+      "release_date": "2025-06-19",
+      "overview": "作为秘密特工的萨姆真实的身份无法被别人知晓，哪怕是自己身边的好友都不知道。这次，萨姆面临一项艰巨且陌生的任务：为儿时最好的朋友当伴娘。从未参加过此类活动的萨姆在婚礼现场感到极度的不舒适。她没法适应这样打扮的自己以及这种没有人可以交流的场合。就在她尴尬踌躇之际，一伙犯罪分子潜入会场。他们得知现场有许多的金子便起了打劫的念头。眼看自己好友的婚礼即将被毁于一旦，而且众人的性命也将受到威胁。萨姆终于展示自己的本领，利用自己特工的过人身手和机警的思维成功保护了大家，击退坏人，等到了警察的救援。",
+      "poster_url": "https://image.tmdb.org/t/p/original/cEgbgfJf6qo25hMH1EwQbmG7lew.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/d00oOPLAFe9MATgxPGCHBIv4p4h.jpg"
+    },
+    {
       "id": 1119878,
       "title": "冰路营救：复仇",
       "type": "movie",
@@ -532,17 +543,6 @@
       "overview": "前作主角迈克前往尼泊尔，将弟弟的骨灰洒在珠穆朗玛峰上。当迈克和他的登山向导在乘坐旅游巴士旅行时遇到一群雇佣兵时，他们被迫战斗以营救自己、乘客和国家。",
       "poster_url": "https://image.tmdb.org/t/p/original/r3irdRpuYocscbRH2ORt34LUPR1.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ulA0rwyPCIOPDv4YqQLcZcYvUIm.jpg"
-    },
-    {
-      "id": 1124619,
-      "title": "双面伴娘",
-      "type": "movie",
-      "genreTitle": "动作•喜剧",
-      "rating": 5.8,
-      "release_date": "2025-06-19",
-      "overview": "作为秘密特工的萨姆真实的身份无法被别人知晓，哪怕是自己身边的好友都不知道。这次，萨姆面临一项艰巨且陌生的任务：为儿时最好的朋友当伴娘。从未参加过此类活动的萨姆在婚礼现场感到极度的不舒适。她没法适应这样打扮的自己以及这种没有人可以交流的场合。就在她尴尬踌躇之际，一伙犯罪分子潜入会场。他们得知现场有许多的金子便起了打劫的念头。眼看自己好友的婚礼即将被毁于一旦，而且众人的性命也将受到威胁。萨姆终于展示自己的本领，利用自己特工的过人身手和机警的思维成功保护了大家，击退坏人，等到了警察的救援。",
-      "poster_url": "https://image.tmdb.org/t/p/original/cEgbgfJf6qo25hMH1EwQbmG7lew.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/d00oOPLAFe9MATgxPGCHBIv4p4h.jpg"
     },
     {
       "id": 617126,
@@ -578,11 +578,22 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pGYZTuaG0fe51bWYz1uUqR9LYng.jpg"
     },
     {
+      "id": 1058537,
+      "title": "堕落天使2：和平卫士",
+      "type": "movie",
+      "genreTitle": "恐怖•动作•奇幻",
+      "rating": 5.4,
+      "release_date": "2024-07-09",
+      "overview": "伊战老兵受命对抗堕落天使和他的活死人军团",
+      "poster_url": "https://image.tmdb.org/t/p/original/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/xVcffNU61CclEGgtiWP7KLIE2dm.jpg"
+    },
+    {
       "id": 1374534,
       "title": "凹凸双雄",
       "type": "movie",
       "genreTitle": "动作•喜剧•犯罪",
-      "rating": 5.8,
+      "rating": 5.9,
       "release_date": "2025-07-10",
       "overview": "一名过于热切的社区警员和一个鲁莽的前警探被迫联手，随之在鹿特丹的街头引发诸多混乱。",
       "poster_url": "https://image.tmdb.org/t/p/original/gAnmx3xP6Ct2xQOCjusupnkdsUI.jpg",
@@ -598,17 +609,6 @@
       "overview": "K-pop 超级明星鲁米、米拉和佐伊如果不是在座无虚席的体育场举办演唱会，就是在利用自己的秘密力量保护粉丝们免受超自然威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/l48vxsG9FLs8SEFoWuds7K6uxVv.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3aZHMVeLb5z7iHIGyF0tbA1yZJZ.jpg"
-    },
-    {
-      "id": 986056,
-      "title": "雷霆特攻队",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     }
   ]
 }
