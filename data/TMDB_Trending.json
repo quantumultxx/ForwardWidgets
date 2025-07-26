@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-27 00:28:31",
+  "last_updated": "2025-07-27 00:51:40",
   "today_global": [
     {
       "id": 1263256,
@@ -134,17 +134,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
     },
     {
-      "id": 232402,
-      "title": "S Line",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情•悬疑",
-      "rating": 7.9,
-      "release_date": "2025-07-11",
-      "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
-    },
-    {
       "id": 292575,
       "title": "扫毒风暴",
       "type": "tv",
@@ -154,6 +143,17 @@
       "overview": "1995年，走私商卢少骅一夜间倾家荡产，却也因此意识到一种新型毒品——冰毒，所能带来的巨大利润，他心生邪念，成为一名制毒师。彼时，缉毒警林强峰结束卧底生涯，为追查毒品线索调任西港市缉毒支队。数年间，林强峰带队投身于这场扫毒风暴，而卢少骅则辗转国内外，结识了一众毒枭，野心不断膨胀……最终，以林强峰为代表的缉毒警不辱使命，力破卢少骅诡诈的毒网阴谋。",
       "poster_url": "https://image.tmdb.org/t/p/original/1573FCIqFn46QjSNqiQxnJSUiYS.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/rQ0fYrntUUtlNBuMoHCeYqPexJB.jpg"
+    },
+    {
+      "id": 232402,
+      "title": "S Line",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•悬疑",
+      "rating": 7.9,
+      "release_date": "2025-07-11",
+      "overview": "此剧改编自同名网漫，讲述有一天人类的头顶出现了肉眼可见的\"红线\"，这条线连接到了与自己有肉体关系的人。在一夜之间展现了自己阴暗面，现实地讲述了各种社会故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/o9ENFFvHnU08zy8GbElxGLbrm87.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
     },
     {
       "id": 90802,
@@ -167,17 +167,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
-      "id": 1136867,
-      "title": "物质主义者",
-      "type": "movie",
-      "genreTitle": "爱情•剧情",
-      "rating": 6.8,
-      "release_date": "2025-06-12",
-      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
-      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
-    },
-    {
       "id": 262352,
       "title": "妈妈是杀手",
       "type": "tv",
@@ -187,6 +176,17 @@
       "overview": "朱莉（基莉·霍斯 饰）与爱德华（弗莱迪·海默 饰）这对关系疏远的母子，在风景如画的希腊小岛上重聚。可爱德华不知道的是，朱莉其实是一名退隐的杀手，更麻烦的是，朱莉过去的同伙也没有收到她“金盆洗手”的通知。",
       "poster_url": "https://image.tmdb.org/t/p/original/2Qii5GmBu9yle3ZJDeT0GuxizRQ.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/844r48zIi441A8fCfPtZ6eE6G3V.jpg"
+    },
+    {
+      "id": 1136867,
+      "title": "物质主义者",
+      "type": "movie",
+      "genreTitle": "爱情•剧情",
+      "rating": 6.8,
+      "release_date": "2025-06-12",
+      "overview": "　　年轻且企图心旺盛的纽约恋爱顾问Lucy（达科塔·约翰逊 Dakota Johnson 饰）发现自己在完美的另一半（佩德罗·帕斯卡 Pedro Pascal 饰）和不完美的前任（克里斯·埃文斯 Chris Evans 饰）之间犹豫不决。",
+      "poster_url": "https://image.tmdb.org/t/p/original/vPW6UQW38ya1NrI6PuJOMzI0Nlp.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
       "id": 7451,
@@ -200,17 +200,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
-    },
-    {
       "id": 541671,
       "title": "疾速追杀：芭蕾杀姬",
       "type": "movie",
@@ -220,6 +209,17 @@
       "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
       "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     }
   ],
   "week_global_all": [
@@ -312,17 +312,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 6.8,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
       "id": 2190,
       "title": "南方公园",
       "type": "tv",
@@ -334,15 +323,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
       "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.7,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 6.8,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
       "id": 7451,
@@ -354,6 +343,17 @@
       "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
       "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.7,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
       "id": 248852,
@@ -389,17 +389,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
-      "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
-    },
-    {
       "id": 541671,
       "title": "疾速追杀：芭蕾杀姬",
       "type": "movie",
@@ -409,6 +398,17 @@
       "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
       "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     },
     {
       "id": 9614,
@@ -433,15 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/felDXVKIjhMMoIegTKGNKmCC7SH.jpg"
     },
     {
-      "id": 244808,
-      "title": "拔作岛",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•剧情",
-      "rating": 6.4,
-      "release_date": "2025-07-19",
-      "overview": "　　青蓝岛……这里是施行特殊条例的乐园岛屿。\n\n　　转学到这里的主人公“橘淳之介”，不仅是个骄傲的童贞，同时也是个深入骨髓的处女厨。但是色情条例对他就读的水乃月学园也不例外，没有发生关系的人会被立即逮捕。\n\n　　淳之介能从绝对遵守纪律的学生会和风纪委员会，通称“SS”的恶魔手中逃脱吗……！？\n\n　　和伙伴们一起死守童贞吧！淳之介的战斗现在开始！",
-      "poster_url": "https://image.tmdb.org/t/p/original/cAUcpvuTub7p4wB9yRo6TWdKJnz.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg"
+      "id": 803796,
+      "title": "K-POP：猎魔女团",
+      "type": "movie",
+      "genreTitle": "动画•奇幻•喜剧",
+      "rating": 8.5,
+      "release_date": "2025-06-20",
+      "overview": "K-pop 超级明星鲁米、米拉和佐伊如果不是在座无虚席的体育场举办演唱会，就是在利用自己的秘密力量保护粉丝们免受超自然威胁。",
+      "poster_url": "https://image.tmdb.org/t/p/original/l48vxsG9FLs8SEFoWuds7K6uxVv.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3aZHMVeLb5z7iHIGyF0tbA1yZJZ.jpg"
     }
   ],
   "popular_movies": [
