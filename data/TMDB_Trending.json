@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-07-27 06:23:00",
+  "last_updated": "2025-07-27 06:45:43",
   "today_global": [
     {
       "id": 1263256,
       "title": "高尔夫球也疯狂2",
       "type": "movie",
       "genreTitle": "喜剧",
-      "rating": 6.9,
+      "rating": 7.0,
       "release_date": "2025-07-25",
       "overview": "　　续集将讲述他从一名弃将变成高尔夫球手的故事，他参加了一场高级高尔夫巡回赛。",
       "poster_url": "https://image.tmdb.org/t/p/original/6dYAxnwRQNdXILx621xdX61fJJB.jpg",
@@ -134,17 +134,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/LocigwVR8yda0xxpTBQh3XyaKQ.jpg"
     },
     {
-      "id": 1285965,
-      "title": "危险动物",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.6,
-      "release_date": "2025-06-05",
-      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -154,6 +143,17 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
+      "id": 1285965,
+      "title": "危险动物",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.6,
+      "release_date": "2025-06-05",
+      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
     },
     {
       "id": 262352,
@@ -228,7 +228,7 @@
       "title": "高尔夫球也疯狂2",
       "type": "movie",
       "genreTitle": "喜剧",
-      "rating": 6.9,
+      "rating": 7.0,
       "release_date": "2025-07-25",
       "overview": "　　续集将讲述他从一名弃将变成高尔夫球手的故事，他参加了一场高级高尔夫巡回赛。",
       "poster_url": "https://image.tmdb.org/t/p/original/6dYAxnwRQNdXILx621xdX61fJJB.jpg",
@@ -345,17 +345,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
-    },
-    {
       "id": 1285965,
       "title": "危险动物",
       "type": "movie",
@@ -365,6 +354,17 @@
       "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
       "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+    },
+    {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
       "id": 7451,
@@ -378,17 +378,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 9614,
-      "title": "高尔夫球也疯狂",
-      "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 6.7,
-      "release_date": "1996-02-16",
-      "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
-      "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/yUUFAqAnn73TwGD6QaH4Hg9dQB4.jpg"
-    },
-    {
       "id": 259909,
       "title": "嗜血法医：杀魔复生",
       "type": "tv",
@@ -398,6 +387,17 @@
       "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
       "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+    },
+    {
+      "id": 9614,
+      "title": "高尔夫球也疯狂",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.7,
+      "release_date": "1996-02-16",
+      "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
+      "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yUUFAqAnn73TwGD6QaH4Hg9dQB4.jpg"
     },
     {
       "id": 1234821,
