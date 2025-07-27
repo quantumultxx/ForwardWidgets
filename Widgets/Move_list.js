@@ -343,8 +343,6 @@ WidgetMetadata = {
           value: "subject" }
       ]
     },
-
-
   ]
 };
 
@@ -1048,11 +1046,6 @@ async function loadDoubanHotListWithTmdb(params = {}) {
   
   return await fetchImdbItemsForDouban(processedItemsWithMultiDetection);
 }
-
-
-
-
-
 
 async function fetchTmdbDataForDouban(key, mediaType) {
     let searchTypes = [];
