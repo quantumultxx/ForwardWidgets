@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-27 19:40:44",
+  "last_updated": "2025-07-27 19:52:55",
   "today_global": [
     {
       "id": 243224,
@@ -79,17 +79,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 2190,
-      "title": "南方公园",
-      "type": "tv",
-      "genreTitle": "动画•喜剧",
-      "rating": 8.4,
-      "release_date": "1997-08-13",
-      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
-    },
-    {
       "id": 986056,
       "title": "雷霆特攻队",
       "type": "movie",
@@ -99,6 +88,17 @@
       "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
       "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 2190,
+      "title": "南方公园",
+      "type": "tv",
+      "genreTitle": "动画•喜剧",
+      "rating": 8.4,
+      "release_date": "1997-08-13",
+      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
       "id": 235351,
@@ -189,17 +189,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/844r48zIi441A8fCfPtZ6eE6G3V.jpg"
     },
     {
-      "id": 1285965,
-      "title": "危险动物",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.7,
-      "release_date": "2025-06-05",
-      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
-    },
-    {
       "id": 106449,
       "title": "凡人修仙传",
       "type": "tv",
@@ -211,15 +200,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/qs0V1rhIo98gKXimKKduybzMgGi.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.0,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+      "id": 1285965,
+      "title": "危险动物",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.7,
+      "release_date": "2025-06-05",
+      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+    },
+    {
+      "id": 541671,
+      "title": "疾速追杀：芭蕾杀姬",
+      "type": "movie",
+      "genreTitle": "动作•惊悚•犯罪",
+      "rating": 7.5,
+      "release_date": "2025-06-04",
+      "overview": "父亲惨遭杀害，少女伊芙（安娜·德·阿玛斯 饰）被迫加入杀手组织，在这里她被培养成为一名芭蕾舞者，同时接受了长达12年的魔鬼训练成为了顶级杀手，开启了血刃仇人的杀戮之旅。她不仅要独自一人完成组织下达的死亡任务，还要暗中搜集杀父仇家的信息。随时丧命的极端危险、各方势力的联合围剿，让伊芙的复仇之路艰难无比。同时，她又被传说中的杀手约翰·威克（基努·里维斯 饰）锁定，新老杀神狭路相逢，伊芙必须在被约翰追到之前杀出血路完成复仇。危险的倒计时开始，一场致命厮杀即将拉开血色序幕……",
+      "poster_url": "https://image.tmdb.org/t/p/original/zDlUIGVsRtDQKyIAPNIXZhpobnP.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/d89vm12F8PsAmG1d9FTRU6lJN4q.jpg"
     }
   ],
   "week_global_all": [
