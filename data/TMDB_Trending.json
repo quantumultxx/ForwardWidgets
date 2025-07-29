@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-29 23:29:00",
+  "last_updated": "2025-07-29 23:51:14",
   "today_global": [
     {
       "id": 1100988,
@@ -24,17 +24,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zHbH1WyTbJhp59H0dvrZFneEztm.jpg"
     },
     {
-      "id": 1263256,
-      "title": "高尔夫球也疯狂2",
-      "type": "movie",
-      "genreTitle": "喜剧",
-      "rating": 6.7,
-      "release_date": "2025-07-25",
-      "overview": "　　续集将讲述他从一名弃将变成高尔夫球手的故事，他参加了一场高级高尔夫巡回赛。",
-      "poster_url": "https://image.tmdb.org/t/p/original/6dYAxnwRQNdXILx621xdX61fJJB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
-    },
-    {
       "id": 617126,
       "title": "神奇4侠：初露锋芒",
       "type": "movie",
@@ -44,6 +33,17 @@
       "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
       "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
+    },
+    {
+      "id": 1263256,
+      "title": "高尔夫球也疯狂2",
+      "type": "movie",
+      "genreTitle": "喜剧",
+      "rating": 6.7,
+      "release_date": "2025-07-25",
+      "overview": "　　续集将讲述他从一名弃将变成高尔夫球手的故事，他参加了一场高级高尔夫巡回赛。",
+      "poster_url": "https://image.tmdb.org/t/p/original/6dYAxnwRQNdXILx621xdX61fJJB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
     },
     {
       "id": 7451,
@@ -61,7 +61,7 @@
       "title": "凡人修仙传",
       "type": "tv",
       "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 5.6,
+      "rating": 6.0,
       "release_date": "2025-07-27",
       "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
@@ -79,17 +79,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 8.0,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
-    },
-    {
       "id": 1175942,
       "title": "坏蛋联盟2",
       "type": "movie",
@@ -99,6 +88,17 @@
       "overview": "续集中几位正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
       "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 8.0,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
     },
     {
       "id": 83533,
@@ -112,6 +112,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/a2uCehLuFubdyrsyAbwhtb7Qwv5.jpg"
     },
     {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
+    },
+    {
       "id": 552524,
       "title": "星际宝贝史迪奇",
       "type": "movie",
@@ -121,6 +132,17 @@
       "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
+    },
+    {
+      "id": 289485,
+      "title": "WWE: Unreal",
+      "type": "tv",
+      "genreTitle": "纪录",
+      "rating": 0.0,
+      "release_date": "2025-07-29",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/tHt7zHpi60yzulvnAknICh6hURe.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/lQHyTUybVzr2IJgXs8UyP8fu31a.jpg"
     },
     {
       "id": 1087192,
@@ -145,28 +167,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
-    },
-    {
-      "id": 170,
-      "title": "惊变28天",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 7.2,
-      "release_date": "2002-10-31",
-      "overview": "剑桥科研小组发现一种可以令传染者处于永久杀人状态的病毒，这种病毒传染速度极快，且无法抑止。动物保护组织成员不慎释放了实验室中一批携带该病毒的大猩猩后，繁华的伦敦于短短28天变成一座死城。自行车快递员（西连•墨菲）于28天后的某一个早晨醒来时，发现自己赤身裸体躺在一家破旧的医院里，周围一片狼藉，令他怀疑是在梦中。夜晚来临时，他受到被病毒传染了的人的袭击，危急时刻幸被施莲娜（内奥米•哈里斯）和麦克（诺厄•亨特利）搭救，他也才知晓伦敦发生的一切，而这座城市没被传染的人，仅剩极小部分伦敦居民和一些驻守在曼彻斯特外的军人。当三人费劲千辛万苦找寻到拯救未来的一线希望时，才发现真正恐怖的还不是病毒。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9FV8YBR6OB6EedslwG0DYHjSJai.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4dVPtJdpgzX8YaMyhbOJfRLe726.jpg"
-    },
-    {
       "id": 1136867,
       "title": "物质主义者",
       "type": "movie",
@@ -178,15 +178,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
-      "id": 289485,
-      "title": "WWE: Unreal",
-      "type": "tv",
-      "genreTitle": "纪录",
-      "rating": 0.0,
-      "release_date": "2025-07-29",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/tHt7zHpi60yzulvnAknICh6hURe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lQHyTUybVzr2IJgXs8UyP8fu31a.jpg"
+      "id": 170,
+      "title": "惊变28天",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 7.2,
+      "release_date": "2002-10-31",
+      "overview": "剑桥科研小组发现一种可以令传染者处于永久杀人状态的病毒，这种病毒传染速度极快，且无法抑止。动物保护组织成员不慎释放了实验室中一批携带该病毒的大猩猩后，繁华的伦敦于短短28天变成一座死城。自行车快递员（西连•墨菲）于28天后的某一个早晨醒来时，发现自己赤身裸体躺在一家破旧的医院里，周围一片狼藉，令他怀疑是在梦中。夜晚来临时，他受到被病毒传染了的人的袭击，危急时刻幸被施莲娜（内奥米•哈里斯）和麦克（诺厄•亨特利）搭救，他也才知晓伦敦发生的一切，而这座城市没被传染的人，仅剩极小部分伦敦居民和一些驻守在曼彻斯特外的军人。当三人费劲千辛万苦找寻到拯救未来的一线希望时，才发现真正恐怖的还不是病毒。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9FV8YBR6OB6EedslwG0DYHjSJai.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4dVPtJdpgzX8YaMyhbOJfRLe726.jpg"
     },
     {
       "id": 60625,
@@ -257,17 +257,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
     },
     {
-      "id": 552524,
-      "title": "星际宝贝史迪奇",
-      "type": "movie",
-      "genreTitle": "家庭•科幻•喜剧",
-      "rating": 7.3,
-      "release_date": "2025-05-17",
-      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
-    },
-    {
       "id": 1061474,
       "title": "超人",
       "type": "movie",
@@ -277,6 +266,17 @@
       "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
       "poster_url": "https://image.tmdb.org/t/p/original/ln6itpK8OifoGV0IAFDtD7NmPSs.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
+    },
+    {
+      "id": 552524,
+      "title": "星际宝贝史迪奇",
+      "type": "movie",
+      "genreTitle": "家庭•科幻•喜剧",
+      "rating": 7.3,
+      "release_date": "2025-05-17",
+      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
       "id": 842924,
@@ -338,7 +338,7 @@
       "title": "凡人修仙传",
       "type": "tv",
       "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 5.6,
+      "rating": 6.0,
       "release_date": "2025-07-27",
       "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
@@ -367,6 +367,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
+    },
+    {
       "id": 1035259,
       "title": "新白头神探",
       "type": "movie",
@@ -387,17 +398,6 @@
       "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
       "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
-    },
-    {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
       "id": 248852,
@@ -433,15 +433,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kqUOIuZkL7310xQZ9bqAAcuzEYI.jpg"
     },
     {
-      "id": 1285965,
-      "title": "危险动物",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.6,
-      "release_date": "2025-06-05",
-      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+      "id": 37854,
+      "title": "航海王",
+      "type": "tv",
+      "genreTitle": "动作冒险•喜剧•动画",
+      "rating": 8.7,
+      "release_date": "1999-10-20",
+      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
     }
   ],
   "popular_movies": [
