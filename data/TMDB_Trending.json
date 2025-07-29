@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-30 01:56:27",
+  "last_updated": "2025-07-30 02:42:58",
   "today_global": [
     {
       "id": 1100988,
@@ -46,6 +46,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 387,
+      "title": "海绵宝宝",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•家庭",
+      "rating": 7.7,
+      "release_date": "1999-05-01",
+      "overview": "海绵宝宝是一块穿着短裤衬衫打领带、暴牙大眼睛的黄色海绵，他生活在太平洋中央一片名为比基尼的海底之下。这里风和日丽，平静祥和，生活无忧无虑。海绵宝宝住在一个菠萝形状的房子里，与之为伴的是他的宠物小蜗（蜗牛）。开朗、纯真的海绵宝宝有许多好朋友，比如乐观单纯的派大星、性格古怪的章鱼哥、自私市侩的蟹老板还有力大无穷的松鼠珊蒂。平时他都在蟹老板的快餐店里打工，闲暇时就和好朋友们四处玩乐。这群性格各异的家伙们凑在一起，可真是闹出不少的笑话……本片为美国最受欢迎的电视系列动画之一，在 2003~2009 年期间，曾经 7 年当选美国儿童选择奖最受欢迎的动画片。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sl8dabGsTXQ3ebtfL1muLf7v1SU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k2yC05VfkSsdaVWQhIkzQgdU7x2.jpg"
+    },
+    {
       "id": 1263256,
       "title": "高尔夫球也疯狂2",
       "type": "movie",
@@ -79,37 +90,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
-    },
-    {
-      "id": 243224,
-      "title": "凡人修仙传",
+      "id": 296834,
+      "title": "华山论剑",
       "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 6.0,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
-    },
-    {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 8.4,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
+      "genreTitle": "剧情",
+      "rating": 5.0,
+      "release_date": "2025-07-26",
+      "overview": "以金庸先生经典著作及其蕴含的侠义精神为根基，以创新形式谱写金庸江湖的恢弘篇章。以经典为原点延续五绝前史，于原著留白处补写江湖往事。该剧分为《九阴真经》《东邪西毒》《南帝北丐》《五绝争锋》四个单元。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Ja34PSTGolQdZnyAp7R2odiwe7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9q7uryMCmAun2bGXoP3Liw24mpz.jpg"
     },
     {
       "id": 83533,
@@ -123,37 +112,48 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/a2uCehLuFubdyrsyAbwhtb7Qwv5.jpg"
     },
     {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
+    },
+    {
+      "id": 243224,
+      "title": "凡人修仙传",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 6.0,
+      "release_date": "2025-07-27",
+      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 8.4,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
+    },
+    {
       "id": 552524,
       "title": "星际宝贝史迪奇",
       "type": "movie",
       "genreTitle": "家庭•科幻•喜剧",
-      "rating": 7.4,
+      "rating": 7.3,
       "release_date": "2025-05-17",
       "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
-    },
-    {
-      "id": 986056,
-      "title": "雷霆特攻队",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
-      "id": 289485,
-      "title": "WWE: Unreal",
-      "type": "tv",
-      "genreTitle": "纪录",
-      "rating": 8.0,
-      "release_date": "2025-07-29",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/tHt7zHpi60yzulvnAknICh6hURe.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/lQHyTUybVzr2IJgXs8UyP8fu31a.jpg"
     },
     {
       "id": 170,
@@ -178,6 +178,28 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
+      "id": 986056,
+      "title": "雷霆特攻队",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 1241470,
+      "title": "太空杀路",
+      "type": "movie",
+      "genreTitle": "科幻•动作•恐怖",
+      "rating": 6.3,
+      "release_date": "2025-07-25",
+      "overview": "在这部电影中，一队特种部队突击队员在执行任务的过程中被一艘神秘的宇宙飞船绑架。当他们在飞船上醒来时，很快发现自己正在被一个无情的外星种族追捕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9xqWda3KWuGWxNyoqlOlEzEzPmd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iGAM2Juv0gF4kR0if6AgNb0EfNR.jpg"
+    },
+    {
       "id": 1136867,
       "title": "物质主义者",
       "type": "movie",
@@ -189,51 +211,18 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
-      "id": 387,
-      "title": "海绵宝宝",
+      "id": 297010,
+      "title": "全面失控：突袭51区",
       "type": "tv",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 7.7,
-      "release_date": "1999-05-01",
-      "overview": "海绵宝宝是一块穿着短裤衬衫打领带、暴牙大眼睛的黄色海绵，他生活在太平洋中央一片名为比基尼的海底之下。这里风和日丽，平静祥和，生活无忧无虑。海绵宝宝住在一个菠萝形状的房子里，与之为伴的是他的宠物小蜗（蜗牛）。开朗、纯真的海绵宝宝有许多好朋友，比如乐观单纯的派大星、性格古怪的章鱼哥、自私市侩的蟹老板还有力大无穷的松鼠珊蒂。平时他都在蟹老板的快餐店里打工，闲暇时就和好朋友们四处玩乐。这群性格各异的家伙们凑在一起，可真是闹出不少的笑话……本片为美国最受欢迎的电视系列动画之一，在 2003~2009 年期间，曾经 7 年当选美国儿童选择奖最受欢迎的动画片。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sl8dabGsTXQ3ebtfL1muLf7v1SU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k2yC05VfkSsdaVWQhIkzQgdU7x2.jpg"
-    },
-    {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
-    },
-    {
-      "id": 60625,
-      "title": "瑞克和莫蒂",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•Sci-Fi & Fantasy",
-      "rating": 8.7,
-      "release_date": "2013-12-02",
-      "overview": "天才兼疯子科学家瑞克，在失踪多年后突然回到女儿贝丝的身边，并且在她的车库里搞了一个科学实验室。瑞克有一把“传送门枪”，可以穿越到宇宙的各个次元。孙子莫蒂莫名其妙就成了他的助手，经常被拖进他的自制太空船内，跟他一同开展各种疯狂刺激的宇宙冒险。女儿女婿对他的疯狂行为感到不满，却又对这个天才科学家无可奈何。",
-      "poster_url": "https://image.tmdb.org/t/p/original/AcjbO2Kjk9OxoXApQIr8eTMNtmx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/kXVb0f4zz1v7PdIqfKZviS3RzQ.jpg"
+      "genreTitle": "纪录",
+      "rating": 8.0,
+      "release_date": "2025-07-29",
+      "overview": "Facebook上关于“突袭51区”的热门活动吸引了数百万注册用户，引发了军事警告。随着“鸣人跑躲子弹”的表情包传播开来，UFO猎人和网络名人齐聚一堂，准备展开一场可能成为沙漠派对或冲突的盛宴。",
+      "poster_url": "https://image.tmdb.org/t/p/original/scEEfSn1sNXpaERoESYSOtC9o33.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/1jpNFnYT7eT4P86yD6qUGqnNlQp.jpg"
     }
   ],
   "week_global_all": [
-    {
-      "id": 1100988,
-      "title": "惊变28年",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 7.1,
-      "release_date": "2025-06-18",
-      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/cEJQdC7T31YaejL7BMnu9V5GYWz.jpg"
-    },
     {
       "id": 617126,
       "title": "神奇4侠：初露锋芒",
@@ -244,17 +233,6 @@
       "overview": "　　故事设定在以1960年代为灵感的复古未来世界，“漫威第一家庭”惊奇先生（佩德罗·帕斯卡 Pedro Pascal 饰）、隐形女（凡妮莎·柯比 Vanessa Kirby 饰）、霹雳火（约瑟夫·奎恩 Joseph Quinn 饰）和石头人（艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach 饰）面临迄今为止最艰巨的挑战。他们必须在英雄角色和家庭关系之间取得平衡，同时保卫地球，抵御名为行星吞噬者（拉尔夫·伊内森 Ralph Ineson 饰）的贪婪宇宙神及其神秘的使者银影侠（朱莉娅·加纳 Julia Garner 饰）。而当行星吞噬者计划吞噬整个星球及所有人，没有人可以置身事外。",
       "poster_url": "https://image.tmdb.org/t/p/original/t9mlOaf4ismhvKVMSXNJBTL3Wvh.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
-    },
-    {
-      "id": 842924,
-      "title": "查克的一生",
-      "type": "movie",
-      "genreTitle": "剧情•奇幻",
-      "rating": 7.4,
-      "release_date": "2025-06-05",
-      "overview": "　　影片根据史蒂芬·金的同名短片小说改编，以三幕倒叙的方式，讲述查尔斯·克兰兹的一生，以他39岁因脑瘤去世为开端，以他在闹鬼的房子里度过的童年时光为结尾。",
-      "poster_url": "https://image.tmdb.org/t/p/original/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zHbH1WyTbJhp59H0dvrZFneEztm.jpg"
     },
     {
       "id": 1263256,
@@ -268,11 +246,33 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
     },
     {
+      "id": 1100988,
+      "title": "惊变28年",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 7.1,
+      "release_date": "2025-06-18",
+      "overview": "距离 rage 病毒从生物武器实验室泄漏已过去 28 年，如今这片土地仍处于残酷的封锁隔离中，但有些人已在感染者盘踞的世界里找到了生存之道。其中一支队伍栖息在一座小岛上，仅有一条重兵把守的堤道与大陆相连。当一名成员奉命深入大陆腹地执行任务时，他发现了诸多秘密、奇观与骇人真相 —— 病毒不仅使感染者发生变异，也改变了其他幸存者的生存形态。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ngCMM9huOFd1MhLUv3YJGhKMUSf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/cEJQdC7T31YaejL7BMnu9V5GYWz.jpg"
+    },
+    {
+      "id": 387,
+      "title": "海绵宝宝",
+      "type": "tv",
+      "genreTitle": "动画•喜剧•家庭",
+      "rating": 7.7,
+      "release_date": "1999-05-01",
+      "overview": "海绵宝宝是一块穿着短裤衬衫打领带、暴牙大眼睛的黄色海绵，他生活在太平洋中央一片名为比基尼的海底之下。这里风和日丽，平静祥和，生活无忧无虑。海绵宝宝住在一个菠萝形状的房子里，与之为伴的是他的宠物小蜗（蜗牛）。开朗、纯真的海绵宝宝有许多好朋友，比如乐观单纯的派大星、性格古怪的章鱼哥、自私市侩的蟹老板还有力大无穷的松鼠珊蒂。平时他都在蟹老板的快餐店里打工，闲暇时就和好朋友们四处玩乐。这群性格各异的家伙们凑在一起，可真是闹出不少的笑话……本片为美国最受欢迎的电视系列动画之一，在 2003~2009 年期间，曾经 7 年当选美国儿童选择奖最受欢迎的动画片。",
+      "poster_url": "https://image.tmdb.org/t/p/original/sl8dabGsTXQ3ebtfL1muLf7v1SU.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/k2yC05VfkSsdaVWQhIkzQgdU7x2.jpg"
+    },
+    {
       "id": 552524,
       "title": "星际宝贝史迪奇",
       "type": "movie",
       "genreTitle": "家庭•科幻•喜剧",
-      "rating": 7.4,
+      "rating": 7.3,
       "release_date": "2025-05-17",
       "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
@@ -290,50 +290,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8skY80gII0tqheTwWsM37KL6107.jpg"
     },
     {
-      "id": 7451,
-      "title": "极限特工",
-      "type": "movie",
-      "genreTitle": "动作•冒险•惊悚",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
-      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
-    },
-    {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 8.4,
-      "release_date": "2025-07-24",
-      "overview": "续集中几位正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
-    },
-    {
-      "id": 986056,
-      "title": "雷霆特攻队",
-      "type": "movie",
-      "genreTitle": "动作•科幻•冒险",
-      "rating": 7.4,
-      "release_date": "2025-04-30",
-      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
-      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
-    },
-    {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
-    },
-    {
       "id": 1136867,
       "title": "物质主义者",
       "type": "movie",
@@ -356,26 +312,70 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
+      "id": 2190,
+      "title": "南方公园",
+      "type": "tv",
+      "genreTitle": "动画•喜剧",
       "rating": 8.4,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
+      "release_date": "1997-08-13",
+      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     },
     {
-      "id": 243224,
-      "title": "凡人修仙传",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "id": 7451,
+      "title": "极限特工",
+      "type": "movie",
+      "genreTitle": "动作•冒险•惊悚",
       "rating": 6.0,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+      "release_date": "2002-08-09",
+      "overview": "克桑德是极限运动界的明星，但他离经叛道，总是以他的身手对社会上那些败类名流发出挑战，当地警方对他也经常无可奈何。特工头子奥古斯塔斯看上了克桑德，于是派人将他抓了回来，说服他前往捷克进行一项危险而艰巨的任务。捷克的地下犯罪组织头子尤里正在进行一项疯狂的计划，他抓走了很多前苏联的科学家，利用他们研究一种威力无比的武器——毒气弹。他企图利用即将研制成功的武器引起世界大战，进而达到他统治世界的目的。克桑德以走私汽车贩子的身份前往捷克接近了尤里的组织，一场惊心动魄的行动展开了！",
+      "poster_url": "https://image.tmdb.org/t/p/original/yq2wbDaDtbpVD2Ju5j86g7Bsv1R.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
+    },
+    {
+      "id": 986056,
+      "title": "雷霆特攻队",
+      "type": "movie",
+      "genreTitle": "动作•科幻•冒险",
+      "rating": 7.4,
+      "release_date": "2025-04-30",
+      "overview": "在《雷霆特攻队*》电影里，漫威组建了一支非常规的反英雄团队——叶莲娜·贝洛娃、巴基·巴恩斯、红色守卫者、幽灵、模仿大师和约翰·沃克。当他们发现自己陷入了瓦伦蒂娜·阿莱格拉·德拉方丹设置的死亡陷阱后，这些幻想破灭的弃儿必须执行一项危险的任务，这迫使他们将直面过去那些最黑暗的角落。最后他们是会分崩离析，还是会救赎自己并团结起来？",
+      "poster_url": "https://image.tmdb.org/t/p/original/lmiHB63P5YDqRIzOdiQWpU3qLBq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
+    },
+    {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 8.4,
+      "release_date": "2025-07-24",
+      "overview": "续集中几位正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+    },
+    {
+      "id": 1285965,
+      "title": "危险动物",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.6,
+      "release_date": "2025-06-05",
+      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
+    },
+    {
+      "id": 1241470,
+      "title": "太空杀路",
+      "type": "movie",
+      "genreTitle": "科幻•动作•恐怖",
+      "rating": 6.3,
+      "release_date": "2025-07-25",
+      "overview": "在这部电影中，一队特种部队突击队员在执行任务的过程中被一艘神秘的宇宙飞船绑架。当他们在飞船上醒来时，很快发现自己正在被一个无情的外星种族追捕。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9xqWda3KWuGWxNyoqlOlEzEzPmd.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iGAM2Juv0gF4kR0if6AgNb0EfNR.jpg"
     },
     {
       "id": 1311031,
@@ -389,48 +389,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
-      "id": 2190,
-      "title": "南方公园",
+      "id": 240411,
+      "title": "胆大党",
       "type": "tv",
-      "genreTitle": "动画•喜剧",
-      "rating": 8.4,
-      "release_date": "1997-08-13",
-      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
-    },
-    {
-      "id": 387,
-      "title": "海绵宝宝",
-      "type": "tv",
-      "genreTitle": "动画•喜剧•家庭",
-      "rating": 7.7,
-      "release_date": "1999-05-01",
-      "overview": "海绵宝宝是一块穿着短裤衬衫打领带、暴牙大眼睛的黄色海绵，他生活在太平洋中央一片名为比基尼的海底之下。这里风和日丽，平静祥和，生活无忧无虑。海绵宝宝住在一个菠萝形状的房子里，与之为伴的是他的宠物小蜗（蜗牛）。开朗、纯真的海绵宝宝有许多好朋友，比如乐观单纯的派大星、性格古怪的章鱼哥、自私市侩的蟹老板还有力大无穷的松鼠珊蒂。平时他都在蟹老板的快餐店里打工，闲暇时就和好朋友们四处玩乐。这群性格各异的家伙们凑在一起，可真是闹出不少的笑话……本片为美国最受欢迎的电视系列动画之一，在 2003~2009 年期间，曾经 7 年当选美国儿童选择奖最受欢迎的动画片。",
-      "poster_url": "https://image.tmdb.org/t/p/original/sl8dabGsTXQ3ebtfL1muLf7v1SU.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k2yC05VfkSsdaVWQhIkzQgdU7x2.jpg"
-    },
-    {
-      "id": 37854,
-      "title": "航海王",
-      "type": "tv",
-      "genreTitle": "动作冒险•喜剧•动画",
-      "rating": 8.7,
-      "release_date": "1999-10-20",
-      "overview": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "poster_url": "https://image.tmdb.org/t/p/original/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/k054xQDkOxmaVNp7cdhUXQiAmE9.jpg"
-    },
-    {
-      "id": 170,
-      "title": "惊变28天",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 7.2,
-      "release_date": "2002-10-31",
-      "overview": "剑桥科研小组发现一种可以令传染者处于永久杀人状态的病毒，这种病毒传染速度极快，且无法抑止。动物保护组织成员不慎释放了实验室中一批携带该病毒的大猩猩后，繁华的伦敦于短短28天变成一座死城。自行车快递员（西连•墨菲）于28天后的某一个早晨醒来时，发现自己赤身裸体躺在一家破旧的医院里，周围一片狼藉，令他怀疑是在梦中。夜晚来临时，他受到被病毒传染了的人的袭击，危急时刻幸被施莲娜（内奥米•哈里斯）和麦克（诺厄•亨特利）搭救，他也才知晓伦敦发生的一切，而这座城市没被传染的人，仅剩极小部分伦敦居民和一些驻守在曼彻斯特外的军人。当三人费劲千辛万苦找寻到拯救未来的一线希望时，才发现真正恐怖的还不是病毒。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9FV8YBR6OB6EedslwG0DYHjSJai.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4dVPtJdpgzX8YaMyhbOJfRLe726.jpg"
+      "genreTitle": "动画•动作冒险•喜剧",
+      "rating": 8.6,
+      "release_date": "2024-10-04",
+      "overview": "出生于灵媒师家族的女高中生·小桃（绫濑桃），与她同年级的超自然爱好者·厄卡伦（高仓健）。小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。在那里，他们遇到了无法理解的极其怪异的现象。在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！也开始了命运之恋！？超能力战斗&青春故事，开幕！",
+      "poster_url": "https://image.tmdb.org/t/p/original/tvLkaxvMXM2I1NSoUE28EFaTUs5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/yd1qHrUsqUucFaEBYG2j7tHs1Wb.jpg"
     },
     {
       "id": 9614,
@@ -442,6 +409,39 @@
       "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
       "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kqUOIuZkL7310xQZ9bqAAcuzEYI.jpg"
+    },
+    {
+      "id": 90802,
+      "title": "睡魔",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
+      "rating": 7.9,
+      "release_date": "2022-08-05",
+      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
+    },
+    {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
+    },
+    {
+      "id": 911430,
+      "title": "F1：狂飙飞车",
+      "type": "movie",
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
     }
   ],
   "popular_movies": [
