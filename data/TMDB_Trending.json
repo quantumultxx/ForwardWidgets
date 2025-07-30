@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-30 17:44:08",
+  "last_updated": "2025-07-30 17:59:02",
   "today_global": [
     {
       "id": 1100988,
@@ -156,6 +156,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
+      "id": 290276,
+      "title": "罪不可言",
+      "type": "tv",
+      "genreTitle": "剧情",
+      "rating": 0.0,
+      "release_date": "2025-07-30",
+      "overview": "一名女子被困在充满控制的婚姻中，只能在与年轻男子的婚外情中寻求慰藉和报复的快感，而这一切竟演变为一场危险的生存之战。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ftJ29KqMS44o6bQ0yQILregTGDf.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sU03jP3DpUG86IJDmbSyR5gTLel.jpg"
+    },
+    {
       "id": 1136867,
       "title": "物质主义者",
       "type": "movie",
@@ -178,15 +189,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 290276,
-      "title": "罪不可言",
-      "type": "tv",
-      "genreTitle": "剧情",
-      "rating": 0.0,
-      "release_date": "2025-07-30",
-      "overview": "一名女子被困在充满控制的婚姻中，只能在与年轻男子的婚外情中寻求慰藉和报复的快感，而这一切竟演变为一场危险的生存之战。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ftJ29KqMS44o6bQ0yQILregTGDf.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sU03jP3DpUG86IJDmbSyR5gTLel.jpg"
+      "id": 1562,
+      "title": "惊变28周",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 6.6,
+      "release_date": "2007-04-26",
+      "overview": "在恐怖的致命病毒横行28周之后，英国境内已经空无一人。由于失去了载体，病毒也随之消亡。随着一架从美国飞来的运输机的降落，在病毒爆发前就离开英国的英国人，重新踏上了被病毒肆虐半年的土地。这可以说是地球上最后的一群英国人，重建家园的重担就落在了这群平民身上。然而，重建工作才开展不久，就有人报告发现了病毒感染的幸存者。科学家们也希望能从幸存者身上提取血清研究出对付病毒的疫苗。可是，万万没有想到的是，病毒并没有像大家想象中的那样已经消亡，反而进化后变得更加强大。这英伦三岛上最后的一群人们，将面对空前的危机……",
+      "poster_url": "https://image.tmdb.org/t/p/original/wCoC2TJpMkiqeHRSLrybZw4kHx5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/oeOGOypogAsBjlksA2EfSwkxPf8.jpg"
     },
     {
       "id": 1151031,
@@ -198,17 +209,6 @@
       "overview": "本片讲述了一对兄妹在他们新寄养母亲的偏远住所中，发现了一个令人毛骨悚然的邪恶仪式的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/3XRp7u1GTrCWBnj2pGKRZz4NA5x.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/ocCNYIYWzIUV91YZYzDZ1cAQOPT.jpg"
-    },
-    {
-      "id": 1562,
-      "title": "惊变28周",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 6.6,
-      "release_date": "2007-04-26",
-      "overview": "在恐怖的致命病毒横行28周之后，英国境内已经空无一人。由于失去了载体，病毒也随之消亡。随着一架从美国飞来的运输机的降落，在病毒爆发前就离开英国的英国人，重新踏上了被病毒肆虐半年的土地。这可以说是地球上最后的一群英国人，重建家园的重担就落在了这群平民身上。然而，重建工作才开展不久，就有人报告发现了病毒感染的幸存者。科学家们也希望能从幸存者身上提取血清研究出对付病毒的疫苗。可是，万万没有想到的是，病毒并没有像大家想象中的那样已经消亡，反而进化后变得更加强大。这英伦三岛上最后的一群人们，将面对空前的危机……",
-      "poster_url": "https://image.tmdb.org/t/p/original/wCoC2TJpMkiqeHRSLrybZw4kHx5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/oeOGOypogAsBjlksA2EfSwkxPf8.jpg"
     },
     {
       "id": 1311031,
@@ -301,17 +301,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
-      "id": 1087192,
-      "title": "新·驯龙高手",
-      "type": "movie",
-      "genreTitle": "奇幻•家庭•动作",
-      "rating": 8.1,
-      "release_date": "2025-06-06",
-      "overview": "小嗝嗝（梅森·泰晤士 Mason Thames 饰 ）偶然间遭遇传说中的夜煞没牙仔，并由此与之建立深厚友谊，进而打破两大族群间的隔阂，携手寻求和平。",
-      "poster_url": "https://image.tmdb.org/t/p/original/4k0CHrBwyuhKeQfDZDH31863lTx.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
-    },
-    {
       "id": 243224,
       "title": "凡人修仙传",
       "type": "tv",
@@ -321,6 +310,17 @@
       "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
       "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
+    },
+    {
+      "id": 1087192,
+      "title": "新·驯龙高手",
+      "type": "movie",
+      "genreTitle": "奇幻•家庭•动作",
+      "rating": 8.1,
+      "release_date": "2025-06-06",
+      "overview": "小嗝嗝（梅森·泰晤士 Mason Thames 饰 ）偶然间遭遇传说中的夜煞没牙仔，并由此与之建立深厚友谊，进而打破两大族群间的隔阂，携手寻求和平。",
+      "poster_url": "https://image.tmdb.org/t/p/original/4k0CHrBwyuhKeQfDZDH31863lTx.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
       "id": 842924,
@@ -400,17 +400,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     },
     {
-      "id": 1285965,
-      "title": "危险动物",
-      "type": "movie",
-      "genreTitle": "恐怖•惊悚",
-      "rating": 6.5,
-      "release_date": "2025-06-05",
-      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
-    },
-    {
       "id": 9614,
       "title": "高尔夫球也疯狂",
       "type": "movie",
@@ -420,6 +409,17 @@
       "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
       "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kqUOIuZkL7310xQZ9bqAAcuzEYI.jpg"
+    },
+    {
+      "id": 1285965,
+      "title": "危险动物",
+      "type": "movie",
+      "genreTitle": "恐怖•惊悚",
+      "rating": 6.5,
+      "release_date": "2025-06-05",
+      "overview": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "poster_url": "https://image.tmdb.org/t/p/original/4CuaXlnk9ux1oIK8XTRsvX6CgW5.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/jJrOXrKICgxcrCdTxlqfp9emXf6.jpg"
     },
     {
       "id": 911430,
