@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-31 12:47:02",
+  "last_updated": "2025-07-31 13:30:50",
   "today_global": [
     {
       "id": 1100988,
@@ -35,17 +35,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/pdVsKapsE43gZa9gihTstQ7nD2l.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
-      "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 8.1,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
-    },
-    {
       "id": 1263256,
       "title": "高尔夫球也疯狂2",
       "type": "movie",
@@ -55,6 +44,17 @@
       "overview": "　　续集将讲述他从一名弃将变成高尔夫球手的故事，他参加了一场高级高尔夫巡回赛。",
       "poster_url": "https://image.tmdb.org/t/p/original/6dYAxnwRQNdXILx621xdX61fJJB.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg"
+    },
+    {
+      "id": 1035259,
+      "title": "新白头神探",
+      "type": "movie",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 8.1,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
     },
     {
       "id": 290276,
@@ -145,6 +145,17 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
+      "id": 1175942,
+      "title": "坏蛋联盟2",
+      "type": "movie",
+      "genreTitle": "家庭•喜剧•犯罪",
+      "rating": 6.8,
+      "release_date": "2025-07-24",
+      "overview": "续集中几位正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
+      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+    },
+    {
       "id": 1071585,
       "title": "梅根2.0",
       "type": "movie",
@@ -156,15 +167,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
-      "id": 1175942,
-      "title": "坏蛋联盟2",
-      "type": "movie",
-      "genreTitle": "家庭•喜剧•犯罪",
-      "rating": 6.8,
-      "release_date": "2025-07-24",
-      "overview": "续集中几位正在努力适应作为好人的新生活，寻求他人的信任和接受，它们被一个全女性阵容的犯罪团体强迫做最后一单生意，不得不脱离退休状态，再次出山重操旧业。",
-      "poster_url": "https://image.tmdb.org/t/p/original/9CKzauWDhSgySsfP8SWarCmdAwB.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/qXiTYNK79MXamlkDpejkDH3JcxW.jpg"
+      "id": 2190,
+      "title": "南方公园",
+      "type": "tv",
+      "genreTitle": "动画•喜剧",
+      "rating": 8.4,
+      "release_date": "1997-08-13",
+      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
+      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
+    },
+    {
+      "id": 243224,
+      "title": "凡人修仙传",
+      "type": "tv",
+      "genreTitle": "剧情•Sci-Fi & Fantasy",
+      "rating": 6.0,
+      "release_date": "2025-07-27",
+      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     },
     {
       "id": 93405,
@@ -198,28 +220,6 @@
       "overview": "剑桥科研小组发现一种可以令传染者处于永久杀人状态的病毒，这种病毒传染速度极快，且无法抑止。动物保护组织成员不慎释放了实验室中一批携带该病毒的大猩猩后，繁华的伦敦于短短28天变成一座死城。自行车快递员（西连•墨菲）于28天后的某一个早晨醒来时，发现自己赤身裸体躺在一家破旧的医院里，周围一片狼藉，令他怀疑是在梦中。夜晚来临时，他受到被病毒传染了的人的袭击，危急时刻幸被施莲娜（内奥米•哈里斯）和麦克（诺厄•亨特利）搭救，他也才知晓伦敦发生的一切，而这座城市没被传染的人，仅剩极小部分伦敦居民和一些驻守在曼彻斯特外的军人。当三人费劲千辛万苦找寻到拯救未来的一线希望时，才发现真正恐怖的还不是病毒。",
       "poster_url": "https://image.tmdb.org/t/p/original/9FV8YBR6OB6EedslwG0DYHjSJai.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/4dVPtJdpgzX8YaMyhbOJfRLe726.jpg"
-    },
-    {
-      "id": 243224,
-      "title": "凡人修仙传",
-      "type": "tv",
-      "genreTitle": "剧情•Sci-Fi & Fantasy",
-      "rating": 6.0,
-      "release_date": "2025-07-27",
-      "overview": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lneYe6sht5buak19V2Js0OPRLbm.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
-    },
-    {
-      "id": 2190,
-      "title": "南方公园",
-      "type": "tv",
-      "genreTitle": "动画•喜剧",
-      "rating": 8.4,
-      "release_date": "1997-08-13",
-      "overview": "《南方公园》，其他译法包括《衰仔乐园》（港版翻译）或《南方四贱客》（台版翻译），是美国喜剧中心（Comedy Central）制作的一部剪纸摆拍动画剧集，由Matt Stone和Trey Parker创作。主角为科罗拉多州虚构的南方公园小镇的四名10岁的男孩。南方公园经常通过歪曲式的摹仿来讽刺和嘲弄美国文化和社会时事的方方面面，挑战了许多根深蒂固的观念和禁忌。",
-      "poster_url": "https://image.tmdb.org/t/p/original/7qdorMrUa7Pgzhty7RqrsGZ0Zgo.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg"
     }
   ],
   "week_global_all": [
@@ -323,17 +323,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/jVCnkJgQUyiuGikIKNeTlccngCC.jpg"
     },
     {
-      "id": 1071585,
-      "title": "梅根2.0",
-      "type": "movie",
-      "genreTitle": "动作•科幻•惊悚",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
-      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
-    },
-    {
       "id": 243224,
       "title": "凡人修仙传",
       "type": "tv",
@@ -345,15 +334,26 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/iSYsnYBmNtiSWCU7xR3Cgi0AX51.jpg"
     },
     {
-      "id": 1035259,
-      "title": "新白头神探",
+      "id": 911430,
+      "title": "F1：狂飙飞车",
       "type": "movie",
-      "genreTitle": "喜剧•犯罪",
-      "rating": 8.1,
-      "release_date": "2025-07-30",
-      "overview": "",
-      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
+      "genreTitle": "动作•剧情",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
+      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
+    },
+    {
+      "id": 1071585,
+      "title": "梅根2.0",
+      "type": "movie",
+      "genreTitle": "动作•科幻•惊悚",
+      "rating": 7.6,
+      "release_date": "2025-06-25",
+      "overview": "　　第二部仍以女孩凯蒂和她的姨妈珍玛为主线，她们遭到了下一代机器人“艾米莉亚”的疯狂攻击，而本已沦为智能语音助手的梅根，似乎是帮助她们对抗艾米莉亚的绝佳选择。",
+      "poster_url": "https://image.tmdb.org/t/p/original/lQXDRQUxfkoABXh03eadAr1C8H7.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/7vMLxMJl4RfGljmzVRHHe37wCv4.jpg"
     },
     {
       "id": 1175942,
@@ -378,26 +378,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/8uSAAwi0DHIWqeRxixip272P0Of.jpg"
     },
     {
-      "id": 911430,
-      "title": "F1：狂飙飞车",
+      "id": 1035259,
+      "title": "新白头神探",
       "type": "movie",
-      "genreTitle": "动作•剧情",
-      "rating": 7.6,
-      "release_date": "2025-06-25",
-      "overview": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。",
-      "poster_url": "https://image.tmdb.org/t/p/original/mCBv1wCq5ZtLa1CTsFmOOtM1Oml.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/4WGXqW90E8f3kpQp1cUIzll5JZ7.jpg"
-    },
-    {
-      "id": 1311031,
-      "title": "鬼灭之刃剧场版：无限城篇Part.1",
-      "type": "movie",
-      "genreTitle": "动画•动作•奇幻",
-      "rating": 6.9,
-      "release_date": "2025-07-18",
-      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
-      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
+      "genreTitle": "喜剧•犯罪",
+      "rating": 8.1,
+      "release_date": "2025-07-30",
+      "overview": "",
+      "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/2Hj70iBG9gJ9MsK5I9hHzNGw2aa.jpg"
     },
     {
       "id": 842924,
@@ -422,15 +411,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/kXVb0f4zz1v7PdIqfKZviS3RzQ.jpg"
     },
     {
-      "id": 90802,
-      "title": "睡魔",
-      "type": "tv",
-      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
-      "rating": 7.9,
-      "release_date": "2022-08-05",
-      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
-      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
+      "id": 1311031,
+      "title": "鬼灭之刃剧场版：无限城篇Part.1",
+      "type": "movie",
+      "genreTitle": "动画•动作•奇幻",
+      "rating": 6.9,
+      "release_date": "2025-07-18",
+      "overview": "当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，须佐能乎吉在宇治屋山庄出现。由于鬼杀队的主公处于危险之中，炭治郎和柱急忙赶往总部，但却被须佐能乎吉推入一个神秘的房间。炭治郎和鬼杀队的目标是鬼的堡垒——无限城。因此，鬼杀队和鬼之间的最终战斗的战场已经准备就绪。",
+      "poster_url": "https://image.tmdb.org/t/p/original/ozfiVnEZUSGWhEl5VtdLdIe1nbt.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/shTfJLn9Ds2IDYpaV3EqzGoeQmI.jpg"
     },
     {
       "id": 9614,
@@ -442,6 +431,17 @@
       "overview": "Happy Gilmore是一名狂热的冰球爱好者，从小由奶奶抚养大。由于他实在离一个冰球运动员的要求实在太远——他有严重的暴力倾向，而且最要命是他不会滑冰——Gilmore被教练赶出了冰球队，与此同时女朋友也离他而去，而Gilmore的奶奶因为无法承受高额税款，住了几十年的老房子被收回作抵押。一个偶然的机会，Gilmore发现自己在高尔夫球方面天赋异禀，在业余组比赛[1]  一鸣惊人后，Gilmore有机会参加有巨额奖金的大师赛，与此同时，Gilmore的火爆性格和球风也为他赢得了fans，爱情以及一位退休老球手的指点，自然也使一些对手产生了嫉恨……",
       "poster_url": "https://image.tmdb.org/t/p/original/f6cTYFHGsQPZt4NLH4CMWcsk78F.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/kqUOIuZkL7310xQZ9bqAAcuzEYI.jpg"
+    },
+    {
+      "id": 90802,
+      "title": "睡魔",
+      "type": "tv",
+      "genreTitle": "Sci-Fi & Fantasy•剧情•动作冒险",
+      "rating": 7.9,
+      "release_date": "2022-08-05",
+      "overview": "《睡魔》充分融合了现代神话与黑暗幻想，将当代小说、历史剧情和传说完美地衔接在一起，讲述了那些受梦神莫菲斯影响的人和地点。在莫菲斯漫长的生命中，他努力弥补对宇宙和人类所犯下的错误。",
+      "poster_url": "https://image.tmdb.org/t/p/original/3LeLp0ikt7XOCcQiBKwL5eAHaqJ.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/sBGzERSMg0GTBbpjKHULxQCkIWz.jpg"
     }
   ],
   "popular_movies": [
