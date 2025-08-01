@@ -1,6 +1,6 @@
 {
   "title": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂 ‘𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
-  "description": "自用合集",
+  "description": "自用",
   "icon": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/icon.PNG",
   "widgets": [
     {
@@ -11,33 +11,6 @@
       "version": "1.0.0",
       "author": "阿米诺斯",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Move_list.js"
-    },
-    {
-      "id": "jable",
-      "title": "Jable",
-      "description": "获取 Jable 推荐",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "nibiru",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Jable.js"
-    },
-    {
-      "id": "ti.bemarkt.javday",
-      "title": "JAVDay",
-      "description": "获取 JAVDay 推荐",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javday.js"
-    },
-    {
-      "id": "ti.bemarkt.javrate",
-      "title": "JAVRate",
-      "description": "获取 JAVRate 推荐",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javrate.js"
     }
   ]
 }
