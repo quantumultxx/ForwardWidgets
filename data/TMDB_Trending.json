@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-02 07:19:28",
+  "last_updated": "2025-08-02 07:41:33",
   "today_global": [
     {
       "id": 241388,
@@ -17,7 +17,7 @@
       "title": "战酋",
       "type": "tv",
       "genreTitle": "剧情",
-      "rating": 6.3,
+      "rating": 6.6,
       "release_date": "2025-07-31",
       "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
@@ -72,7 +72,7 @@
       "title": "新白头神探",
       "type": "movie",
       "genreTitle": "喜剧•犯罪",
-      "rating": 6.6,
+      "rating": 6.7,
       "release_date": "2025-07-30",
       "overview": "",
       "poster_url": "https://image.tmdb.org/t/p/original/v9CIainF80NlFJT2WvQMssgHEY0.jpg",
@@ -283,7 +283,7 @@
       "title": "战酋",
       "type": "tv",
       "genreTitle": "剧情",
-      "rating": 6.3,
+      "rating": 6.6,
       "release_date": "2025-07-31",
       "overview": "夏威夷的四个王国因战争分裂，勇猛的战士卡艾阿纳肩负起统一人民的宏大使命，还要迎战逼近海岸的生存威胁。",
       "poster_url": "https://image.tmdb.org/t/p/original/rJPZ2g0Th7EfpmDkXV8S4390cdI.jpg",
@@ -338,7 +338,7 @@
       "title": "爱在牛津的一年",
       "type": "movie",
       "genreTitle": "爱情•喜剧•剧情",
-      "rating": 7.5,
+      "rating": 7.6,
       "release_date": "2025-07-31",
       "overview": "当罗德奖学金的橄榄枝将Ella Durran送往牛津，她以为自己终将置身于羊皮纸与烛光构筑的学术圣殿。然而，一场政治新星的总统竞选邀约，将这位理想主义者的罗德之梦撕裂成两种轨迹——一边是牛津图书馆里闪耀的哲学星光，一边是政治办公室里燃烧的野心火焰。当她与本地青年Jamie Davenport的激情从牛津的初雪蔓延至泰晤士河畔的暮色时，一场更致命的诱惑悄然浮现：他袖口藏着的，是足以颠覆她人生选择的秘密。在毕业钟声回荡的石板路上，Ella必须抉择——是让政治的权杖刺穿爱情的玫瑰，还是任由牛津的月光将未竟的理想刻入永恒。",
       "poster_url": "https://image.tmdb.org/t/p/original/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
@@ -356,17 +356,6 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/zABNaGRml0V1QP4fRNqpXzmN4p4.jpg"
     },
     {
-      "id": 552524,
-      "title": "星际宝贝史迪奇",
-      "type": "movie",
-      "genreTitle": "家庭•科幻•喜剧",
-      "rating": 7.3,
-      "release_date": "2025-05-17",
-      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
-      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
-    },
-    {
       "id": 1087192,
       "title": "新·驯龙高手",
       "type": "movie",
@@ -378,15 +367,15 @@
       "title_backdrop": "https://image.tmdb.org/t/p/original/9E0C4FVsGfQzeuQA7wMxYKwhxVv.jpg"
     },
     {
-      "id": 259909,
-      "title": "嗜血法医：杀魔复生",
-      "type": "tv",
-      "genreTitle": "犯罪•剧情",
-      "rating": 9.1,
-      "release_date": "2025-07-13",
-      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
-      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
-      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+      "id": 552524,
+      "title": "星际宝贝史迪奇",
+      "type": "movie",
+      "genreTitle": "家庭•科幻•喜剧",
+      "rating": 7.3,
+      "release_date": "2025-05-17",
+      "overview": "来自外星的“实验品626”史迪奇（克里斯·桑德斯 配音）在一场太空追捕中意外降落在夏威夷海岛，与小女孩莉萝（玛雅·凯洛哈 饰）相遇，为了躲避追捕，史迪奇伪装成小狗进入了莉萝的生活，发生了一段极其风趣又不失感人的故事。",
+      "poster_url": "https://image.tmdb.org/t/p/original/dpEWJUvwpYAX1YFvoyzOfsikIGq.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/9qqYLAHCpA4gLUl7Irhm2SBZr5X.jpg"
     },
     {
       "id": 842924,
@@ -398,6 +387,17 @@
       "overview": "　　影片根据史蒂芬·金的同名短片小说改编，以三幕倒叙的方式，讲述查尔斯·克兰兹的一生，以他39岁因脑瘤去世为开端，以他在闹鬼的房子里度过的童年时光为结尾。",
       "poster_url": "https://image.tmdb.org/t/p/original/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
       "title_backdrop": "https://image.tmdb.org/t/p/original/zHbH1WyTbJhp59H0dvrZFneEztm.jpg"
+    },
+    {
+      "id": 259909,
+      "title": "嗜血法医：杀魔复生",
+      "type": "tv",
+      "genreTitle": "犯罪•剧情",
+      "rating": 9.1,
+      "release_date": "2025-07-13",
+      "overview": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+      "poster_url": "https://image.tmdb.org/t/p/original/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "title_backdrop": "https://image.tmdb.org/t/p/original/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
     },
     {
       "id": 2190,
