@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "Jable",
   description: "获取 Jable 视频",
   author: "nibiru",
-  site: "https://github.com/quantumultxx",
+  site: "https://github.com/quantumultxx/ForwardWidgets",
   version: "1.0.0",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
